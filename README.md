@@ -592,17 +592,6 @@ Suggested resume bullet:
 
 ---
 
-## 🧭 Roadmap
-
-- Add sample video preview
-- Add generated thumbnail gallery
-- Add analytics dashboard
-- Add topic performance report
-- Add architecture PNG export
-- Add LinkedIn demo post template
-
----
-
 ## 📄 License
 
 This project is intended as a personal pet project and portfolio showcase. Add a license file such as MIT if you plan to make the repository public.
