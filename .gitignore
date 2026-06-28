@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Build artifacts (regenerated each run; history is committed, these are not)
+build/*
+!build/.gitkeep
+
+# Node / Remotion
+node_modules/
+remotion/out/
+
+# Secrets
+client_secret*.json
+*.env
+.env
+auth/token*.json

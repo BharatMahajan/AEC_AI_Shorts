@@ -1,0 +1,23 @@
+{
+  "name": "aec-ai-shorts-remotion",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Remotion renderer for AEC AI Shorts (1080x1920 vertical)",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "bundle": "remotion bundle",
+    "studio": "remotion studio",
+    "render": "remotion render Short out/video.mp4"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.484",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "4.0.484",
+    "zod": "4.3.6"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.0",
+    "typescript": "^5.4.0"
+  }
+}

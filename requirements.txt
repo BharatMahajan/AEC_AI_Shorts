@@ -1,0 +1,12 @@
+# Runtime dependencies (free tools only).
+# Pinned loosely; lock in CI as needed.
+edge-tts>=6.1.0           # L3 — free Microsoft neural TTS (US female voices)
+mutagen>=1.47.0           # L3 — true MP3 duration (source of truth for video length)
+google-generativeai>=0.7.0  # L2 — free Gemini API (writer + optional judge)
+google-api-python-client>=2.0.0  # Publish — YouTube Data API v3
+google-auth>=2.0.0
+google-auth-oauthlib>=1.0.0
+google-auth-httplib2>=0.2.0
+Pillow>=10.0.0            # thumbnail.py (best-effort)
+requests>=2.31.0         # fetch_news.py, notify.py (Slack webhook)
+feedparser>=6.0.0        # fetch_news.py (AEC RSS grounding)
