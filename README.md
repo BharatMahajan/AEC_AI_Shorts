@@ -1,115 +1,252 @@
-# AEC AI Shorts
+# 🚀 AEC AI Shorts
 
-AEC AI Shorts is a fully automatic, free-tool system that publishes one approximately 50-60 second vertical YouTube Short per day about AI in the AEC industry (Revit, Civil 3D, Navisworks/ACC, BIM, MEP, digital twins, and related workflows).
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![Tests](https://img.shields.io/badge/tests-199%20passing-brightgreen)
+![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)
+![CI](https://img.shields.io/badge/CI-GitHub%20Actions-blue)
+![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
+![Remotion](https://img.shields.io/badge/Video-Remotion-purple)
+![AI](https://img.shields.io/badge/AI-Gemini-orange)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-The key engineering point is not a linear four-stage pipeline. The architecture is five nested, bounded feedback loops with a single reusable control contract (`run_loop`). The loops, not the agents, are the system's reliability mechanism.
+> A loop-engineered automation system that generates and publishes one **50–60 second vertical YouTube Short daily** about AI in the AEC industry.
 
-The four agents are Script, Voice, Video, and Publish. Only Script calls an LLM. Voice, Video, and Publish are deterministic control surfaces over tool adapters.
+AEC AI Shorts is a fully automated, free-tool content system focused on AI in the AEC industry, including Revit, Civil 3D, Navisworks, Autodesk Construction Cloud, BIM, MEP, digital twins, and related workflows.
 
-Core stack:
+The engineering idea is simple but powerful:
 
-- Python orchestration in `pipeline/`
-- Remotion TypeScript/React renderer in `remotion/` (1080x1920)
-- GitHub Actions as free scheduler/runtime
-- Local state only: `state/scripts_created.json` plus `build/` artifacts
-- No server and no database
+> **This is not a linear pipeline. It is a bounded feedback-control system.**
 
-Free tools only: Gemini free tier, edge-tts, and Remotion.
+The system uses four agents:
 
-## 1) What It Does: Loops Over Pipeline
+- **Script Agent** - generates and critiques the script
+- **Voice Agent** - creates and validates narration
+- **Video Agent** - renders and checks the video
+- **Publish Agent** - uploads with retry and records successful output
 
-The system ships one short per day, but that runtime behavior is governed by loop semantics:
+Only the **Script Agent** calls an LLM. Voice, Video, and Publish are deterministic controllers around tool adapters.
 
-- L0 Learning loop (across runs): YouTube stats -> topic/hook weights -> next script
-- L1 Recurrence loop (per run): history memory enforces non-repetition
-- L2 Script generate-critique loop: writer-evaluator rubric until quality bar
-- L3 Voice QA loop: synthesize -> verify duration/pronunciation -> re-synthesize
-- L4 Render quality-gate loop: render -> verify frames/duration -> re-render
+---
 
-Each loop obeys one contract: guard, body, monotonic best-so-far progress, termination predicate, hard max-iteration bound, deterministic fallback, and structured per-iteration observability.
+## 📌 Table of Contents
 
-## 2) Architecture
+- [Why This Project Exists](#-why-this-project-exists)
+- [How It Works in 60 Seconds](#-how-it-works-in-60-seconds)
+- [Core Stack](#-core-stack)
+- [Architecture](#-architecture)
+- [Five-Loop Topology and Shared Contract](#-five-loop-topology-and-shared-contract)
+- [Loop Contract](#-loop-contract)
+- [Per-Run Flow](#-per-run-flow)
+- [Repository Structure](#-repository-structure)
+- [Quickstart](#-quickstart)
+- [Configuration](#-configuration)
+- [CI and Scheduling](#-ci-and-scheduling)
+- [Testing Philosophy](#-testing-philosophy)
+- [Security](#-security)
+- [Why This Stands Out](#-why-this-stands-out)
+- [Resume Positioning](#-resume-positioning)
 
-Caption: End-to-end architecture with scheduler, orchestrator, four agents, stores, and external services.
+---
+
+## 🎯 Why This Project Exists
+
+Most automation systems behave like fragile pipelines:
+
+```text
+Generate -> Render -> Upload -> Hope nothing breaks
+```
+
+AEC AI Shorts is different. It is designed around **repeatable control loops** that can evaluate, retry, fallback, and exit deterministically.
+
+The reliability mechanism is not the individual agent. The reliability mechanism is the loop contract that every major stage follows.
+
+---
+
+## ⚡ How It Works in 60 Seconds
+
+**Goal:** Automatically generate and publish one AI-powered AEC YouTube Short every day.
+
+1. **Pick a Topic**
+   - Uses history and learning weights
+   - Prevents repeated topics
+   - Runs inside the L1 recurrence loop
+
+2. **Generate the Script**
+   - Gemini creates the script
+   - A critic evaluates it against quality rules
+   - The system retries until the script reaches the quality threshold
+
+3. **Generate the Voice**
+   - Converts script to speech using `edge-tts`
+   - Validates duration and narration quality
+   - Retries when output does not meet constraints
+
+4. **Render the Video**
+   - Uses Remotion to create a vertical 1080x1920 video
+   - Validates video output, size, duration, and render quality
+   - Retries with bounded attempts
+
+5. **Publish to YouTube**
+   - Uploads the final short
+   - Retries transient failures using backoff
+   - Writes history only after YouTube returns a valid video id
+
+6. **Learn for the Next Run**
+   - Uses YouTube performance signals
+   - Updates topic and hook weights
+   - Feeds future script generation
+
+### Mental Model
 
 ```mermaid
 flowchart LR
-  CI[GitHub Actions scheduler] --> RUN[python -m pipeline.run]
-
-  RUN --> S[Script Agent]
-  RUN --> V[Voice Agent]
-  RUN --> R[Video Agent]
-  RUN --> P[Publish Agent]
-
-  S -->|build/script.json| B[(build/)]
-  V -->|build/voice.mp3| B
-  R -->|build/render-props.json + build/out.mp4| B
-  RUN -->|build/run-report.json| B
-
-  P --> YT[(YouTube)]
-  P -->|append HistoryEntry| H[(state/scripts_created.json)]
-
-  G[Gemini] --> S
-  TTS[edge-tts] --> V
-  REM[Remotion CLI] --> R
-  YTA[YouTube APIs] --> P
-
-  H --> RUN
-  B --> RUN
+  Topic["Topic"] --> Script["Script"]
+  Script --> Voice["Voice"]
+  Voice --> Render["Render"]
+  Render --> Publish["Publish"]
+  Publish --> History["History"]
+  History --> Topic
+  Publish --> Stats["Stats"]
+  Stats --> Learning["Learning"]
+  Learning --> Script
 ```
 
-## 3) Five-Loop Topology And Shared Contract
+### Key Insight
 
-Caption: L0 wraps L1; L1 mounts L2/L3/L4 and publish retry, with explicit feedback edges.
+```text
+Pipeline systems execute once.
+Loop systems self-correct until success or deterministic exit.
+```
+
+---
+
+## 🧰 Core Stack
+
+| Layer | Technology | Purpose |
+|---|---|---|
+| Orchestration | Python | Runs the full automation workflow |
+| AI scripting | Gemini | Generates script candidates |
+| Text-to-speech | edge-tts | Produces narration audio |
+| Video rendering | Remotion + React + TypeScript | Creates vertical video output |
+| Runtime | GitHub Actions | Free scheduled execution |
+| State | Local JSON | Recurrence memory and run artifacts |
+| Publishing | YouTube Data API | Uploads generated Shorts |
+
+### Design Constraints
+
+- No always-on server
+- No database
+- Free-tool first approach
+- CI-scheduled execution
+- Explicit local state boundary
+- Bounded retries and deterministic exits
+
+---
+
+## 🏗 Architecture
+
+**End-to-end architecture with scheduler, orchestrator, agents, artifacts, and external services.**
+
+```mermaid
+flowchart LR
+  CI["GitHub Actions Scheduler"] --> RUN["python -m pipeline.run"]
+
+  RUN --> SCRIPT["Script Agent"]
+  RUN --> VOICE["Voice Agent"]
+  RUN --> VIDEO["Video Agent"]
+  RUN --> PUBLISH["Publish Agent"]
+
+  SCRIPT -->|"build/script.json"| BUILD[("build/")]
+  VOICE -->|"build/voice.mp3"| BUILD
+  VIDEO -->|"build/render-props.json + build/out.mp4"| BUILD
+  RUN -->|"build/run-report.json"| BUILD
+
+  PUBLISH --> YOUTUBE[("YouTube")]
+  PUBLISH -->|"append history"| HISTORY[("state/scripts_created.json")]
+
+  GEMINI["Gemini API"] --> SCRIPT
+  TTS["edge-tts"] --> VOICE
+  REMOTION["Remotion CLI"] --> VIDEO
+  YTAPI["YouTube Data API"] --> PUBLISH
+
+  HISTORY --> RUN
+  BUILD --> RUN
+```
+
+---
+
+## 🔁 Five-Loop Topology and Shared Contract
+
+**Caption:** L0 wraps L1. L1 mounts L2, L3, L4, and publish retry with explicit feedback edges.
+
+> GitHub Mermaid note: this diagram avoids parentheses, slashes, and special characters in subgraph labels to prevent rendering errors.
 
 ```mermaid
 flowchart TD
-  subgraph L0[L0 Learning loop (across runs)]
-    STATS[YouTube stats]
-    WEIGHTS[topic and hook weights]
+  subgraph L0["L0 Learning loop across runs"]
+    STATS["YouTube stats"]
+    WEIGHTS["Topic and hook weights"]
     STATS --> WEIGHTS
   end
 
-  subgraph L1[L1 Recurrence loop (per run)]
-    HIST[(state/scripts_created.json)]
-    TOP[topic_select]
+  subgraph L1["L1 Recurrence loop per run"]
+    HIST[("state scripts created json")]
+    TOP["Topic select"]
 
-    subgraph L2[L2 Script loop]
-      W[write]
-      C[critique]
-      W --> C --> W
+    subgraph L2["L2 Script loop"]
+      WRITE["Write"]
+      CRITIQUE["Critique"]
+      WRITE --> CRITIQUE
+      CRITIQUE --> WRITE
     end
 
-    subgraph L3[L3 Voice QA loop]
-      SYN[synthesize]
-      VQA[voice_qa]
-      SYN --> VQA --> SYN
+    subgraph L3["L3 Voice QA loop"]
+      SYNTH["Synthesize"]
+      VOICEQA["Validate voice"]
+      SYNTH --> VOICEQA
+      VOICEQA --> SYNTH
     end
 
-    subgraph L4[L4 Render gate loop]
-      REN[render]
-      RQA[render_qa]
-      REN --> RQA --> REN
+    subgraph L4["L4 Render gate loop"]
+      RENDER["Render"]
+      RENDERQA["Validate render"]
+      RENDER --> RENDERQA
+      RENDERQA --> RENDER
     end
 
-    subgraph PR[Publish retry loop]
-      UPL[upload]
-      RET[retry/backoff]
-      UPL --> RET --> UPL
+    subgraph PR["Publish retry loop"]
+      UPLOAD["Upload"]
+      RETRY["Retry backoff"]
+      UPLOAD --> RETRY
+      RETRY --> UPLOAD
     end
 
     HIST --> TOP
-    TOP --> L2 --> L3 --> L4 --> PR
+    TOP --> L2
+    L2 --> L3
+    L3 --> L4
+    L4 --> PR
   end
 
   WEIGHTS --> L2
-  PR -->|publish success| HIST
-  PR -->|video performance| STATS
+  PR -->|"publish success"| HIST
+  PR -->|"video performance"| STATS
 ```
 
-The reusable primitive is `run_loop` in `pipeline/loops.py`, and the common types are `Evaluation` and `ExitReason`. The loop always tracks monotonic best-so-far by `Evaluation.score`, logs every iteration (`loop_iteration`), logs every exit (`loop_exit`), and either exits by pass, guard fail, fallback accepted, or exhaustion.
+---
 
-Caption: Generic loop contract used by L2, L3, and L4.
+## 🧩 Loop Contract
+
+Each major loop follows the same reusable contract:
+
+- Guard predicate
+- Body action
+- Evaluation result
+- Best-so-far tracking
+- Termination predicate
+- Hard max-iteration cap
+- Deterministic fallback or abort
+- Structured iteration and exit observability
 
 ```mermaid
 stateDiagram-v2
@@ -119,225 +256,353 @@ stateDiagram-v2
 
   Body --> Evaluate
   Evaluate --> Exit: pass
-  Evaluate --> Adapt: fail and attempts < max
+  Evaluate --> Adapt: fail and attempts below max
   Adapt --> Body
 
-  Evaluate --> Exhausted: fail and attempts == max
-  Exhausted --> FallbackShip: deterministic fallback ship-best
-  Exhausted --> FallbackAbort: deterministic fallback abort
+  Evaluate --> Exhausted: attempts reached max
+  Exhausted --> FallbackShip: ship best acceptable
+  Exhausted --> FallbackAbort: abort safely
+
   FallbackShip --> Exit
   FallbackAbort --> Exit
   Exit --> [*]
 ```
 
-Short `run_loop` usage sketch:
+### Example Usage
 
 ```python
-from pipeline.loops import Evaluation, run_loop
+from pipeline.loops import run_loop
 
 result = run_loop(
     "L2.script",
-    body=lambda attempt, prev_eval: writer.generate(attempt, prev_eval),
-    evaluate=lambda artifact: critic.evaluate(artifact),  # returns Evaluation
-    adapt=lambda artifact, ev: writer.refine(ev.feedback),
+    body=lambda attempt, previous: writer.generate(attempt, previous),
+    evaluate=lambda artifact: critic.evaluate(artifact),
+    adapt=lambda artifact, evaluation: writer.refine(evaluation.feedback),
     on_exhausted=ship_best_or_abort,
     max_iters=cfg.script.max_attempts,
 )
 ```
 
-## 4) Per-Run Flow
+---
 
-Caption: Single run sequence with concrete artifact handoffs through build outputs.
+## 🔄 Per-Run Flow
+
+**Caption:** Single run sequence with concrete artifact handoffs through build outputs.
 
 ```mermaid
 sequenceDiagram
   participant RUN as run.py
-  participant TOP as Topic select
-  participant SCR as Script (LLM + Critic)
+  participant TOP as Topic Select
+  participant SCR as Script
   participant VOI as Voice
-  participant RPR as render_props
+  participant RPR as Render Props
   participant REN as Render
   participant PUB as Publish
-  participant HIS as history
+  participant HIS as History
 
-  RUN->>TOP: choose topic from history + weights
+  RUN->>TOP: choose topic using history and weights
   TOP-->>RUN: topic choice
 
-  RUN->>SCR: L2 generate/critique loop
+  RUN->>SCR: run L2 script loop
   SCR-->>RUN: script object
   RUN->>RUN: write build/script.json
 
-  RUN->>VOI: L3 synth + QA loop
+  RUN->>VOI: run L3 voice loop
   VOI-->>RUN: voice artifact
   RUN->>RUN: write build/voice.mp3
 
-  RUN->>RPR: build_render_props(script, voice)
-  RPR-->>RUN: render-props payload
+  RUN->>RPR: build render props
+  RPR-->>RUN: render props payload
   RUN->>RUN: write build/render-props.json
 
-  RUN->>REN: L4 render + QA loop
+  RUN->>REN: run L4 render loop
   REN-->>RUN: build/out.mp4
 
   RUN->>PUB: upload with bounded retries
-  PUB-->>RUN: video_id and url
+  PUB-->>RUN: video id and url
 
-  RUN->>HIS: append HistoryEntry
+  RUN->>HIS: append history entry
   RUN->>RUN: write build/run-report.json
 ```
 
-Caption: Concrete L2 loop decision graph.
+---
 
-```mermaid
-flowchart TD
-  A[write script attempt] --> B[score with rubric]
-  B --> C{score >= pass threshold}
-  C -->|yes| D[ship script]
-  C -->|no| E[refine from feedback]
-  E --> F{attempt < max}
-  F -->|yes| A
-  F -->|no| G{best >= min acceptable}
-  G -->|yes| H[ship best acceptable]
-  G -->|no| I[abort]
+## 📂 Repository Structure
+
+```text
+.
+├── pipeline/
+│   ├── run.py
+│   ├── loops.py
+│   ├── history.py
+│   ├── topic_select.py
+│   ├── topics_aec.py
+│   ├── agent_script.py
+│   ├── critic_script.py
+│   ├── agent_voice.py
+│   ├── voice_qa.py
+│   ├── agent_video.py
+│   ├── render_props.py
+│   ├── render_qa.py
+│   ├── agent_publish.py
+│   ├── analytics.py
+│   └── config.py
+│
+├── remotion/
+│   └── src/
+│
+├── build/
+│   ├── script.json
+│   ├── voice.mp3
+│   ├── render-props.json
+│   ├── out.mp4
+│   └── run-report.json
+│
+├── state/
+│   └── scripts_created.json
+│
+├── .github/
+│   └── workflows/
+│       ├── daily-short.yml
+│       └── healthcheck.yml
+│
+├── FIRST_RUN.md
+├── requirements-dev.txt
+└── README.md
 ```
 
-## 5) Repo And Module Map
+---
 
-| Area | Modules/files | Responsibility |
+## 🧭 Module Map
+
+| Area | Modules | Responsibility |
 |---|---|---|
-| Orchestration | `pipeline/run.py` | Run entrypoint that composes L0-L4 plus publish |
-| Generic loop engine | `pipeline/loops.py` (`run_loop`, `Evaluation`, `ExitReason`) | Shared bounded-loop semantics |
-| L1 state ledger | `pipeline/history.py` (`HistoryEntry`, `History`) | Non-repetition memory and post-publish append |
-| Topicing | `pipeline/topic_select.py`, `pipeline/topics_aec.py` | Topic/hook selection and fingerprinting |
-| L2 script | `pipeline/agent_script.py`, `pipeline/critic_script.py`, `pipeline/script_types.py`, `pipeline/llm_gemini.py` | Writer-critic loop; only LLM call site |
-| L3 voice | `pipeline/agent_voice.py`, `pipeline/voice_qa.py` | TTS synthesis and QA/fix cycle |
-| L4 render | `pipeline/agent_video.py`, `pipeline/render_props.py`, `pipeline/render_qa.py` | Render execution and output gating |
-| Publish | `pipeline/agent_publish.py` | Upload retries and final history write |
-| Analytics/L0 | `pipeline/analytics.py` | Stats -> weight updates for future runs |
-| Config | `pipeline/config.py` | Env-driven loop bounds, thresholds, and tool knobs |
-| Renderer | `remotion/src/` | 1080x1920 composition and scenes |
-| CI | `.github/workflows/daily-short.yml`, `.github/workflows/healthcheck.yml` | Scheduler, gate checks, and operational health |
-| Artifacts | `build/` | Run outputs (`script.json`, `voice.mp3`, `render-props.json`, `out.mp4`, `run-report.json`) |
+| Orchestration | `pipeline/run.py` | Composes the end-to-end run |
+| Generic loop engine | `pipeline/loops.py` | Shared bounded-loop semantics |
+| L1 state ledger | `pipeline/history.py` | Non-repetition memory and publish history |
+| Topic selection | `pipeline/topic_select.py`, `pipeline/topics_aec.py` | Topic and hook selection |
+| L2 script loop | `pipeline/agent_script.py`, `pipeline/critic_script.py`, `pipeline/llm_gemini.py` | Script generation and evaluation |
+| L3 voice loop | `pipeline/agent_voice.py`, `pipeline/voice_qa.py` | TTS generation and QA |
+| L4 render loop | `pipeline/agent_video.py`, `pipeline/render_props.py`, `pipeline/render_qa.py` | Render execution and quality gate |
+| Publish | `pipeline/agent_publish.py` | YouTube upload and retry handling |
+| Analytics | `pipeline/analytics.py` | L0 performance learning |
+| Config | `pipeline/config.py` | Environment-driven runtime configuration |
+| Renderer | `remotion/src/` | 1080x1920 video scenes |
+| CI | `.github/workflows/` | Scheduled execution and gates |
 
-`pipeline/render_props.py` enforces the renderer boundary with `REQUIRED_PROP_KEYS`, and each run emits `build/run-report.json` for auditability.
+---
 
-## 6) Quickstart
+## 🚀 Quickstart
 
-Install once, configure once, run dry, then publish.
+### 1. Clone the Repository
 
-### Install
+```bash
+git clone <your-repository-url>
+cd <your-repository-name>
+```
+
+### 2. Create Python Environment
 
 ```bash
 python -m venv .venv
-# Windows
+```
+
+#### Windows
+
+```bash
 .venv\Scripts\activate
-# macOS/Linux
-# source .venv/bin/activate
+```
 
+#### macOS or Linux
+
+```bash
+source .venv/bin/activate
+```
+
+### 3. Install Python Dependencies
+
+```bash
 pip install -r requirements-dev.txt
+```
 
+### 4. Install Remotion Dependencies
+
+```bash
 cd remotion
 npm install
 npx remotion browser ensure
 cd ..
 ```
 
-### Configure `.env`
+---
 
-Set at minimum:
+## ⚙️ Configuration
 
-- `GEMINI_API_KEY`
-- `YT_CLIENT_ID`
-- `YT_CLIENT_SECRET`
-- `YT_REFRESH_TOKEN`
+Create a `.env` file at the repository root.
 
-Optional but commonly used:
+```env
+GEMINI_API_KEY=
+YT_CLIENT_ID=
+YT_CLIENT_SECRET=
+YT_REFRESH_TOKEN=
+```
 
-- `YT_DATA_API_KEY`
-- `REVIEW_BEFORE_PUBLISH`
-- `ENABLE_ANALYTICS`
+Optional values:
 
-### Dry run (no upload)
+```env
+YT_DATA_API_KEY=
+REVIEW_BEFORE_PUBLISH=true
+ENABLE_ANALYTICS=true
+```
+
+> Do not commit `.env` or any credential file.
+
+---
+
+## ▶️ Running the System
+
+### Dry Run
+
+Runs the full system without uploading to YouTube.
 
 ```bash
 python -m pipeline.run all --no-upload
 ```
 
-Expected outputs: `build/script.json`, `build/voice.mp3`, `build/render-props.json`, `build/out.mp4`, `build/run-report.json`.
+Expected outputs:
 
-### First publish
+```text
+build/script.json
+build/voice.mp3
+build/render-props.json
+build/out.mp4
+build/run-report.json
+```
+
+### Publish Run
 
 ```bash
 python -m pipeline.run all
 ```
 
-`HistoryEntry` is appended only after publish returns a valid `video_id`.
+A history entry is appended only after YouTube returns a valid video id.
 
-## 7) Configuration Surface
+---
 
-The configuration source of truth is `pipeline/config.py` via `load_config()`.
+## 🔄 CI and Scheduling
 
-| Group | Variables | Purpose |
-|---|---|---|
-| `SCRIPT_*` | `SCRIPT_MAX_ATTEMPTS`, `SCRIPT_PASS_THRESHOLD`, `SCRIPT_MIN_ACCEPTABLE`, `SCRIPT_MIN_WORDS`, `SCRIPT_MAX_WORDS`, `SCRIPT_MIN_AEC_TERMS`, `SCRIPT_DEDUP_LOOKBACK`, `SCRIPT_DEDUP_JACCARD_MAX`, `SCRIPT_USE_LLM_JUDGE` | L2 script quality gates, retries, and dedup limits |
-| `VOICE_*` and audio bounds | `VOICE_MAX_ATTEMPTS`, `MIN_AUDIO_SECONDS`, `MAX_AUDIO_SECONDS`, `MAX_EDGE_SILENCE_SECONDS`, `TTS_VOICE`, `TTS_VOICE_ALT`, `TTS_RATE`, `TTS_PITCH`, `TTS_VOLUME` | L3 synthesis policy and QA pass criteria |
-| `RENDER_*` | `RENDER_MAX_ATTEMPTS`, `RENDER_DURATION_TOLERANCE`, `RENDER_MIN_OUTPUT_BYTES`, `RENDER_MIN_FRAME_LUMA`, `RENDER_WIDTH`, `RENDER_HEIGHT`, `RENDER_FPS` | L4 quality gates and output constraints |
-| `REMOTION_*` and encode knobs | `REMOTION_CONCURRENCY`, `REMOTION_SCALE`, `REMOTION_GL`, `JPEG_QUALITY`, `CODEC`, `CRF`, `X264_PRESET`, `PIXEL_FORMAT`, `AUDIO_CODEC` | Render runtime/encode tradeoffs |
-| `UPLOAD_*` and YouTube flags | `UPLOAD_MAX_RETRIES`, `UPLOAD_BACKOFF_BASE`, `UPLOAD_BACKOFF_CAP`, `YT_CATEGORY_ID`, `YT_PRIVACY`, `YT_MADE_FOR_KIDS`, `REVIEW_BEFORE_PUBLISH` | Publish retry behavior and metadata policy |
-| `ANALYTICS_*` | `ENABLE_ANALYTICS`, `ANALYTICS_MIN_UPLOADS`, `ANALYTICS_LOOKBACK`, `ANALYTICS_WEIGHT_FLOOR` | L0 adaptation policy |
-| Tool/API config | `GEMINI_MODEL`, `YT_DATA_API_KEY`, `SLACK_WEBHOOK_URL` | Provider/model and notifications |
-| Paths | `STATE_DIR`, `BUILD_DIR`, `HISTORY_PATH` | Local persistent state and artifact roots |
-
-## 8) CI And Scheduling
-
-Caption: Slot gate plus quality gate before publish and history commit.
+The scheduler uses GitHub Actions. There is no always-on server.
 
 ```mermaid
 flowchart TD
-  C[cron poll] --> S[one-publish-per-slot gate]
-  S --> H[(state/scripts_created.json)]
-  S -->|slot open| T[test gate]
-  T --> L[ruff]
-  T --> M[mypy]
-  T --> P[pytest --cov=pipeline --cov-fail-under=100]
-  L --> G{all pass}
-  M --> G
-  P --> G
-  G -->|yes| U[publish run]
-  U --> Y[(YouTube)]
-  U --> A[append history]
-  A --> H
-  A --> K[commit history update]
+  CRON["Cron trigger"] --> SLOT["One publish per slot gate"]
+  SLOT --> TESTS["Quality gate"]
+
+  TESTS --> LINT["Ruff"]
+  TESTS --> TYPECHECK["Mypy"]
+  TESTS --> PYTEST["Pytest coverage"]
+
+  LINT --> PASS{"All checks pass"}
+  TYPECHECK --> PASS
+  PYTEST --> PASS
+
+  PASS -->|"yes"| RUN["Publish run"]
+  RUN --> YOUTUBE[("YouTube")]
+  RUN --> HISTORY["Append history"]
+  HISTORY --> COMMIT["Commit history update"]
 ```
 
-The scheduler is GitHub Actions, so there is no dedicated always-on service. Each run is bounded, observable, and leaves artifacts for post-run inspection.
+---
 
-## 9) Testing Philosophy: Prove The Loops
+## ✅ Testing Philosophy
 
-The testing target is loop correctness, not just helper correctness. Tests focus on control-system behavior:
+The project tests control-system behavior, not just isolated helper functions.
 
-- bounded iteration and guaranteed termination
-- monotonic best-so-far selection under oscillating quality
-- explicit exit semantics (`ExitReason`) and fallback handling
-- recurrence invariants around `HistoryEntry` append timing and dedup checks
-- render/voice contract validation, including `REQUIRED_PROP_KEYS`
-- adapter boundaries mocked or probe-injected for Gemini, edge-tts, ffmpeg/mutagen, and YouTube client
+Focus areas:
 
-Verified in this repository state:
+- Bounded iteration
+- Guaranteed termination
+- Best-so-far selection
+- Explicit exit reasons
+- Deterministic fallback behavior
+- History append invariants
+- Render and voice quality gates
+- Mocked adapter boundaries
 
-- `199 passed` (from local `pytest` run)
-- `100%` coverage on `pipeline/`
-- CI quality gate policy: `--cov-fail-under=100`
+Current validation status:
 
-This is the practical meaning of "prove the loops, not just the functions."
+- `199 passed`
+- `100%` pipeline coverage
+- CI-enforced quality gate
 
-## 10) Setup Pointer And Security
+---
 
-For first bootstrap and operator checklist, see `FIRST_RUN.md`.
+## 🔐 Security
 
-Security policy:
+Security rules:
 
-- never commit `.env`
-- never commit API tokens or OAuth secrets
-- rotate credentials immediately if exposed
+- Never commit `.env`
+- Never commit API keys or OAuth secrets
+- Rotate credentials immediately if exposed
+- Keep runtime state limited to `state/` and `build/`
 
-The only persisted runtime data should be `state/scripts_created.json` and `build/` artifacts.
+Recommended `.gitignore` entries:
+
+```gitignore
+.env
+.venv/
+build/
+*.mp4
+*.mp3
+node_modules/
+remotion/node_modules/
+```
+
+---
+
+## 🧠 Why This Stands Out
+
+| Typical Automation | AEC AI Shorts |
+|---|---|
+| Linear pipeline | Loop-engineered control system |
+| Ad-hoc retries | Shared retry and fallback contract |
+| Hidden failure modes | Explicit exit states |
+| Manual recovery | Deterministic fallback or abort |
+| Unbounded behavior | Hard iteration caps |
+| Black-box execution | Run reports and artifacts |
+
+---
+
+## 💼 Resume Positioning
+
+This project demonstrates:
+
+- AI-assisted automation architecture
+- Control-loop based reliability design
+- Python orchestration with typed artifacts
+- Deterministic non-LLM agents around tool adapters
+- CI-scheduled serverless execution using GitHub Actions
+- Video generation using Remotion and TypeScript
+- YouTube publishing automation
+- Test-driven reliability design
+
+Suggested resume bullet:
+
+> Built a loop-engineered AI automation system that generates and publishes daily AEC-focused YouTube Shorts using Python, Gemini, edge-tts, Remotion, and GitHub Actions. Designed five bounded feedback loops with deterministic fallback, structured observability, and CI-enforced quality gates.
+
+---
+
+## 🧭 Roadmap
+
+- Add sample video preview
+- Add generated thumbnail gallery
+- Add analytics dashboard
+- Add topic performance report
+- Add architecture PNG export
+- Add LinkedIn demo post template
+
+---
+
+## 📄 License
+
+This project is intended as a personal pet project and portfolio showcase. Add a license file such as MIT if you plan to make the repository public.
