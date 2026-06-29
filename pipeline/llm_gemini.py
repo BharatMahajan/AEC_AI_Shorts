@@ -1,13 +1,14 @@
 """llm_gemini.py — concrete free-Gemini adapters for the L2 writer and judge.
 
 These implement the ``LLMClient`` and ``LLMJudge`` protocols used by
-``agent_script`` / ``critic_script``. The ``google.generativeai`` import is
+``agent_script`` / ``critic_script``. The ``google.genai`` import is
 deferred to construction time so the rest of the pipeline (and the whole test
 suite) imports and runs without the dependency or an API key. Network calls are
 wrapped in the bounded retry decorator (plan §2 bounded network loop).
 """
 from __future__ import annotations
 
+import importlib
 import json
 from typing import Optional
 
@@ -23,21 +24,21 @@ class GeminiClient:
         if not api_key:
             raise ConfigError("GEMINI_API_KEY is required for GeminiClient")
         try:
-            import google.generativeai as genai  # deferred import
+            genai = importlib.import_module("google.genai")  # deferred import
         except ImportError as exc:  # pragma: no cover - exercised only with dep absent
             raise ConfigError(
-                "google-generativeai is not installed; `pip install google-generativeai`"
+                "google-genai is not installed; `pip install google-genai`"
             ) from exc
-        genai.configure(api_key=api_key)
-        self._model = genai.GenerativeModel(model)
+        self._client = genai.Client(api_key=api_key)
+        self._model_name = model
 
     @retry(max_attempts=3, retry_on=(RetryableError,))
     def generate(self, prompt: str) -> str:
         try:
-            resp = self._model.generate_content(prompt)
+            resp = self._client.models.generate_content(model=self._model_name, contents=prompt)
         except Exception as exc:  # transient API/network error -> bounded retry
             raise RetryableError(str(exc)) from exc
-        return (getattr(resp, "text", None) or "").strip()
+        return (getattr(resp, "text", None) or str(resp) or "").strip()
 
 
 class GeminiJudge:

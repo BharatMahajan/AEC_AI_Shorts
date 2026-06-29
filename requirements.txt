@@ -2,7 +2,7 @@
 # Pinned loosely; lock in CI as needed.
 edge-tts>=6.1.0           # L3 — free Microsoft neural TTS (US female voices)
 mutagen>=1.47.0           # L3 — true MP3 duration (source of truth for video length)
-google-generativeai>=0.7.0  # L2 — free Gemini API (writer + optional judge)
+google-genai>=1.0.0  # L2 — Gemini API client (writer + optional judge)
 google-api-python-client>=2.0.0  # Publish — YouTube Data API v3
 google-auth>=2.0.0
 google-auth-oauthlib>=1.0.0

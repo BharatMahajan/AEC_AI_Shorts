@@ -51,7 +51,7 @@ jobs:
           fi
         # NOTE: checkout happens in the publish job; here we read the committed
         # file via the API-less shortcut of a prior lightweight checkout:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
   # ---- Tests must pass before anything is published --------------------- #
   test:
@@ -59,8 +59,8 @@ jobs:
     if: needs.gate.outputs.should_run == 'true'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.11"
       - run: pip install -r requirements-dev.txt
@@ -74,12 +74,12 @@ jobs:
     if: needs.gate.outputs.should_run == 'true'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.11"
 

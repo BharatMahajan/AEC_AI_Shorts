@@ -22,7 +22,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Callable, Optional
 
-from .agent_publish import build_video_metadata, publish_short
+from .agent_publish import publish_short
 from .agent_script import generate_script
 from .agent_video import render_video
 from .agent_voice import synthesize_voice

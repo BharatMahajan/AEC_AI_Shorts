@@ -25,7 +25,7 @@ import re
 from typing import Optional, Protocol
 
 from .config import ScriptLoopConfig
-from .history import History, fingerprint_tokens, is_repeat, jaccard
+from .history import History, is_repeat
 from .loops import Evaluation
 from .script_types import Script
 from .topics_aec import AEC_LEXICON, BUCKETS, HOOK_STYLES

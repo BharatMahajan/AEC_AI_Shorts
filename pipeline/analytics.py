@@ -12,7 +12,7 @@ unbiased result so the pipeline always runs.
 from __future__ import annotations
 
 from dataclasses import dataclass, field
-from typing import Any, Optional, Protocol
+from typing import Optional, Protocol
 
 from .config import AnalyticsConfig
 from .history import History, HistoryEntry

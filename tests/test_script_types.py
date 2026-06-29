@@ -5,7 +5,7 @@ import json
 
 import pytest
 
-from pipeline.script_types import Script, ScriptParseError, parse_script
+from pipeline.script_types import ScriptParseError, parse_script
 
 
 def _raw(**over):

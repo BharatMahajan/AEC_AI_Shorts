@@ -14,7 +14,6 @@ from pipeline.agent_script import build_prompt, generate_script
 from pipeline.config import ScriptLoopConfig
 from pipeline.errors import ScriptGenerationError
 from pipeline.history import History, HistoryEntry
-from pipeline.script_types import parse_script
 from pipeline.topic_select import TopicChoice
 
 
@@ -29,7 +28,6 @@ TOPIC = TopicChoice(
 
 def _script_json(*, cta=True, aec=True, benefit=True, words=130) -> str:
     # Build a narration of roughly `words` words.
-    filler = "Revit and Forma use BIM generative design for clash-free corridor layouts " * 1
     lines = []
     base = (
         "Autodesk Forma runs generative design across hundreds of BIM massing options "

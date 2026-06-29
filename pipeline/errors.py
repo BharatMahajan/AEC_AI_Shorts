@@ -110,7 +110,7 @@ def retry(
                 attempt += 1
                 try:
                     return fn(*args, **kwargs)
-                except retry_on_tuple as exc:
+                except retry_on_tuple:
                     if attempt >= max_attempts:
                         raise
                     delay = min(cap, base * (2 ** (attempt - 1)))

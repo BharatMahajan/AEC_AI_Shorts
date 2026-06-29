@@ -11,7 +11,7 @@ from __future__ import annotations
 import json
 import re
 from dataclasses import asdict, dataclass, field
-from typing import Any, Optional
+from typing import Any
 
 from .topic_select import make_fingerprint
 

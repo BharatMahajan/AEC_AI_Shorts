@@ -159,7 +159,7 @@ def test_invalid_max_iters_rejected():
     with pytest.raises(ValueError):
         run_loop(
             "t.bad",
-            body=lambda a, l: a,
+            body=lambda a, last: a,
             evaluate=lambda a: _passing_eval(1.0),
             max_iters=0,
         )
@@ -170,7 +170,7 @@ def test_emits_one_log_per_iteration(caplog):
         with pytest.raises(LoopExhaustedError):
             run_loop(
                 "t.log",
-                body=lambda a, l: a,
+                body=lambda a, last: a,
                 evaluate=lambda a: _failing_eval(5.0),
                 max_iters=3,
             )

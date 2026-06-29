@@ -20,7 +20,7 @@ from typing import Callable, Optional, Protocol
 from .config import RenderLoopConfig
 from .errors import RenderError
 from .logging_setup import get_logger, log_event
-from .loops import Evaluation, ExitReason, Result, run_loop
+from .loops import Evaluation, Result, run_loop
 from .render_qa import evaluate_render, mp4_duration, sample_frame_luma
 
 

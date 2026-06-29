@@ -27,40 +27,48 @@ def test_gemini_client_import_error(monkeypatch):
     real_import = builtins.__import__
 
     def fake_import(name, *args, **kwargs):
-        if name == "google.generativeai":
+        if name == "google.genai":
             raise ImportError("missing")
         return real_import(name, *args, **kwargs)
 
     monkeypatch.setattr(builtins, "__import__", fake_import)
-    with pytest.raises(ConfigError, match="google-generativeai"):
+    with pytest.raises(ConfigError, match="google-genai"):
         GeminiClient("k")
 
 
 def test_gemini_client_generate_success(monkeypatch):
-    class FakeModel:
-        def __init__(self, _name):
-            pass
-
-        def generate_content(self, _prompt):
+    class FakeModels:
+        def generate_content(self, *, model, contents):
+            assert model == "m"
+            assert contents == "p"
             return SimpleNamespace(text="  hello  ")
 
-    fake_genai = SimpleNamespace(configure=lambda **_k: None, GenerativeModel=FakeModel)
-    monkeypatch.setitem(sys.modules, "google.generativeai", fake_genai)
+    class FakeClient:
+        def __init__(self, api_key):
+            assert api_key == "k"
+            self.models = FakeModels()
+
+    fake_genai = SimpleNamespace(Client=FakeClient)
+    monkeypatch.setitem(sys.modules, "google.genai", fake_genai)
 
     c = GeminiClient("k", model="m")
     assert c.generate("p") == "hello"
 
 
 def test_gemini_client_generate_retries_and_raises_retryable(monkeypatch):
-    class BoomModel:
-        def __init__(self, _name):
-            pass
-
-        def generate_content(self, _prompt):
+    class BoomModels:
+        def generate_content(self, *, model, contents):
+            assert model == "m"
+            assert contents == "p"
             raise RuntimeError("transient")
 
-    fake_genai = SimpleNamespace(configure=lambda **_k: None, GenerativeModel=BoomModel)
-    monkeypatch.setitem(sys.modules, "google.generativeai", fake_genai)
+    class FakeClient:
+        def __init__(self, api_key):
+            assert api_key == "k"
+            self.models = BoomModels()
+
+    fake_genai = SimpleNamespace(Client=FakeClient)
+    monkeypatch.setitem(sys.modules, "google.genai", fake_genai)
 
     c = GeminiClient("k", model="m")
     with pytest.raises(RetryableError):
