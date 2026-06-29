@@ -25,7 +25,7 @@ class GeminiClient:
             raise ConfigError("GEMINI_API_KEY is required for GeminiClient")
         try:
             genai = importlib.import_module("google.genai")  # deferred import
-        except ImportError as exc:  # pragma: no cover - exercised only with dep absent
+        except ImportError as exc:
             raise ConfigError(
                 "google-genai is not installed; `pip install google-genai`"
             ) from exc

@@ -13,6 +13,7 @@ from __future__ import annotations
 
 import os
 import shutil
+import sys
 from functools import lru_cache
 from pathlib import Path
 from typing import Callable
@@ -37,11 +38,11 @@ def _resolve_ffmpeg_binary(name: str) -> str:
 
     env_bin = os.environ.get("FFMPEG_BIN", "").strip()
     if env_bin:
-        candidate = Path(env_bin) / (f"{name}.exe" if os.name == "nt" else name)
+        candidate = Path(env_bin) / (f"{name}.exe" if sys.platform == "win32" else name)
         if candidate.exists():
             return str(candidate)
 
-    if os.name == "nt":
+    if sys.platform == "win32":
         local_app_data = os.environ.get("LOCALAPPDATA", "")
         if local_app_data:
             pkg_root = Path(local_app_data) / "Microsoft" / "WinGet" / "Packages"

@@ -163,7 +163,7 @@ def test_resolve_ffmpeg_env_candidate_missing_falls_through(monkeypatch, tmp_pat
 
 def test_resolve_ffmpeg_non_windows_skips_winget(monkeypatch):
     _resolve_ffmpeg_binary.cache_clear()
-    monkeypatch.setattr("pipeline.render_qa.os.name", "posix")
+    monkeypatch.setattr("pipeline.render_qa.sys.platform", "linux")
     monkeypatch.delenv("FFMPEG_BIN", raising=False)
     monkeypatch.setattr("shutil.which", lambda _name: None)
     assert _resolve_ffmpeg_binary("ffprobe") == "ffprobe"
@@ -171,7 +171,7 @@ def test_resolve_ffmpeg_non_windows_skips_winget(monkeypatch):
 
 def test_resolve_ffmpeg_windows_missing_package_root_falls_back(monkeypatch, tmp_path):
     _resolve_ffmpeg_binary.cache_clear()
-    monkeypatch.setattr("pipeline.render_qa.os.name", "nt")
+    monkeypatch.setattr("pipeline.render_qa.sys.platform", "win32")
     monkeypatch.delenv("FFMPEG_BIN", raising=False)
     monkeypatch.setenv("LOCALAPPDATA", str(tmp_path / "no-localapp"))
     monkeypatch.setattr("shutil.which", lambda _name: None)
@@ -180,7 +180,7 @@ def test_resolve_ffmpeg_windows_missing_package_root_falls_back(monkeypatch, tmp
 
 def test_resolve_ffmpeg_windows_empty_candidates_falls_back(monkeypatch, tmp_path):
     _resolve_ffmpeg_binary.cache_clear()
-    monkeypatch.setattr("pipeline.render_qa.os.name", "nt")
+    monkeypatch.setattr("pipeline.render_qa.sys.platform", "win32")
     monkeypatch.delenv("FFMPEG_BIN", raising=False)
     local = tmp_path / "local"
     pkg_root = local / "Microsoft" / "WinGet" / "Packages"

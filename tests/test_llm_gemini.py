@@ -1,7 +1,6 @@
 """Tests for the Gemini adapter — keyless paths only (no network/dep)."""
 from __future__ import annotations
 
-import builtins
 import json
 import sys
 from types import SimpleNamespace
@@ -24,14 +23,7 @@ def test_gemini_client_requires_key():
 
 
 def test_gemini_client_import_error(monkeypatch):
-    real_import = builtins.__import__
-
-    def fake_import(name, *args, **kwargs):
-        if name == "google.genai":
-            raise ImportError("missing")
-        return real_import(name, *args, **kwargs)
-
-    monkeypatch.setattr(builtins, "__import__", fake_import)
+    monkeypatch.setitem(sys.modules, "google.genai", None)
     with pytest.raises(ConfigError, match="google-genai"):
         GeminiClient("k")
 
