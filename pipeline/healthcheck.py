@@ -7,7 +7,7 @@ Returns a structured report; the CLI maps failures to a non-zero exit + alert.
 from __future__ import annotations
 
 from dataclasses import dataclass, field
-from typing import Optional
+from typing import Callable, Optional
 
 from .config import Config
 from .logging_setup import get_logger, log_event
@@ -28,8 +28,8 @@ class HealthReport:
 def run_healthcheck(
     cfg: Config,
     *,
-    llm_probe: Optional[callable] = None,
-    token_probe: Optional[callable] = None,
+    llm_probe: Optional[Callable[[], bool]] = None,
+    token_probe: Optional[Callable[[], bool]] = None,
 ) -> HealthReport:
     """Run liveness probes. Probes are injected so this is testable offline."""
     report = HealthReport()

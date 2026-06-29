@@ -74,7 +74,10 @@ def mp3_duration(path: Path) -> float:
     """Return the true duration of an MP3 in seconds, via mutagen."""
     from mutagen.mp3 import MP3  # deferred import
 
-    return float(MP3(str(path)).info.length)
+    info = MP3(str(path)).info
+    if info is None:
+        raise ValueError(f"unable to read MP3 info from: {path}")
+    return float(info.length)
 
 
 # --------------------------------------------------------------------------- #

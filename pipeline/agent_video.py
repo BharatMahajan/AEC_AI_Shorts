@@ -128,17 +128,19 @@ def render_video(
     Raises :class:`RenderError` if no attempt passes QA within the bound.
     """
     out_path = Path(out_path)
-    state = {"profile": RenderProfile.from_config(cfg), "last_render_error": ""}
+    profile = RenderProfile.from_config(cfg)
+    last_render_error = ""
     logger = get_logger("pipeline.agent_video")
 
     def body(attempt: int, last_eval: Optional[Evaluation]) -> Path:
-        state["last_render_error"] = ""
+        nonlocal last_render_error
+        last_render_error = ""
         if out_path.exists():
             out_path.unlink()
         try:
-            renderer.render(props_path=Path(props_path), out_path=out_path, profile=state["profile"])
+            renderer.render(props_path=Path(props_path), out_path=out_path, profile=profile)
         except RenderError as exc:
-            state["last_render_error"] = str(exc)
+            last_render_error = str(exc)
             log_event(
                 logger,
                 "render_attempt_error",
@@ -160,18 +162,19 @@ def render_video(
             duration_probe=duration_probe,
             luma_probe=luma_probe,
         )
-        if state["last_render_error"]:
-            ev.violations.append(f"remotion error: {state['last_render_error']}")
+        if last_render_error:
+            ev.violations.append(f"remotion error: {last_render_error}")
             ev.feedback = "; ".join(ev.violations)
-            ev.details["remotion_error"] = state["last_render_error"]
+            ev.details["remotion_error"] = last_render_error
         return ev
 
     def adapt(path: Path, ev: Evaluation) -> None:
-        state["profile"] = cheaper_profile(state["profile"])
+        nonlocal profile
+        profile = cheaper_profile(profile)
 
     def on_exhausted(provisional: Result[Path]) -> Result[Path]:
         ev = provisional.evaluation
-        render_error = state.get("last_render_error") or ""
+        render_error = last_render_error
         suffix = f" | last remotion error: {render_error}" if render_error else ""
         raise RenderError(
             f"render failed QA after {provisional.attempts} attempts: "

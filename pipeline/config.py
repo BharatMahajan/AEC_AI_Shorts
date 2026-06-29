@@ -18,12 +18,14 @@ from pathlib import Path
 
 def _env_str(key: str, default: str) -> str:
     val = os.environ.get(key)
-    return val if val not in (None, "") else default
+    if val is None or val == "":
+        return default
+    return val
 
 
 def _env_int(key: str, default: int) -> int:
     raw = os.environ.get(key)
-    if raw in (None, ""):
+    if raw is None or raw == "":
         return default
     try:
         return int(raw)
@@ -33,7 +35,7 @@ def _env_int(key: str, default: int) -> int:
 
 def _env_float(key: str, default: float) -> float:
     raw = os.environ.get(key)
-    if raw in (None, ""):
+    if raw is None or raw == "":
         return default
     try:
         return float(raw)
@@ -43,7 +45,7 @@ def _env_float(key: str, default: float) -> float:
 
 def _env_bool(key: str, default: bool) -> bool:
     raw = os.environ.get(key)
-    if raw in (None, ""):
+    if raw is None or raw == "":
         return default
     return raw.strip().lower() in ("1", "true", "yes", "on", "y")
 
