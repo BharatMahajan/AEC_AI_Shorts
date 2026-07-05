@@ -69,9 +69,10 @@ class RemotionRenderer:
         self.composition_id = composition_id
 
     def _resolve_npx(self) -> str:
-        candidates = ["npx"]
         if os.name == "nt":
-            candidates.insert(0, "npx.cmd")
+            candidates = ["npx.cmd", "npx"]
+        else:
+            candidates = ["npx", "npx.cmd"]
         for name in candidates:
             found = shutil.which(name)
             if found:
