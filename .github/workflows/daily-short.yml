@@ -1,10 +1,10 @@
 name: daily-short
 
-# Polls every 15 minutes; a gate job permits exactly ONE publish per IST slot
-# (this IS L1's max-iteration bound). Manual dispatch is always allowed.
+# Runs exactly at 09:00 and 21:00 IST (03:30 and 15:30 UTC).
+# Manual dispatch is always allowed.
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "30 3,15 * * *"
   workflow_dispatch:
     inputs:
       force:
@@ -30,28 +30,39 @@ jobs:
       should_run: ${{ steps.decide.outputs.should_run }}
       slot_key: ${{ steps.decide.outputs.slot_key }}
     steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 50
+
       - id: decide
         shell: bash
         run: |
-          SLOT_KEY="$(date +%Y-%m-%d)"
+          HOUR="$(date +%H)"
+          if [ "$HOUR" = "09" ]; then
+            SLOT_SUFFIX="am"
+          elif [ "$HOUR" = "21" ]; then
+            SLOT_SUFFIX="pm"
+          else
+            SLOT_SUFFIX="manual"
+          fi
+          SLOT_KEY="$(date +%Y-%m-%d)-$SLOT_SUFFIX"
           echo "slot_key=$SLOT_KEY" >> "$GITHUB_OUTPUT"
+
           if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.force }}" = "true" ]; then
             echo "should_run=true" >> "$GITHUB_OUTPUT"; exit 0
           fi
-          # Only fire inside the publishing window (e.g. 08:00-08:59 IST).
-          HOUR="$(date +%H)"
-          if [ "$HOUR" != "08" ]; then
+
+          # On scheduled runs, only permit the two IST publishing windows.
+          if [ "$SLOT_SUFFIX" = "manual" ]; then
             echo "should_run=false" >> "$GITHUB_OUTPUT"; exit 0
           fi
-          # De-dupe: if today's slot already produced an entry, skip.
-          if grep -q "\"$SLOT_KEY\"" state/scripts_created.json 2>/dev/null; then
+
+          # De-dupe reruns by checking whether this slot was already committed.
+          if git log --oneline --grep "record published short for $SLOT_KEY" -n 1 | grep -q .; then
             echo "should_run=false" >> "$GITHUB_OUTPUT"
           else
             echo "should_run=true" >> "$GITHUB_OUTPUT"
           fi
-        # NOTE: checkout happens in the publish job; here we read the committed
-        # file via the API-less shortcut of a prior lightweight checkout:
-      - uses: actions/checkout@v5
 
   # ---- Tests must pass before anything is published --------------------- #
   test:
@@ -101,6 +112,25 @@ jobs:
           cd remotion && npm install
       - name: Ensure Remotion browser
         run: cd remotion && npx remotion browser ensure
+
+      - name: Validate required secrets
+        shell: bash
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+        run: |
+          missing=0
+          for name in GEMINI_API_KEY YT_CLIENT_ID YT_CLIENT_SECRET YT_REFRESH_TOKEN; do
+            if [ -z "${!name}" ]; then
+              echo "Missing required secret: $name"
+              missing=1
+            fi
+          done
+          if [ "$missing" -ne 0 ]; then
+            exit 1
+          fi
 
       - name: Run pipeline (all stages)
         env:

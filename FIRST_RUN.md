@@ -56,7 +56,7 @@ Check the new entry in `state/scripts_created.json` and the video on your channe
 2. Add each `.env` value as a **repo Secret** (Settings → Secrets and variables → Actions).
    Add `ENABLE_ANALYTICS`, `REVIEW_BEFORE_PUBLISH`, `REMOTION_SCALE`, etc. as **Variables**.
 3. Edit the publish window in `.github/workflows/daily-short.yml` (the gate fires at
-   `08` IST by default) and adjust `TZ`.
+  `09:00` and `21:00` IST by default) and adjust `TZ`.
 4. Run the workflow once manually (**Actions → daily-short → Run workflow**, `force=true`)
    to confirm the full chain, then let the cron take over.
 
