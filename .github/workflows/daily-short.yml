@@ -142,7 +142,8 @@ jobs:
           YT_DATA_API_KEY: ${{ secrets.YT_DATA_API_KEY }}
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
           ENABLE_ANALYTICS: ${{ vars.ENABLE_ANALYTICS }}
-          REVIEW_BEFORE_PUBLISH: ${{ vars.REVIEW_BEFORE_PUBLISH }}
+          REVIEW_BEFORE_PUBLISH: ${{ vars.REVIEW_BEFORE_PUBLISH || 'false' }}
+          YT_PRIVACY: ${{ vars.YT_PRIVACY || 'public' }}
           REMOTION_CONCURRENCY: ${{ vars.REMOTION_CONCURRENCY }}
           REMOTION_SCALE: ${{ vars.REMOTION_SCALE }}
         run: python -m pipeline.run all
