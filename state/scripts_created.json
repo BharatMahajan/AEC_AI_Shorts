@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "date": "2026-07-05",
+    "bucket": "site_ops",
+    "feature_fingerprint": "site_ops:autonomous layout robots",
+    "title": "AI in AEC: Autonomous Site Layout",
+    "title_variants": [
+      "Precision Layout with AI Robots",
+      "Dusty Robotics: AI for Site Marking"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "Traditional layout is slow, prone to human error, and incredibly labor-intensive. But what if AI could solve this?",
+      "Autonomous layout robots like the Dusty Robotics FieldPrinter are revolutionizing site operations.",
+      "They leverage advanced computer vision to navigate complex, dynamic job sites with unparalleled precision.",
+      "This AI-powered system interprets your BIM models directly, projecting exact layout points and lines onto concrete slabs or other surfaces.",
+      "It\u2019s not just following a pre-set path; the computer vision continually scans its environment, making real-time adjustments to maintain millimeter-level accuracy despite site variations.",
+      "This drastically reduces layout time by up to 70% compared to traditional methods, freeing up skilled labor for more critical tasks and minimizing costly rework.",
+      "How are you integrating AI into your site operations? Share your thoughts below!"
+    ],
+    "narration": "Tired of manual construction layout eating into your project timeline? Traditional layout is slow, prone to human error, and incredibly labor-intensive. But what if AI could solve this? Autonomous layout robots like the Dusty Robotics FieldPrinter are revolutionizing site operations. They leverage advanced computer vision to navigate complex, dynamic job sites with unparalleled precision. This AI-powered system interprets your BIM models directly, projecting exact layout points and lines onto concrete slabs or other surfaces. It\u2019s not just following a pre-set path; the computer vision continually scans its environment, making real-time adjustments to maintain millimeter-level accuracy despite site variations. This drastically reduces layout time by up to 70% compared to traditional methods, freeing up skilled labor for more critical tasks and minimizing costly rework. How are you integrating AI into your site operations? Share your thoughts below!",
+    "video_id": "-AI1jLyTPws",
+    "url": "https://youtu.be/-AI1jLyTPws",
+    "published_at": "2026-07-05T06:52:17.124422+00:00",
+    "duration_seconds": 58.8,
+    "perf": {}
+  }
+]
