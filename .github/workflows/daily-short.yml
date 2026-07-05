@@ -87,7 +87,7 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with:
           node-version: "20"
       - uses: actions/setup-python@v6
@@ -98,7 +98,7 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
 
       - name: Cache Remotion deps + browser
-        uses: actions/cache@v4
+        uses: actions/cache@v5
         with:
           path: |
             remotion/node_modules
@@ -149,7 +149,7 @@ jobs:
 
       - name: Upload run report
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: run-report-${{ needs.gate.outputs.slot_key }}
           path: build/run-report.json
