@@ -24,5 +24,28 @@
     "published_at": "2026-07-05T06:52:17.124422+00:00",
     "duration_seconds": 58.8,
     "perf": {}
+  },
+  {
+    "date": "2026-07-11",
+    "bucket": "water_environmental",
+    "feature_fingerprint": "water_environmental:hydraulic model auto-calibration",
+    "title": "AI for Water: Hydraulic Model Auto-Calibration",
+    "title_variants": [
+      "Smarter Water Models with AI",
+      "AI Transforms Hydraulic Calibration",
+      "Water Engineering: AI's Calibration Edge"
+    ],
+    "hook_style": "future_tease",
+    "script_lines": [
+      "Manually calibrating complex stormwater or wastewater models against real-world sensor data is a huge time sink, demanding weeks of iterative adjustments. But AI is changing this. Modern **hydraulic modeling software** now offers **AI-driven auto-calibration**.",
+      "This feature leverages machine learning to analyze vast datasets of real-time flow, level, and pressure. It intelligently adjusts model parameters\u2014like Manning's 'n' values or pipe diameters\u2014continually refining the model until predictions align precisely with observed field data. Thousands of times faster than manual efforts.",
+      "This dramatically cuts calibration time from weeks to mere hours, achieving over 90% model accuracy and freeing engineers for critical analysis. The outcome? More reliable flood risk, optimized infrastructure, and smarter capital decisions. Explore how AI can transform your water infrastructure projects!"
+    ],
+    "narration": "Imagine your hydraulic models calibrating themselves in hours, not weeks! Manually calibrating complex stormwater or wastewater models against real-world sensor data is a huge time sink, demanding weeks of iterative adjustments. But AI is changing this. Modern **hydraulic modeling software** now offers **AI-driven auto-calibration**. This feature leverages machine learning to analyze vast datasets of real-time flow, level, and pressure. It intelligently adjusts model parameters\u2014like Manning's 'n' values or pipe diameters\u2014continually refining the model until predictions align precisely with observed field data. Thousands of times faster than manual efforts. This dramatically cuts calibration time from weeks to mere hours, achieving over 90% model accuracy and freeing engineers for critical analysis. The outcome? More reliable flood risk, optimized infrastructure, and smarter capital decisions. Explore how AI can transform your water infrastructure projects!",
+    "video_id": "MhuEsPExx1o",
+    "url": "https://youtu.be/MhuEsPExx1o",
+    "published_at": "2026-07-11T16:27:19.401269+00:00",
+    "duration_seconds": 60.6,
+    "perf": {}
   }
 ]
