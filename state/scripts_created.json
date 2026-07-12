@@ -47,5 +47,33 @@
     "published_at": "2026-07-11T16:27:19.401269+00:00",
     "duration_seconds": 60.6,
     "perf": {}
+  },
+  {
+    "date": "2026-07-12",
+    "bucket": "project_controls",
+    "feature_fingerprint": "project_controls:ml schedule risk forecasting",
+    "title": "AI for Project Schedule Risk Forecasting",
+    "title_variants": [
+      "Predict Delays with AI in Primavera P6",
+      "ML Schedule Risk: See Future Project Delays"
+    ],
+    "hook_style": "bold_claim",
+    "script_lines": [
+      "Tired of manual, subjective schedule risk assessments that miss critical delays until it's too late?",
+      "What if you could proactively identify and mitigate future project delays with unprecedented accuracy?",
+      "Enter Machine Learning Schedule Risk Forecasting, an AI-powered capability transforming how we manage complex projects.",
+      "This AI feature integrates directly with your existing Primavera P6 schedules, analyzing vast historical project data \u2013 durations, resource availability, critical path dependencies, and even external factors.",
+      "It goes beyond traditional Monte Carlo simulations, learning complex patterns and interdependencies to predict potential delays with probabilistic certainty, flagging high-risk activities before they impact your baseline.",
+      "Imagine proactively adjusting resource allocation or re-sequencing tasks, reducing potential schedule overruns by up to 15%.",
+      "It's about moving from reactive problem-solving to proactive, data-driven decision-making.",
+      "Want to learn how AI can revolutionize your project controls and keep your projects on track?",
+      "Check out the link in the description for a deeper dive."
+    ],
+    "narration": "Stop predicting project delays with gut feeling and start leveraging AI to see the future! Tired of manual, subjective schedule risk assessments that miss critical delays until it's too late? What if you could proactively identify and mitigate future project delays with unprecedented accuracy? Enter Machine Learning Schedule Risk Forecasting, an AI-powered capability transforming how we manage complex projects. This AI feature integrates directly with your existing Primavera P6 schedules, analyzing vast historical project data \u2013 durations, resource availability, critical path dependencies, and even external factors. It goes beyond traditional Monte Carlo simulations, learning complex patterns and interdependencies to predict potential delays with probabilistic certainty, flagging high-risk activities before they impact your baseline. Imagine proactively adjusting resource allocation or re-sequencing tasks, reducing potential schedule overruns by up to 15%. It's about moving from reactive problem-solving to proactive, data-driven decision-making. Want to learn how AI can revolutionize your project controls and keep your projects on track? Check out the link in the description for a deeper dive.",
+    "video_id": "H6BR5xQPag0",
+    "url": "https://youtu.be/H6BR5xQPag0",
+    "published_at": "2026-07-12T16:29:47.166245+00:00",
+    "duration_seconds": 63.86,
+    "perf": {}
   }
 ]
