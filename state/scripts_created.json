@@ -75,5 +75,30 @@
     "published_at": "2026-07-12T16:29:47.166245+00:00",
     "duration_seconds": 63.86,
     "perf": {}
+  },
+  {
+    "date": "2026-07-18",
+    "bucket": "transport",
+    "feature_fingerprint": "transport:ml traffic flow prediction",
+    "title": "AI's Next Stop: Predicting Traffic Chaos",
+    "title_variants": [
+      "ML Traffic Flow Prediction: The Future of Transport Design",
+      "Engineer's Edge: AI for Smarter Traffic Systems"
+    ],
+    "hook_style": "bold_claim",
+    "script_lines": [
+      "For AEC engineers in transport, designing efficient infrastructure has always been a complex challenge. Traditional traffic modeling provides snapshots, but real-world dynamics are constantly shifting.",
+      "Enter ML traffic flow prediction. We're talking about next-generation traffic modeling platforms that leverage machine learning to analyze vast datasets \u2013 historical traffic volumes, incident reports, public transport schedules, even weather patterns.",
+      "This isn't just a simulation; it's a dynamic foresight engine. Imagine feeding real-time sensor data into predictive models, like those integrated into advanced traffic modeling platforms, to anticipate bottlenecks before they form.",
+      "Our clients are using this to optimize signal timings, design more resilient road networks, and even inform intelligent demand management strategies.",
+      "The benefit? We're seeing projects achieve a 15-20% reduction in peak-hour congestion through optimized infrastructure designs and adaptive control systems, leading to significant fuel savings and reduced emissions. This capability directly informs more sustainable and cost-effective transport solutions.",
+      "Want to integrate predictive AI into your next transport project? Explore how ML is transforming urban mobility."
+    ],
+    "narration": "What if you could predict rush hour congestion with 95% accuracy days in advance! For AEC engineers in transport, designing efficient infrastructure has always been a complex challenge. Traditional traffic modeling provides snapshots, but real-world dynamics are constantly shifting. Enter ML traffic flow prediction. We're talking about next-generation traffic modeling platforms that leverage machine learning to analyze vast datasets \u2013 historical traffic volumes, incident reports, public transport schedules, even weather patterns. This isn't just a simulation; it's a dynamic foresight engine. Imagine feeding real-time sensor data into predictive models, like those integrated into advanced traffic modeling platforms, to anticipate bottlenecks before they form. Our clients are using this to optimize signal timings, design more resilient road networks, and even inform intelligent demand management strategies. The benefit? We're seeing projects achieve a 15-20% reduction in peak-hour congestion through optimized infrastructure designs and adaptive control systems, leading to significant fuel savings and reduced emissions. This capability directly informs more sustainable and cost-effective transport solutions. Want to integrate predictive AI into your next transport project? Explore how ML is transforming urban mobility.",
+    "video_id": "o9KUjoPiImc",
+    "url": "https://youtu.be/o9KUjoPiImc",
+    "published_at": "2026-07-18T16:28:36.978343+00:00",
+    "duration_seconds": 73.15,
+    "perf": {}
   }
 ]
