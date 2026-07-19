@@ -100,5 +100,28 @@
     "published_at": "2026-07-18T16:28:36.978343+00:00",
     "duration_seconds": 73.15,
     "perf": {}
+  },
+  {
+    "date": "2026-07-19",
+    "bucket": "reality_capture",
+    "feature_fingerprint": "reality_capture:ml object classification in scans",
+    "title": "AI for Instant Digital Twins in AEC",
+    "title_variants": [
+      "ML Transforms Reality Capture for AEC",
+      "Automate Scan Classification with AI"
+    ],
+    "hook_style": "future_tease",
+    "script_lines": [
+      "AEC teams manually classify countless objects from reality capture scans. This bottleneck delays digital twin creation and critical project insights. AI changes that.",
+      "Leverage ML object classification directly on your point clouds. Imagine feeding raw LiDAR data into your preferred point cloud processing software; AI instantly identifies and tags pipes, structural elements, and equipment.",
+      "It differentiates concrete beams from HVAC ducts in seconds, eliminating manual interpretation. This capability dramatically reduces manual classification time by up to 70%, accelerating digital twin creation and improving model accuracy for clash detection and progress monitoring.",
+      "Ready to transform your reality capture workflow? Share your thoughts below!"
+    ],
+    "narration": "What if your site's digital twin practically built itself? AEC teams manually classify countless objects from reality capture scans. This bottleneck delays digital twin creation and critical project insights. AI changes that. Leverage ML object classification directly on your point clouds. Imagine feeding raw LiDAR data into your preferred point cloud processing software; AI instantly identifies and tags pipes, structural elements, and equipment. It differentiates concrete beams from HVAC ducts in seconds, eliminating manual interpretation. This capability dramatically reduces manual classification time by up to 70%, accelerating digital twin creation and improving model accuracy for clash detection and progress monitoring. Ready to transform your reality capture workflow? Share your thoughts below!",
+    "video_id": "TVftAZNMk48",
+    "url": "https://youtu.be/TVftAZNMk48",
+    "published_at": "2026-07-19T16:28:48.665753+00:00",
+    "duration_seconds": 52.22,
+    "perf": {}
   }
 ]
