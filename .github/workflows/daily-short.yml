@@ -1,10 +1,16 @@
 name: daily-short
 
-# Runs exactly at 09:00 and 21:00 IST (03:30 and 15:30 UTC).
+# Runs at 09:00 and 21:00 IST (03:30 and 15:30 UTC).
+# Two separate cron entries (rather than "30 3,15 * * *") so the
+# triggering schedule string ($GITHUB_EVENT_SCHEDULE) tells the gate
+# which slot fired -- GitHub Actions frequently delays scheduled runs
+# by hours under load, so the wall-clock hour at run time is NOT a
+# reliable way to know which slot this is (see gate step below).
 # Manual dispatch is always allowed.
 on:
   schedule:
-    - cron: "30 3,15 * * *"
+    - cron: "30 3 * * *"
+    - cron: "30 15 * * *"
   workflow_dispatch:
     inputs:
       force:
@@ -36,19 +42,30 @@ jobs:
 
       - id: decide
         shell: bash
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          EVENT_SCHEDULE: ${{ github.event.schedule }}
         run: |
-          HOUR="$(date +%H)"
-          if [ "$HOUR" = "09" ]; then
-            SLOT_SUFFIX="am"
-          elif [ "$HOUR" = "21" ]; then
-            SLOT_SUFFIX="pm"
+          # Identify the slot from the cron string that actually fired, NOT
+          # from the wall-clock hour at run time. GitHub Actions schedules
+          # are commonly delayed by minutes to several hours under load, so
+          # "date +%H" at execution time was landing outside 09/21 IST on
+          # almost every run -> should_run=false -> silent no-publish for
+          # months even though the workflow reported "success" (skipped
+          # jobs still show green).
+          if [ "$EVENT_NAME" = "schedule" ]; then
+            case "$EVENT_SCHEDULE" in
+              "30 3 * * *") SLOT_SUFFIX="am" ;;
+              "30 15 * * *") SLOT_SUFFIX="pm" ;;
+              *) SLOT_SUFFIX="manual" ;;
+            esac
           else
             SLOT_SUFFIX="manual"
           fi
           SLOT_KEY="$(date +%Y-%m-%d)-$SLOT_SUFFIX"
           echo "slot_key=$SLOT_KEY" >> "$GITHUB_OUTPUT"
 
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.force }}" = "true" ]; then
+          if [ "$EVENT_NAME" = "workflow_dispatch" ] && [ "${{ inputs.force }}" = "true" ]; then
             echo "should_run=true" >> "$GITHUB_OUTPUT"; exit 0
           fi
 
@@ -57,7 +74,8 @@ jobs:
             echo "should_run=false" >> "$GITHUB_OUTPUT"; exit 0
           fi
 
-          # De-dupe reruns by checking whether this slot was already committed.
+          # De-dupe reruns/retriggers by checking whether this slot was
+          # already committed.
           if git log --oneline --grep "record published short for $SLOT_KEY" -n 1 | grep -q .; then
             echo "should_run=false" >> "$GITHUB_OUTPUT"
           else
