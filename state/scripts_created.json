@@ -146,5 +146,34 @@
     "published_at": "2026-09-03T06:52:45.739641+00:00",
     "duration_seconds": 61.46,
     "perf": {}
+  },
+  {
+    "date": "2026-09-03",
+    "bucket": "bim_authoring",
+    "feature_fingerprint": "bim_authoring:generative floorplate layout",
+    "title": "AI's Generative Leap in Revit BIM",
+    "title_variants": [
+      "Automated Floorplates: Revit AI",
+      "Design Faster: AI for BIM Layouts"
+    ],
+    "hook_style": "future_tease",
+    "script_lines": [
+      "Imagine slashing weeks off early-stage design iterations and optimizing building layouts with unprecedented speed.",
+      "The future of BIM authoring is here, powered by AI.",
+      "Forget manual, trial-and-error floorplan generation. AI is revolutionizing how we approach architectural programming and spatial planning.",
+      "With generative design capabilities, now accessible within tools like Autodesk Revit, engineers and architects can define critical parameters.",
+      "Think program requirements, adjacency matrices, circulation paths, natural light access, and even structural grid constraints or egress compliance.",
+      "The AI then autonomously explores thousands of design permutations, quickly identifying optimal floorplate layouts that meet your specified performance objectives.",
+      "This isn't just about speed; it's about discovering innovative solutions you might never have conceived manually.",
+      "You could reduce preliminary design time by 30-50% and achieve higher performance outcomes from day one.",
+      "This powerful feature is transforming concept development for commercial, residential, and institutional projects.",
+      "How will generative layout reshape your next design process?"
+    ],
+    "narration": "What if AI could design optimal floorplans for you in seconds? Imagine slashing weeks off early-stage design iterations and optimizing building layouts with unprecedented speed. The future of BIM authoring is here, powered by AI. Forget manual, trial-and-error floorplan generation. AI is revolutionizing how we approach architectural programming and spatial planning. With generative design capabilities, now accessible within tools like Autodesk Revit, engineers and architects can define critical parameters. Think program requirements, adjacency matrices, circulation paths, natural light access, and even structural grid constraints or egress compliance. The AI then autonomously explores thousands of design permutations, quickly identifying optimal floorplate layouts that meet your specified performance objectives. This isn't just about speed; it's about discovering innovative solutions you might never have conceived manually. You could reduce preliminary design time by 30-50% and achieve higher performance outcomes from day one. This powerful feature is transforming concept development for commercial, residential, and institutional projects. How will generative layout reshape your next design process?",
+    "video_id": "zia7lh1ZUVw",
+    "url": "https://youtu.be/zia7lh1ZUVw",
+    "published_at": "2026-09-03T18:51:20.250735+00:00",
+    "duration_seconds": 65.83,
+    "perf": {}
   }
 ]
