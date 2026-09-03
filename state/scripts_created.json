@@ -24,5 +24,104 @@
     "published_at": "2026-07-05T06:52:17.124422+00:00",
     "duration_seconds": 58.8,
     "perf": {}
+  },
+  {
+    "date": "2026-07-11",
+    "bucket": "water_environmental",
+    "feature_fingerprint": "water_environmental:hydraulic model auto-calibration",
+    "title": "AI for Water: Hydraulic Model Auto-Calibration",
+    "title_variants": [
+      "Smarter Water Models with AI",
+      "AI Transforms Hydraulic Calibration",
+      "Water Engineering: AI's Calibration Edge"
+    ],
+    "hook_style": "future_tease",
+    "script_lines": [
+      "Manually calibrating complex stormwater or wastewater models against real-world sensor data is a huge time sink, demanding weeks of iterative adjustments. But AI is changing this. Modern **hydraulic modeling software** now offers **AI-driven auto-calibration**.",
+      "This feature leverages machine learning to analyze vast datasets of real-time flow, level, and pressure. It intelligently adjusts model parameters\u2014like Manning's 'n' values or pipe diameters\u2014continually refining the model until predictions align precisely with observed field data. Thousands of times faster than manual efforts.",
+      "This dramatically cuts calibration time from weeks to mere hours, achieving over 90% model accuracy and freeing engineers for critical analysis. The outcome? More reliable flood risk, optimized infrastructure, and smarter capital decisions. Explore how AI can transform your water infrastructure projects!"
+    ],
+    "narration": "Imagine your hydraulic models calibrating themselves in hours, not weeks! Manually calibrating complex stormwater or wastewater models against real-world sensor data is a huge time sink, demanding weeks of iterative adjustments. But AI is changing this. Modern **hydraulic modeling software** now offers **AI-driven auto-calibration**. This feature leverages machine learning to analyze vast datasets of real-time flow, level, and pressure. It intelligently adjusts model parameters\u2014like Manning's 'n' values or pipe diameters\u2014continually refining the model until predictions align precisely with observed field data. Thousands of times faster than manual efforts. This dramatically cuts calibration time from weeks to mere hours, achieving over 90% model accuracy and freeing engineers for critical analysis. The outcome? More reliable flood risk, optimized infrastructure, and smarter capital decisions. Explore how AI can transform your water infrastructure projects!",
+    "video_id": "MhuEsPExx1o",
+    "url": "https://youtu.be/MhuEsPExx1o",
+    "published_at": "2026-07-11T16:27:19.401269+00:00",
+    "duration_seconds": 60.6,
+    "perf": {}
+  },
+  {
+    "date": "2026-07-12",
+    "bucket": "project_controls",
+    "feature_fingerprint": "project_controls:ml schedule risk forecasting",
+    "title": "AI for Project Schedule Risk Forecasting",
+    "title_variants": [
+      "Predict Delays with AI in Primavera P6",
+      "ML Schedule Risk: See Future Project Delays"
+    ],
+    "hook_style": "bold_claim",
+    "script_lines": [
+      "Tired of manual, subjective schedule risk assessments that miss critical delays until it's too late?",
+      "What if you could proactively identify and mitigate future project delays with unprecedented accuracy?",
+      "Enter Machine Learning Schedule Risk Forecasting, an AI-powered capability transforming how we manage complex projects.",
+      "This AI feature integrates directly with your existing Primavera P6 schedules, analyzing vast historical project data \u2013 durations, resource availability, critical path dependencies, and even external factors.",
+      "It goes beyond traditional Monte Carlo simulations, learning complex patterns and interdependencies to predict potential delays with probabilistic certainty, flagging high-risk activities before they impact your baseline.",
+      "Imagine proactively adjusting resource allocation or re-sequencing tasks, reducing potential schedule overruns by up to 15%.",
+      "It's about moving from reactive problem-solving to proactive, data-driven decision-making.",
+      "Want to learn how AI can revolutionize your project controls and keep your projects on track?",
+      "Check out the link in the description for a deeper dive."
+    ],
+    "narration": "Stop predicting project delays with gut feeling and start leveraging AI to see the future! Tired of manual, subjective schedule risk assessments that miss critical delays until it's too late? What if you could proactively identify and mitigate future project delays with unprecedented accuracy? Enter Machine Learning Schedule Risk Forecasting, an AI-powered capability transforming how we manage complex projects. This AI feature integrates directly with your existing Primavera P6 schedules, analyzing vast historical project data \u2013 durations, resource availability, critical path dependencies, and even external factors. It goes beyond traditional Monte Carlo simulations, learning complex patterns and interdependencies to predict potential delays with probabilistic certainty, flagging high-risk activities before they impact your baseline. Imagine proactively adjusting resource allocation or re-sequencing tasks, reducing potential schedule overruns by up to 15%. It's about moving from reactive problem-solving to proactive, data-driven decision-making. Want to learn how AI can revolutionize your project controls and keep your projects on track? Check out the link in the description for a deeper dive.",
+    "video_id": "H6BR5xQPag0",
+    "url": "https://youtu.be/H6BR5xQPag0",
+    "published_at": "2026-07-12T16:29:47.166245+00:00",
+    "duration_seconds": 63.86,
+    "perf": {}
+  },
+  {
+    "date": "2026-07-18",
+    "bucket": "transport",
+    "feature_fingerprint": "transport:ml traffic flow prediction",
+    "title": "AI's Next Stop: Predicting Traffic Chaos",
+    "title_variants": [
+      "ML Traffic Flow Prediction: The Future of Transport Design",
+      "Engineer's Edge: AI for Smarter Traffic Systems"
+    ],
+    "hook_style": "bold_claim",
+    "script_lines": [
+      "For AEC engineers in transport, designing efficient infrastructure has always been a complex challenge. Traditional traffic modeling provides snapshots, but real-world dynamics are constantly shifting.",
+      "Enter ML traffic flow prediction. We're talking about next-generation traffic modeling platforms that leverage machine learning to analyze vast datasets \u2013 historical traffic volumes, incident reports, public transport schedules, even weather patterns.",
+      "This isn't just a simulation; it's a dynamic foresight engine. Imagine feeding real-time sensor data into predictive models, like those integrated into advanced traffic modeling platforms, to anticipate bottlenecks before they form.",
+      "Our clients are using this to optimize signal timings, design more resilient road networks, and even inform intelligent demand management strategies.",
+      "The benefit? We're seeing projects achieve a 15-20% reduction in peak-hour congestion through optimized infrastructure designs and adaptive control systems, leading to significant fuel savings and reduced emissions. This capability directly informs more sustainable and cost-effective transport solutions.",
+      "Want to integrate predictive AI into your next transport project? Explore how ML is transforming urban mobility."
+    ],
+    "narration": "What if you could predict rush hour congestion with 95% accuracy days in advance! For AEC engineers in transport, designing efficient infrastructure has always been a complex challenge. Traditional traffic modeling provides snapshots, but real-world dynamics are constantly shifting. Enter ML traffic flow prediction. We're talking about next-generation traffic modeling platforms that leverage machine learning to analyze vast datasets \u2013 historical traffic volumes, incident reports, public transport schedules, even weather patterns. This isn't just a simulation; it's a dynamic foresight engine. Imagine feeding real-time sensor data into predictive models, like those integrated into advanced traffic modeling platforms, to anticipate bottlenecks before they form. Our clients are using this to optimize signal timings, design more resilient road networks, and even inform intelligent demand management strategies. The benefit? We're seeing projects achieve a 15-20% reduction in peak-hour congestion through optimized infrastructure designs and adaptive control systems, leading to significant fuel savings and reduced emissions. This capability directly informs more sustainable and cost-effective transport solutions. Want to integrate predictive AI into your next transport project? Explore how ML is transforming urban mobility.",
+    "video_id": "o9KUjoPiImc",
+    "url": "https://youtu.be/o9KUjoPiImc",
+    "published_at": "2026-07-18T16:28:36.978343+00:00",
+    "duration_seconds": 73.15,
+    "perf": {}
+  },
+  {
+    "date": "2026-07-19",
+    "bucket": "reality_capture",
+    "feature_fingerprint": "reality_capture:ml object classification in scans",
+    "title": "AI for Instant Digital Twins in AEC",
+    "title_variants": [
+      "ML Transforms Reality Capture for AEC",
+      "Automate Scan Classification with AI"
+    ],
+    "hook_style": "future_tease",
+    "script_lines": [
+      "AEC teams manually classify countless objects from reality capture scans. This bottleneck delays digital twin creation and critical project insights. AI changes that.",
+      "Leverage ML object classification directly on your point clouds. Imagine feeding raw LiDAR data into your preferred point cloud processing software; AI instantly identifies and tags pipes, structural elements, and equipment.",
+      "It differentiates concrete beams from HVAC ducts in seconds, eliminating manual interpretation. This capability dramatically reduces manual classification time by up to 70%, accelerating digital twin creation and improving model accuracy for clash detection and progress monitoring.",
+      "Ready to transform your reality capture workflow? Share your thoughts below!"
+    ],
+    "narration": "What if your site's digital twin practically built itself? AEC teams manually classify countless objects from reality capture scans. This bottleneck delays digital twin creation and critical project insights. AI changes that. Leverage ML object classification directly on your point clouds. Imagine feeding raw LiDAR data into your preferred point cloud processing software; AI instantly identifies and tags pipes, structural elements, and equipment. It differentiates concrete beams from HVAC ducts in seconds, eliminating manual interpretation. This capability dramatically reduces manual classification time by up to 70%, accelerating digital twin creation and improving model accuracy for clash detection and progress monitoring. Ready to transform your reality capture workflow? Share your thoughts below!",
+    "video_id": "TVftAZNMk48",
+    "url": "https://youtu.be/TVftAZNMk48",
+    "published_at": "2026-07-19T16:28:48.665753+00:00",
+    "duration_seconds": 52.22,
+    "perf": {}
   }
 ]
