@@ -123,5 +123,28 @@
     "published_at": "2026-07-19T16:28:48.665753+00:00",
     "duration_seconds": 52.22,
     "perf": {}
+  },
+  {
+    "date": "2026-09-03",
+    "bucket": "civil_infra",
+    "feature_fingerprint": "civil_infra:automated corridor modeling",
+    "title": "AI Automates Corridor Modeling in Civil 3D",
+    "title_variants": [
+      "Civil 3D AI: Smarter Corridor Design",
+      "Automated Corridors: The AI Advantage"
+    ],
+    "hook_style": "pain_point",
+    "script_lines": [
+      "Tired of endlessly tweaking corridor models with every design iteration? Manually adjusting alignments, profiles, and assemblies across complex infrastructure projects drains valuable engineering hours. What if AI could automate much of that?",
+      "Introducing AI-powered automated corridor modeling features, increasingly integrated into tools like Autodesk Civil 3D. This isn't just a wizard; it's an intelligent system learning from your design constraints and existing conditions.",
+      "It dynamically generates and refines corridor geometry, proposes optimal assembly placements, and rapidly adapts to changes. Imagine reducing initial corridor modeling time by up to 40%, freeing engineers for higher-value problem-solving.",
+      "These AI enhancements are making complex infrastructure design more agile and efficient. Ready to leverage intelligent automation in your next civil project? Explore Civil 3D's latest AI features and transform your design workflow today."
+    ],
+    "narration": "Tired of endlessly tweaking corridor models with every design iteration? Tired of endlessly tweaking corridor models with every design iteration? Manually adjusting alignments, profiles, and assemblies across complex infrastructure projects drains valuable engineering hours. What if AI could automate much of that? Introducing AI-powered automated corridor modeling features, increasingly integrated into tools like Autodesk Civil 3D. This isn't just a wizard; it's an intelligent system learning from your design constraints and existing conditions. It dynamically generates and refines corridor geometry, proposes optimal assembly placements, and rapidly adapts to changes. Imagine reducing initial corridor modeling time by up to 40%, freeing engineers for higher-value problem-solving. These AI enhancements are making complex infrastructure design more agile and efficient. Ready to leverage intelligent automation in your next civil project? Explore Civil 3D's latest AI features and transform your design workflow today.",
+    "video_id": "guOwcWO79cU",
+    "url": "https://youtu.be/guOwcWO79cU",
+    "published_at": "2026-09-03T06:52:45.739641+00:00",
+    "duration_seconds": 61.46,
+    "perf": {}
   }
 ]
