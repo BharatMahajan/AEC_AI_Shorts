@@ -197,5 +197,34 @@
     "published_at": "2026-09-04T08:14:30.762694+00:00",
     "duration_seconds": 52.1,
     "perf": {}
+  },
+  {
+    "date": "2026-09-04",
+    "bucket": "reality_capture",
+    "feature_fingerprint": "reality_capture:automated scan-to-bim from point clouds",
+    "title": "AI Automates Scan-to-BIM: 70% Faster Digital Twins",
+    "title_variants": [
+      "Automated Scan-to-BIM: The AI Revolution",
+      "Unlock 70% Faster BIM with AI Point Cloud Processing"
+    ],
+    "hook_style": "bold_claim",
+    "script_lines": [
+      "AI-driven reality capture is fundamentally transforming how we create digital twins.",
+      "You know the pain: converting complex laser scan data into accurate BIM geometries is a massive bottleneck.",
+      "Traditional Scan-to-BIM is painstaking, demanding countless hours from skilled modelers.",
+      "Now, AI-powered Scan-to-BIM platforms are changing everything.",
+      "These intelligent systems leverage advanced machine learning to autonomously identify and extract architectural and MEP elements directly from raw point clouds.",
+      "Feed a dense point cloud, and the AI automatically recognizes walls, columns, beams, pipes, and ductwork, then fits parametric BIM objects with astonishing accuracy.",
+      "Using these AI-driven platforms, engineering teams can reduce model creation time by up to 70%.",
+      "This frees up engineers for high-value analysis, accelerates project timelines, and drastically improves your as-built digital twin integrity.",
+      "More accurate, up-to-date models for facility management, renovation, and clash detection, faster than ever.",
+      "How are you integrating AI to unlock the full potential of your point cloud data? Share your experiences in the comments!"
+    ],
+    "narration": "Manually tracing point clouds for BIM is obsolete! AI-driven reality capture is fundamentally transforming how we create digital twins. You know the pain: converting complex laser scan data into accurate BIM geometries is a massive bottleneck. Traditional Scan-to-BIM is painstaking, demanding countless hours from skilled modelers. Now, AI-powered Scan-to-BIM platforms are changing everything. These intelligent systems leverage advanced machine learning to autonomously identify and extract architectural and MEP elements directly from raw point clouds. Feed a dense point cloud, and the AI automatically recognizes walls, columns, beams, pipes, and ductwork, then fits parametric BIM objects with astonishing accuracy. Using these AI-driven platforms, engineering teams can reduce model creation time by up to 70%. This frees up engineers for high-value analysis, accelerates project timelines, and drastically improves your as-built digital twin integrity. More accurate, up-to-date models for facility management, renovation, and clash detection, faster than ever. How are you integrating AI to unlock the full potential of your point cloud data? Share your experiences in the comments!",
+    "video_id": "sD36b48vxLo",
+    "url": "https://youtu.be/sD36b48vxLo",
+    "published_at": "2026-09-04T18:32:43.569752+00:00",
+    "duration_seconds": 67.2,
+    "perf": {}
   }
 ]
