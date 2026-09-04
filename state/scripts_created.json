@@ -175,5 +175,27 @@
     "published_at": "2026-09-03T18:51:20.250735+00:00",
     "duration_seconds": 65.83,
     "perf": {}
+  },
+  {
+    "date": "2026-09-04",
+    "bucket": "transport",
+    "feature_fingerprint": "transport:ai signal-timing optimization",
+    "title": "Cut Traffic Delays with AI Signal Optimization",
+    "title_variants": [
+      "AI Transforms Traffic Signal Timing",
+      "Smart Signals: Your Congestion Solution"
+    ],
+    "hook_style": "pain_point",
+    "script_lines": [
+      "Frustrated by **peak hour congestion** and inefficient **urban mobility**? **Traffic engineers** know static signal timings are a major bottleneck, hindering **transportation planning**. What if your **infrastructure networks** could think?",
+      "AI signal-timing optimization is transforming **corridor management**. Using platforms like **PTV Vissim**, AI integrates real-time sensor data and predictive analytics to dynamically adjust signal phases and cycle lengths. This adaptive control actively optimizes **intersection performance**.",
+      "This AI application measurably reduces peak hour vehicle delays by 25% across key arterial routes. Imagine faster travel and less fuel consumption for your **transportation planning** projects! Ready to elevate your traffic management? Explore AI solutions today."
+    ],
+    "narration": "Frustrated by peak hour congestion and inefficient urban mobility? Frustrated by **peak hour congestion** and inefficient **urban mobility**? **Traffic engineers** know static signal timings are a major bottleneck, hindering **transportation planning**. What if your **infrastructure networks** could think? AI signal-timing optimization is transforming **corridor management**. Using platforms like **PTV Vissim**, AI integrates real-time sensor data and predictive analytics to dynamically adjust signal phases and cycle lengths. This adaptive control actively optimizes **intersection performance**. This AI application measurably reduces peak hour vehicle delays by 25% across key arterial routes. Imagine faster travel and less fuel consumption for your **transportation planning** projects! Ready to elevate your traffic management? Explore AI solutions today.",
+    "video_id": "wpo0B4dTLnM",
+    "url": "https://youtu.be/wpo0B4dTLnM",
+    "published_at": "2026-09-04T08:14:30.762694+00:00",
+    "duration_seconds": 52.1,
+    "perf": {}
   }
 ]
