@@ -226,5 +226,31 @@
     "published_at": "2026-09-04T18:32:43.569752+00:00",
     "duration_seconds": 67.2,
     "perf": {}
+  },
+  {
+    "date": "2026-09-05",
+    "bucket": "cad",
+    "feature_fingerprint": "cad:ai command suggestions",
+    "title": "AutoCAD's AI: Predict Your Next Move",
+    "title_variants": [
+      "Smarter Drafting: AI Command Suggestions in AutoCAD",
+      "Boost CAD Efficiency with AI Predictions",
+      "Never Search for a CAD Command Again"
+    ],
+    "hook_style": "pain_point",
+    "script_lines": [
+      "That friction slows down critical design work. But what if your CAD software could anticipate your next move?",
+      "AutoCAD\u2019s AI command suggestions are changing the game. This intelligent feature learns from your design patterns and project context, offering real-time recommendations for your next command.",
+      "Imagine finishing a sequence of drawing lines, and AutoCAD immediately suggests 'TRIM' or 'OFFSET' based on your common workflows.",
+      "Or completing a detail, and it prompts 'BLOCK' or 'DIMENSION'. This isn't just about faster clicking; it's about reducing cognitive load and keeping you in the creative flow.",
+      "Early adopters report shaving off up to 15% of their drafting time on routine tasks, translating to hours saved weekly across a team.",
+      "It's a significant leap in efficiency for engineers and designers. Ready to experience smarter drafting? Explore AI command suggestions in AutoCAD today!"
+    ],
+    "narration": "Wasting precious minutes searching for the right AutoCAD command, or trying to remember obscure shortcuts? That friction slows down critical design work. But what if your CAD software could anticipate your next move? AutoCAD\u2019s AI command suggestions are changing the game. This intelligent feature learns from your design patterns and project context, offering real-time recommendations for your next command. Imagine finishing a sequence of drawing lines, and AutoCAD immediately suggests 'TRIM' or 'OFFSET' based on your common workflows. Or completing a detail, and it prompts 'BLOCK' or 'DIMENSION'. This isn't just about faster clicking; it's about reducing cognitive load and keeping you in the creative flow. Early adopters report shaving off up to 15% of their drafting time on routine tasks, translating to hours saved weekly across a team. It's a significant leap in efficiency for engineers and designers. Ready to experience smarter drafting? Explore AI command suggestions in AutoCAD today!",
+    "video_id": "UO7kR2mDRM4",
+    "url": "https://youtu.be/UO7kR2mDRM4",
+    "published_at": "2026-09-05T07:49:02.649239+00:00",
+    "duration_seconds": 60.58,
+    "perf": {}
   }
 ]
