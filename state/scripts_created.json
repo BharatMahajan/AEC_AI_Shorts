@@ -252,5 +252,29 @@
     "published_at": "2026-09-05T07:49:02.649239+00:00",
     "duration_seconds": 60.58,
     "perf": {}
+  },
+  {
+    "date": "2026-09-06",
+    "bucket": "civil_infra",
+    "feature_fingerprint": "civil_infra:ai grading optimization",
+    "title": "AI Grading Optimization in Civil 3D",
+    "title_variants": [
+      "Cut Earthwork Costs with AI Grading",
+      "Civil 3D AI: Smarter Site Grading",
+      "Revolutionize Grading with AI"
+    ],
+    "hook_style": "pain_point",
+    "script_lines": [
+      "Traditional manual grading is a massive time sink, often resulting in suboptimal earthwork volumes. But what if you could slash those hours and costs significantly?",
+      "AI grading optimization is transforming this. Tools like Autodesk Civil 3D now integrate powerful AI engines. They analyze complex constraints \u2013 slopes, drainage, cut-and-fill balance, and regulatory requirements \u2013 to automatically generate optimal design alternatives.",
+      "This isn't about guesswork; it's about precision. By leveraging AI in Civil 3D, engineers can quickly evaluate numerous scenarios, demonstrably reducing earthwork volumes by up to 20% on typical infrastructure projects. That means millions saved and faster project delivery.",
+      "It's about smarter design, lower costs, and greater efficiency. Ready to transform your grading workflows? Explore AI-powered tools in Civil 3D today!"
+    ],
+    "narration": "Struggling to optimize site grading for cost and constructability, endlessly iterating designs? Traditional manual grading is a massive time sink, often resulting in suboptimal earthwork volumes. But what if you could slash those hours and costs significantly? AI grading optimization is transforming this. Tools like Autodesk Civil 3D now integrate powerful AI engines. They analyze complex constraints \u2013 slopes, drainage, cut-and-fill balance, and regulatory requirements \u2013 to automatically generate optimal design alternatives. This isn't about guesswork; it's about precision. By leveraging AI in Civil 3D, engineers can quickly evaluate numerous scenarios, demonstrably reducing earthwork volumes by up to 20% on typical infrastructure projects. That means millions saved and faster project delivery. It's about smarter design, lower costs, and greater efficiency. Ready to transform your grading workflows? Explore AI-powered tools in Civil 3D today!",
+    "video_id": "mKP3PObyC6U",
+    "url": "https://youtu.be/mKP3PObyC6U",
+    "published_at": "2026-09-06T08:03:34.367852+00:00",
+    "duration_seconds": 61.46,
+    "perf": {}
   }
 ]
