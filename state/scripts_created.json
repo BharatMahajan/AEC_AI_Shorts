@@ -276,5 +276,29 @@
     "published_at": "2026-09-06T08:03:34.367852+00:00",
     "duration_seconds": 61.46,
     "perf": {}
+  },
+  {
+    "date": "2026-09-06",
+    "bucket": "mep",
+    "feature_fingerprint": "mep:ml energy-use prediction",
+    "title": "MEP Reinvented: AI for Energy & Routing",
+    "title_variants": [
+      "AI Transforms MEP: Predict Energy, Optimize Routing",
+      "Smart MEP: AI-Driven Energy & Layout"
+    ],
+    "hook_style": "pain_point",
+    "script_lines": [
+      "Are lengthy MEP design cycles and reactive energy analysis slowing your projects? Traditional methods often mean delays and missed optimization. It\u2019s time for a smarter approach.",
+      "AI is transforming MEP. Leverage ML energy-use prediction: integrated into tools like Autodesk Revit, AI analyzes your BIM model in real-time. It dynamically predicts energy consumption patterns, far surpassing static simulations.",
+      "This instant feedback lets you optimize system sizing and material choices proactively. Projects using these insights can reduce predicted energy consumption by up to 15% at the design phase.",
+      "Then, AI-optimized MEP routing rapidly generates and evaluates thousands of ductwork and piping layouts. It minimizes clashes and material waste, cutting routing design time by up to 20%.",
+      "Deliver high-performing, sustainable buildings faster and more cost-effectively. Explore AI-powered MEP tools for your next project!"
+    ],
+    "narration": "Are lengthy MEP design cycles and reactive energy analysis slowing your projects? Are lengthy MEP design cycles and reactive energy analysis slowing your projects? Traditional methods often mean delays and missed optimization. It\u2019s time for a smarter approach. AI is transforming MEP. Leverage ML energy-use prediction: integrated into tools like Autodesk Revit, AI analyzes your BIM model in real-time. It dynamically predicts energy consumption patterns, far surpassing static simulations. This instant feedback lets you optimize system sizing and material choices proactively. Projects using these insights can reduce predicted energy consumption by up to 15% at the design phase. Then, AI-optimized MEP routing rapidly generates and evaluates thousands of ductwork and piping layouts. It minimizes clashes and material waste, cutting routing design time by up to 20%. Deliver high-performing, sustainable buildings faster and more cost-effectively. Explore AI-powered MEP tools for your next project!",
+    "video_id": "RPNF2oafTRU",
+    "url": "https://youtu.be/RPNF2oafTRU",
+    "published_at": "2026-09-06T17:39:23.282548+00:00",
+    "duration_seconds": 65.18,
+    "perf": {}
   }
 ]
