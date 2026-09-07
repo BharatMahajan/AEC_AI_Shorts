@@ -326,5 +326,38 @@
     "published_at": "2026-09-07T08:34:25.231292+00:00",
     "duration_seconds": 57.79,
     "perf": {}
+  },
+  {
+    "date": "2026-09-07",
+    "bucket": "docs_specs",
+    "feature_fingerprint": "docs_specs:llm rfi drafting and response",
+    "title": "AI Elevates RFI Management in AEC",
+    "title_variants": [
+      "Draft RFIs Faster with AI",
+      "LLMs Transform RFI Workflows",
+      "AI's Impact on AEC Documents & Specs"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "AI is revolutionizing how AEC professionals handle project information.",
+      "Large Language Models are now transforming RFI workflows directly.",
+      "Imagine an AI assistant, integrated into your RFI platform.",
+      "This AI analyzes specifications, drawings, and submittals instantly.",
+      "When drafting an RFI, it suggests precise wording and clarifies issues.",
+      "It highlights potential ambiguities or missing information proactively.",
+      "Features like 'RFI Copilot' in platforms like Procore draft precise questions.",
+      "For responses, it scours project data for relevant precedents and context.",
+      "It generates draft answers, ensuring consistency with contract documents.",
+      "This significantly cuts manual drafting time and reduces review cycles.",
+      "Engineers report up to 60% faster RFI generation and resolution.",
+      "That's more time for critical design, engineering, and oversight.",
+      "Ready to accelerate your project documentation? Ask about AI RFI drafting today."
+    ],
+    "narration": "Tired of the time sink that is RFI creation and response? AI is revolutionizing how AEC professionals handle project information. Large Language Models are now transforming RFI workflows directly. Imagine an AI assistant, integrated into your RFI platform. This AI analyzes specifications, drawings, and submittals instantly. When drafting an RFI, it suggests precise wording and clarifies issues. It highlights potential ambiguities or missing information proactively. Features like 'RFI Copilot' in platforms like Procore draft precise questions. For responses, it scours project data for relevant precedents and context. It generates draft answers, ensuring consistency with contract documents. This significantly cuts manual drafting time and reduces review cycles. Engineers report up to 60% faster RFI generation and resolution. That's more time for critical design, engineering, and oversight. Ready to accelerate your project documentation? Ask about AI RFI drafting today.",
+    "video_id": "6khaiTziVdo",
+    "url": "https://youtu.be/6khaiTziVdo",
+    "published_at": "2026-09-07T19:20:05.657665+00:00",
+    "duration_seconds": 66.58,
+    "perf": {}
   }
 ]
