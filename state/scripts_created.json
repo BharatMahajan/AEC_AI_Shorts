@@ -359,5 +359,32 @@
     "published_at": "2026-09-07T19:20:05.657665+00:00",
     "duration_seconds": 66.58,
     "perf": {}
+  },
+  {
+    "date": "2026-09-08",
+    "bucket": "project_controls",
+    "feature_fingerprint": "project_controls:ai-driven resource leveling",
+    "title": "AI Resource Leveling in Primavera P6",
+    "title_variants": [
+      "Optimize Project Schedules with AI",
+      "P6 AI Resource Optimization for AEC",
+      "Boost Project Control with AI Leveling"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "Are your project schedules constantly battling resource overloads?",
+      "Traditional manual resource allocation in project controls is a complex, time-consuming challenge, often leading to inefficient work package distribution and project delays.",
+      "But what if AI could instantly optimize your team's resource utilization? AI-driven resource leveling, integrated into tools like Primavera P6, dynamically analyzes your project schedule.",
+      "It considers skill sets, availability, and task dependencies to intelligently shift and reassign resources, ensuring your critical path remains clear and efficient.",
+      "This means you can drastically reduce project duration by up to 15% and minimize costly over-allocations, improving overall deliverables and stakeholder satisfaction.",
+      "Want to see how AI can transform your project management workflows?",
+      "Subscribe for more insights into AI in AEC!"
+    ],
+    "narration": "Are your project schedules constantly battling resource overloads? Are your project schedules constantly battling resource overloads? Traditional manual resource allocation in project controls is a complex, time-consuming challenge, often leading to inefficient work package distribution and project delays. But what if AI could instantly optimize your team's resource utilization? AI-driven resource leveling, integrated into tools like Primavera P6, dynamically analyzes your project schedule. It considers skill sets, availability, and task dependencies to intelligently shift and reassign resources, ensuring your critical path remains clear and efficient. This means you can drastically reduce project duration by up to 15% and minimize costly over-allocations, improving overall deliverables and stakeholder satisfaction. Want to see how AI can transform your project management workflows? Subscribe for more insights into AI in AEC!",
+    "video_id": "VxN-U7X5aeM",
+    "url": "https://youtu.be/VxN-U7X5aeM",
+    "published_at": "2026-09-08T08:17:05.428629+00:00",
+    "duration_seconds": 56.74,
+    "perf": {}
   }
 ]
