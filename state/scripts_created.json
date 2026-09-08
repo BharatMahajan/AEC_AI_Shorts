@@ -386,5 +386,33 @@
     "published_at": "2026-09-08T08:17:05.428629+00:00",
     "duration_seconds": 56.74,
     "perf": {}
+  },
+  {
+    "date": "2026-09-08",
+    "bucket": "site_ops",
+    "feature_fingerprint": "site_ops:drone progress capture",
+    "title": "AI Drones for Site Progress: Beyond Basic Surveys",
+    "title_variants": [
+      "AI Drones: Your New Site Progress Tracker!",
+      "Site Progress Reimagined: AI & Drone Tech",
+      "Unlock Site Efficiency: AI Drone Progress Capture"
+    ],
+    "hook_style": "bold_claim",
+    "script_lines": [
+      "Stop managing site progress with outdated methods! AI is revolutionizing how we track construction sites, delivering unprecedented accuracy and speed.",
+      "Imagine deploying a drone to capture comprehensive site imagery in minutes. Now, pair that with powerful **computer vision** algorithms.",
+      "This isn't just pretty pictures; it's real-time, actionable data.",
+      "AI automatically analyzes drone photogrammetry to perform tasks like volumetric earthwork calculations, detecting material stock levels, and precise progress mapping against your 3D models.",
+      "It flags deviations from the planned schedule and design, often before they become critical issues.",
+      "This technology slashes manual survey time by up to 70%, boosting productivity and reducing costly rework.",
+      "You get objective, quantified insights into your project's physical progress, ensuring better decision-making from groundbreaking to handover.",
+      "Ready to transform your site operations? Visit our link in bio to explore how AI-powered drone progress capture can benefit your next project!"
+    ],
+    "narration": "Stop managing site progress with outdated methods! Stop managing site progress with outdated methods! AI is revolutionizing how we track construction sites, delivering unprecedented accuracy and speed. Imagine deploying a drone to capture comprehensive site imagery in minutes. Now, pair that with powerful **computer vision** algorithms. This isn't just pretty pictures; it's real-time, actionable data. AI automatically analyzes drone photogrammetry to perform tasks like volumetric earthwork calculations, detecting material stock levels, and precise progress mapping against your 3D models. It flags deviations from the planned schedule and design, often before they become critical issues. This technology slashes manual survey time by up to 70%, boosting productivity and reducing costly rework. You get objective, quantified insights into your project's physical progress, ensuring better decision-making from groundbreaking to handover. Ready to transform your site operations? Visit our link in bio to explore how AI-powered drone progress capture can benefit your next project!",
+    "video_id": "7BLryAMHTiY",
+    "url": "https://youtu.be/7BLryAMHTiY",
+    "published_at": "2026-09-08T18:52:49.313341+00:00",
+    "duration_seconds": 67.51,
+    "perf": {}
   }
 ]
