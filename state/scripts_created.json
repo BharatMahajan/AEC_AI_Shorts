@@ -440,5 +440,32 @@
     "published_at": "2026-09-09T08:20:21.190451+00:00",
     "duration_seconds": 59.04,
     "perf": {}
+  },
+  {
+    "date": "2026-09-09",
+    "bucket": "structural",
+    "feature_fingerprint": "structural:automated rebar detailing",
+    "title": "AI Rebar Detailing Revolution",
+    "title_variants": [
+      "Automated Rebar with AI",
+      "Structural AI: Rebar Detailing Accelerated"
+    ],
+    "hook_style": "shocking_stat",
+    "script_lines": [
+      "Did you know manual rebar detailing can consume over 40% of a structural engineer's design time on a major project?",
+      "It's a painstaking process, highly susceptible to human error, and often a critical bottleneck in project timelines.",
+      "But imagine an AI feature that takes the raw output from your structural analysis and automates the entire rebar detailing process.",
+      "This isn't sci-fi. AI-powered automated rebar detailing directly integrates with leading structural analysis software, like ETABS or SAP2000.",
+      "It leverages the analytical model's forces and code compliance checks to intelligently generate rebar layouts, bar marks, bend schedules, and even shop drawings.",
+      "The result? A drastic reduction in detailing time \u2013 often by 70% \u2013 alongside improved accuracy and minimized on-site rebar clashes.",
+      "This means faster project delivery, significant cost savings from reduced rework, and more time for your engineers to focus on high-value design decisions.",
+      "Explore how AI can transform your rebar workflow. What challenges are you facing with rebar detailing today?"
+    ],
+    "narration": "Did you know manual rebar detailing can consume over 40% of a structural engineer's design time on a major project? Did you know manual rebar detailing can consume over 40% of a structural engineer's design time on a major project? It's a painstaking process, highly susceptible to human error, and often a critical bottleneck in project timelines. But imagine an AI feature that takes the raw output from your structural analysis and automates the entire rebar detailing process. This isn't sci-fi. AI-powered automated rebar detailing directly integrates with leading structural analysis software, like ETABS or SAP2000. It leverages the analytical model's forces and code compliance checks to intelligently generate rebar layouts, bar marks, bend schedules, and even shop drawings. The result? A drastic reduction in detailing time \u2013 often by 70% \u2013 alongside improved accuracy and minimized on-site rebar clashes. This means faster project delivery, significant cost savings from reduced rework, and more time for your engineers to focus on high-value design decisions. Explore how AI can transform your rebar workflow. What challenges are you facing with rebar detailing today?",
+    "video_id": "_BSYVDu0VJc",
+    "url": "https://youtu.be/_BSYVDu0VJc",
+    "published_at": "2026-09-09T18:46:11.608689+00:00",
+    "duration_seconds": 65.78,
+    "perf": {}
   }
 ]
