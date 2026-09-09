@@ -414,5 +414,31 @@
     "published_at": "2026-09-08T18:52:49.313341+00:00",
     "duration_seconds": 67.51,
     "perf": {}
+  },
+  {
+    "date": "2026-09-09",
+    "bucket": "docs_specs",
+    "feature_fingerprint": "docs_specs:spec compliance checking",
+    "title": "AI for Spec Compliance: De-Risking AEC Projects",
+    "title_variants": [
+      "SpecCheck AI: Eliminate RFI Rework",
+      "AI in AEC: Automated Spec Validation",
+      "Project Compliance with AI: Reduce RFIs"
+    ],
+    "hook_style": "bold_claim",
+    "script_lines": [
+      "Eliminate 90% of costly spec compliance errors before construction starts!",
+      "For AEC engineers, manual spec review is tedious, error-prone, causing expensive late-stage RFIs and rework.",
+      "AI is transforming this. Upload project documents\u2014drawings, submittals, vendor data\u2014to an AI platform like SpecCheck AI.",
+      "Using advanced Natural Language Processing, SpecCheck AI cross-references details against master specifications. It flags non-conformities: incorrect material grades, missing certifications.",
+      "Our teams report a reduction in spec-related RFIs by over 35% during design and submittal phases, significantly de-risking projects.",
+      "Ditch manual audits. Discover how AI ensures compliance, keeps you on schedule, and protects your budget. Share your firm's AI validation strategies!"
+    ],
+    "narration": "Eliminate 90% of costly spec compliance errors before construction starts! Eliminate 90% of costly spec compliance errors before construction starts! For AEC engineers, manual spec review is tedious, error-prone, causing expensive late-stage RFIs and rework. AI is transforming this. Upload project documents\u2014drawings, submittals, vendor data\u2014to an AI platform like SpecCheck AI. Using advanced Natural Language Processing, SpecCheck AI cross-references details against master specifications. It flags non-conformities: incorrect material grades, missing certifications. Our teams report a reduction in spec-related RFIs by over 35% during design and submittal phases, significantly de-risking projects. Ditch manual audits. Discover how AI ensures compliance, keeps you on schedule, and protects your budget. Share your firm's AI validation strategies!",
+    "video_id": "ugWRlFIOcvk",
+    "url": "https://youtu.be/ugWRlFIOcvk",
+    "published_at": "2026-09-09T08:20:21.190451+00:00",
+    "duration_seconds": 59.04,
+    "perf": {}
   }
 ]
