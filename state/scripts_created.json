@@ -497,5 +497,33 @@
     "published_at": "2026-09-10T08:20:01.035016+00:00",
     "duration_seconds": 60.0,
     "perf": {}
+  },
+  {
+    "date": "2026-09-10",
+    "bucket": "bim_authoring",
+    "feature_fingerprint": "bim_authoring:ai-assisted family creation",
+    "title": "AI for Revit Family Creation",
+    "title_variants": [
+      "Revit Family Automation with AI",
+      "Smart Family Generation in BIM"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "Manually building intricate BIM families for custom components is a significant time sink for AEC teams.",
+      "What if AI could accelerate this, ensuring accuracy and compliance?",
+      "Modern AI-assisted family creation tools within platforms like Revit are transforming this workflow.",
+      "These systems use machine learning to interpret input specifications like dimensions, material properties, and connection types.",
+      "They intelligently generate complex geometric forms and populate all necessary parameters automatically.",
+      "Imagine AI suggesting optimal structural or HVAC configurations based on project requirements.",
+      "This cuts down repetitive modeling, reduces human error, and ensures families meet specified LOD.",
+      "Teams report cutting family creation time by up to 30%, freeing engineers for higher-value tasks.",
+      "It's about smarter design. How are you integrating AI into your BIM authoring?"
+    ],
+    "narration": "Struggling with complex Revit family creation? Manually building intricate BIM families for custom components is a significant time sink for AEC teams. What if AI could accelerate this, ensuring accuracy and compliance? Modern AI-assisted family creation tools within platforms like Revit are transforming this workflow. These systems use machine learning to interpret input specifications like dimensions, material properties, and connection types. They intelligently generate complex geometric forms and populate all necessary parameters automatically. Imagine AI suggesting optimal structural or HVAC configurations based on project requirements. This cuts down repetitive modeling, reduces human error, and ensures families meet specified LOD. Teams report cutting family creation time by up to 30%, freeing engineers for higher-value tasks. It's about smarter design. How are you integrating AI into your BIM authoring?",
+    "video_id": "d7ZKVluRgYw",
+    "url": "https://youtu.be/d7ZKVluRgYw",
+    "published_at": "2026-09-10T18:37:07.505398+00:00",
+    "duration_seconds": 58.46,
+    "perf": {}
   }
 ]
