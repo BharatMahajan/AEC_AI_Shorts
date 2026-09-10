@@ -467,5 +467,35 @@
     "published_at": "2026-09-09T18:46:11.608689+00:00",
     "duration_seconds": 65.78,
     "perf": {}
+  },
+  {
+    "date": "2026-09-10",
+    "bucket": "bim_authoring",
+    "feature_fingerprint": "bim_authoring:early-stage massing with forma",
+    "title": "AI in AEC: Smarter Massing with Forma",
+    "title_variants": [
+      "Forma AI: Revolutionizing Early Design",
+      "BIM Authoring: Forma & AI Massing",
+      "Optimize with Forma AI in AEC"
+    ],
+    "hook_style": "shocking_stat",
+    "script_lines": [
+      "Did you know over 60% of design changes occur in the first 20% of a project's timeline, causing major cost overruns?!",
+      "Traditional early-stage massing is slow and lacks immediate performance feedback.",
+      "AI is changing BIM authoring.",
+      "Meet Forma, an Autodesk tool leveraging AI for outcome-driven design.",
+      "Forma rapidly generates and evaluates countless conceptual massing options.",
+      "Its AI instantly analyzes critical performance metrics like solar exposure, wind comfort, and daylight potential *as you design*.",
+      "This isn't just faster; it's smarter.",
+      "Make data-informed decisions from day one, optimizing for sustainability and livability before detailed design.",
+      "Once optimized in Forma, seamlessly bring your massing into Revit.",
+      "Stop guessing. Explore Forma's AI capabilities and revolutionize your early project designs today!"
+    ],
+    "narration": "Did you know over 60% of design changes occur in the first 20% of a project's timeline, causing major cost overruns?! Did you know over 60% of design changes occur in the first 20% of a project's timeline, causing major cost overruns?! Traditional early-stage massing is slow and lacks immediate performance feedback. AI is changing BIM authoring. Meet Forma, an Autodesk tool leveraging AI for outcome-driven design. Forma rapidly generates and evaluates countless conceptual massing options. Its AI instantly analyzes critical performance metrics like solar exposure, wind comfort, and daylight potential *as you design*. This isn't just faster; it's smarter. Make data-informed decisions from day one, optimizing for sustainability and livability before detailed design. Once optimized in Forma, seamlessly bring your massing into Revit. Stop guessing. Explore Forma's AI capabilities and revolutionize your early project designs today!",
+    "video_id": "hFlp--7CvzY",
+    "url": "https://youtu.be/hFlp--7CvzY",
+    "published_at": "2026-09-10T08:20:01.035016+00:00",
+    "duration_seconds": 60.0,
+    "perf": {}
   }
 ]
