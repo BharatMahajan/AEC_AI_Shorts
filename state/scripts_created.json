@@ -525,5 +525,29 @@
     "published_at": "2026-09-10T18:37:07.505398+00:00",
     "duration_seconds": 58.46,
     "perf": {}
+  },
+  {
+    "date": "2026-09-11",
+    "bucket": "mep",
+    "feature_fingerprint": "mep:clash-aware mep layout",
+    "title": "AI: Clash-Aware MEP Layout",
+    "title_variants": [
+      "AI Prevents MEP Clashes",
+      "MEP Design: AI's Clash Solution"
+    ],
+    "hook_style": "bold_claim",
+    "script_lines": [
+      "Manual MEP routing is a complex puzzle, constantly battling spatial conflicts between ductwork, piping, and structural elements. It's iterative, time-consuming, and frequently leads to costly site rework.",
+      "But what if AI could solve this? Advanced MEP routing platforms now integrate AI for truly clash-aware layout generation.",
+      "These intelligent algorithms analyze your entire BIM model, predicting and preventing interferences *before* they happen. They dynamically consider spatial constraints, access, and structural interference in real-time.",
+      "The result? Firms report up to 40% fewer critical clashes identified in design reviews, slashing coordination time and rework costs significantly. Imagine completing complex MEP layouts in hours, not weeks, with unprecedented accuracy.",
+      "Ready to transform your MEP design process? Explore AI-powered clash-aware routing features and tell us what you think!"
+    ],
+    "narration": "Stop losing profit to hidden MEP clashes! Manual MEP routing is a complex puzzle, constantly battling spatial conflicts between ductwork, piping, and structural elements. It's iterative, time-consuming, and frequently leads to costly site rework. But what if AI could solve this? Advanced MEP routing platforms now integrate AI for truly clash-aware layout generation. These intelligent algorithms analyze your entire BIM model, predicting and preventing interferences *before* they happen. They dynamically consider spatial constraints, access, and structural interference in real-time. The result? Firms report up to 40% fewer critical clashes identified in design reviews, slashing coordination time and rework costs significantly. Imagine completing complex MEP layouts in hours, not weeks, with unprecedented accuracy. Ready to transform your MEP design process? Explore AI-powered clash-aware routing features and tell us what you think!",
+    "video_id": "WS3gIaWGf6E",
+    "url": "https://youtu.be/WS3gIaWGf6E",
+    "published_at": "2026-09-11T08:14:45.553514+00:00",
+    "duration_seconds": 61.08,
+    "perf": {}
   }
 ]
