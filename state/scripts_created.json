@@ -549,5 +549,30 @@
     "published_at": "2026-09-11T08:14:45.553514+00:00",
     "duration_seconds": 61.08,
     "perf": {}
+  },
+  {
+    "date": "2026-09-11",
+    "bucket": "docs_specs",
+    "feature_fingerprint": "docs_specs:drawing-to-text extraction",
+    "title": "Stop Manual RFI Data Entry with AI",
+    "title_variants": [
+      "AI Automates RFI Data Extraction!",
+      "Reclaim Hours: AI for Drawing-to-Text",
+      "Engineer's Secret: AI-Powered RFI Automation"
+    ],
+    "hook_style": "shocking_stat",
+    "script_lines": [
+      "Sifting through hundreds of drawing sheets, manually extracting details for RFIs is tedious, error-prone, and a massive time sink. What if AI could automate this?",
+      "AI-powered **drawing-to-text extraction** transforms this. This feature uses advanced computer vision to accurately pull text, dimensions, and specs directly from your CAD files or PDFs.",
+      "Instead of manual transcription, AI automatically populates critical fields in your RFI management system, like Autodesk Build or Procore. It identifies material callouts, dimensions, or clearances, ensuring accuracy.",
+      "This is a game changer. Teams can reduce RFI generation time by over 40%, letting engineers focus on problem-solving. Imagine the design conflicts prevented!",
+      "Ready to reclaim hours? Explore how AI-powered drawing-to-text extraction streamlines your RFI process. What repetitive tasks are you ready to automate?"
+    ],
+    "narration": "Did you know engineers spend over 30% of their time on manual documentation tasks? That's almost a third of your workday wasted! Sifting through hundreds of drawing sheets, manually extracting details for RFIs is tedious, error-prone, and a massive time sink. What if AI could automate this? AI-powered **drawing-to-text extraction** transforms this. This feature uses advanced computer vision to accurately pull text, dimensions, and specs directly from your CAD files or PDFs. Instead of manual transcription, AI automatically populates critical fields in your RFI management system, like Autodesk Build or Procore. It identifies material callouts, dimensions, or clearances, ensuring accuracy. This is a game changer. Teams can reduce RFI generation time by over 40%, letting engineers focus on problem-solving. Imagine the design conflicts prevented! Ready to reclaim hours? Explore how AI-powered drawing-to-text extraction streamlines your RFI process. What repetitive tasks are you ready to automate?",
+    "video_id": "nF4IesHRtKc",
+    "url": "https://youtu.be/nF4IesHRtKc",
+    "published_at": "2026-09-11T18:42:45.261557+00:00",
+    "duration_seconds": 65.93,
+    "perf": {}
   }
 ]
