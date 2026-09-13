@@ -574,5 +574,35 @@
     "published_at": "2026-09-11T18:42:45.261557+00:00",
     "duration_seconds": 65.93,
     "perf": {}
+  },
+  {
+    "date": "2026-09-13",
+    "bucket": "project_controls",
+    "feature_fingerprint": "project_controls:earned-value anomaly detection",
+    "title": "AI for Earned Value Anomaly Detection",
+    "title_variants": [
+      "Stop Project Overruns with AI",
+      "P6 Power-Up: AI Earned Value"
+    ],
+    "hook_style": "shocking_stat",
+    "script_lines": [
+      "A staggering 60% of project cost overruns are linked to issues that went undetected until it was too late!",
+      "Manually sifting through massive Primavera P6 datasets for earned value anomalies is a time sink and often reactive.",
+      "But what if AI could proactively flag deviations before they become critical?",
+      "Introducing AI-powered earned-value anomaly detection, directly integrating with your Primavera P6 data.",
+      "This AI analyzes historical project data and real-time earned value metrics like Cost Performance Index and Schedule Performance Index.",
+      "It identifies subtle patterns indicative of impending budget overruns or schedule slips.",
+      "The system pinpoints unusual cost expenditures or productivity drops that human eyes might miss until it's too late.",
+      "You get actionable insights, flagging specific work packages or cost accounts deviating from planned values with high confidence.",
+      "This capability can reduce project cost overruns by an estimated 10-15% by enabling early intervention.",
+      "Imagine the impact on your entire project portfolio.",
+      "Are you ready to optimize your project controls with AI?"
+    ],
+    "narration": "A staggering 60% of project cost overruns are linked to issues that went undetected until it was too late! A staggering 60% of project cost overruns are linked to issues that went undetected until it was too late! Manually sifting through massive Primavera P6 datasets for earned value anomalies is a time sink and often reactive. But what if AI could proactively flag deviations before they become critical? Introducing AI-powered earned-value anomaly detection, directly integrating with your Primavera P6 data. This AI analyzes historical project data and real-time earned value metrics like Cost Performance Index and Schedule Performance Index. It identifies subtle patterns indicative of impending budget overruns or schedule slips. The system pinpoints unusual cost expenditures or productivity drops that human eyes might miss until it's too late. You get actionable insights, flagging specific work packages or cost accounts deviating from planned values with high confidence. This capability can reduce project cost overruns by an estimated 10-15% by enabling early intervention. Imagine the impact on your entire project portfolio. Are you ready to optimize your project controls with AI?",
+    "video_id": "ty2-69Fmrmw",
+    "url": "https://youtu.be/ty2-69Fmrmw",
+    "published_at": "2026-09-13T08:29:50.114702+00:00",
+    "duration_seconds": 65.11,
+    "perf": {}
   }
 ]
