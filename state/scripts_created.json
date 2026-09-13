@@ -604,5 +604,31 @@
     "published_at": "2026-09-13T08:29:50.114702+00:00",
     "duration_seconds": 65.11,
     "perf": {}
+  },
+  {
+    "date": "2026-09-13",
+    "bucket": "site_ops",
+    "feature_fingerprint": "site_ops:cv-based ppe/safety monitoring",
+    "title": "AI for Site Safety: Proactive PPE Monitoring",
+    "title_variants": [
+      "Elevating Site Safety with Computer Vision",
+      "Automated PPE Compliance: The Future of Site Safety"
+    ],
+    "hook_style": "future_tease",
+    "script_lines": [
+      "Consistent safety on complex sites is a huge challenge. Human observation often misses critical details across large areas.",
+      "Imagine an AI as your tireless safety supervisor. **Computer vision** systems leverage existing cameras to analyze site video in real-time.",
+      "They detect safety deviations: workers without required PPE, or unauthorized entry into exclusion zones.",
+      "The AI instantly flags non-compliance, alerting managers for immediate intervention.",
+      "This proactive approach addresses risks *before* incidents, fostering prevention.",
+      "Deploying computer vision for PPE and safety zone monitoring can reduce site incidents by **up to 30%**, enhancing worker safety and project timelines.",
+      "Ready to elevate your site safety? Share your biggest challenge in the comments!"
+    ],
+    "narration": "What if your construction site could automatically enforce PPE compliance and identify safety risks 24/7? Consistent safety on complex sites is a huge challenge. Human observation often misses critical details across large areas. Imagine an AI as your tireless safety supervisor. **Computer vision** systems leverage existing cameras to analyze site video in real-time. They detect safety deviations: workers without required PPE, or unauthorized entry into exclusion zones. The AI instantly flags non-compliance, alerting managers for immediate intervention. This proactive approach addresses risks *before* incidents, fostering prevention. Deploying computer vision for PPE and safety zone monitoring can reduce site incidents by **up to 30%**, enhancing worker safety and project timelines. Ready to elevate your site safety? Share your biggest challenge in the comments!",
+    "video_id": "AdE-YWnkC_o",
+    "url": "https://youtu.be/AdE-YWnkC_o",
+    "published_at": "2026-09-13T18:17:49.624003+00:00",
+    "duration_seconds": 55.3,
+    "perf": {}
   }
 ]
