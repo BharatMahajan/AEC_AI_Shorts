@@ -630,5 +630,27 @@
     "published_at": "2026-09-13T18:17:49.624003+00:00",
     "duration_seconds": 55.3,
     "perf": {}
+  },
+  {
+    "date": "2026-09-14",
+    "bucket": "project_controls",
+    "feature_fingerprint": "project_controls:predictive cost overrun detection",
+    "title": "AI Predicts Project Overruns",
+    "title_variants": [
+      "Future-Proof Your Budget: AI & P6",
+      "Stop Cost Overruns with Predictive AI"
+    ],
+    "hook_style": "bold_claim",
+    "script_lines": [
+      "Traditional project cost control often reacts. But what if AI could proactively identify fiscal risks? We're talking about AI-powered predictive cost overrun detection, a game-changer for project controls. Imagine integrating this capability directly into your existing project management ecosystem, like Primavera P6.",
+      "This AI analyzes vast datasets: historical project costs, current progress metrics, change order logs, and external market data. It identifies subtle patterns and early indicators of budget deviation, far beyond human capacity. For instance, it flags a critical path activity's slight delay combined with a material price fluctuation, predicting a potential 8% budget increase on that specific work package weeks in advance.",
+      "This allows project managers to implement corrective actions proactively, not retrospectively. Implementing AI-driven predictive cost overrun detection can realistically reduce the probability of exceeding final project budgets by up to 15%, saving millions on large capital projects. Don't just track costs; anticipate them. Discover how AI is transforming financial predictability in AEC. Start exploring AI for your project controls today!"
+    ],
+    "narration": "Eliminate project cost overruns before they materialize! Traditional project cost control often reacts. But what if AI could proactively identify fiscal risks? We're talking about AI-powered predictive cost overrun detection, a game-changer for project controls. Imagine integrating this capability directly into your existing project management ecosystem, like Primavera P6. This AI analyzes vast datasets: historical project costs, current progress metrics, change order logs, and external market data. It identifies subtle patterns and early indicators of budget deviation, far beyond human capacity. For instance, it flags a critical path activity's slight delay combined with a material price fluctuation, predicting a potential 8% budget increase on that specific work package weeks in advance. This allows project managers to implement corrective actions proactively, not retrospectively. Implementing AI-driven predictive cost overrun detection can realistically reduce the probability of exceeding final project budgets by up to 15%, saving millions on large capital projects. Don't just track costs; anticipate them. Discover how AI is transforming financial predictability in AEC. Start exploring AI for your project controls today!",
+    "video_id": "UehJ9a21VsI",
+    "url": "https://youtu.be/UehJ9a21VsI",
+    "published_at": "2026-09-14T09:11:48.656873+00:00",
+    "duration_seconds": 71.16,
+    "perf": {}
   }
 ]
