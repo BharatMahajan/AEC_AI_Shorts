@@ -652,5 +652,31 @@
     "published_at": "2026-09-14T09:11:48.656873+00:00",
     "duration_seconds": 71.16,
     "perf": {}
+  },
+  {
+    "date": "2026-09-14",
+    "bucket": "gis_planning",
+    "feature_fingerprint": "gis_planning:flood-risk modeling",
+    "title": "AI Flood Risk Modeling in GIS",
+    "title_variants": [
+      "GIS & AI: Smarter Flood Prediction",
+      "Accelerate Flood Assessments with AI",
+      "AI for Flood Resilience"
+    ],
+    "hook_style": "pain_point",
+    "script_lines": [
+      "Manually compiling geospatial data and running complex hydraulic models for flood-risk assessments is incredibly time-consuming, causing delays and reactive designs.",
+      "What if AI could accelerate this in your GIS workflows?",
+      "AI-driven flood-risk modeling, integrated into platforms like ArcGIS Pro, is transforming resilience planning. AI algorithms process terabytes of topography, land use, and climate data in minutes.",
+      "These AI models analyze intricate spatial relationships, predicting flood extents, depths, and flow paths with higher fidelity. They rapidly simulate dozens of mitigation scenarios, optimizing designs like levee heights or culvert sizing.",
+      "This cuts modeling time by up to 60% and improves prediction accuracy by 15%, enabling proactive, resilient design and quicker approvals.",
+      "Explore AI/ML capabilities in your GIS software to streamline flood-risk assessments and design a more resilient future today."
+    ],
+    "narration": "Tired of flood risk assessments stalling your critical infrastructure projects? Manually compiling geospatial data and running complex hydraulic models for flood-risk assessments is incredibly time-consuming, causing delays and reactive designs. What if AI could accelerate this in your GIS workflows? AI-driven flood-risk modeling, integrated into platforms like ArcGIS Pro, is transforming resilience planning. AI algorithms process terabytes of topography, land use, and climate data in minutes. These AI models analyze intricate spatial relationships, predicting flood extents, depths, and flow paths with higher fidelity. They rapidly simulate dozens of mitigation scenarios, optimizing designs like levee heights or culvert sizing. This cuts modeling time by up to 60% and improves prediction accuracy by 15%, enabling proactive, resilient design and quicker approvals. Explore AI/ML capabilities in your GIS software to streamline flood-risk assessments and design a more resilient future today.",
+    "video_id": "KPzxAaToIuc",
+    "url": "https://youtu.be/KPzxAaToIuc",
+    "published_at": "2026-09-14T19:55:24.491873+00:00",
+    "duration_seconds": 62.93,
+    "perf": {}
   }
 ]
