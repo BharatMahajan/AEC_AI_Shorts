@@ -702,5 +702,30 @@
     "published_at": "2026-09-15T08:54:10.881366+00:00",
     "duration_seconds": 62.26,
     "perf": {}
+  },
+  {
+    "date": "2026-09-15",
+    "bucket": "transport",
+    "feature_fingerprint": "transport:pavement-distress detection from imagery",
+    "title": "AI: Pavement Distress Detection for Optimized Maintenance",
+    "title_variants": [
+      "AI Spotting Potholes: Smarter Pavement Management",
+      "Beyond Manual Checks: AI for Pavement Distress",
+      "AI in Transport: Precision Pavement Assessment"
+    ],
+    "hook_style": "pain_point",
+    "script_lines": [
+      "Tired of slow, costly pavement inspections? Manual methods are subjective, disrupt traffic, and delay repairs, accelerating long-term costs and safety risks.",
+      "AI-powered pavement-distress detection changes everything. Tools like **PaveSense AI** rapidly classify and quantify distresses\u2014cracks, rutting, potholes\u2014from high-resolution imagery across vast networks.",
+      "This provides objective, actionable data, leveraging advanced computer vision. It identifies critical deterioration 70% faster than manual methods, enabling proactive, precise repairs.",
+      "This data informs traffic modeling software, optimizing maintenance schedules, minimizing disruption, extending pavement life, and reducing lifecycle costs by up to 25%.",
+      "Ready to optimize your pavement management? Explore AI solutions today!"
+    ],
+    "narration": "Tired of slow, costly pavement inspections that delay critical repairs? Tired of slow, costly pavement inspections? Manual methods are subjective, disrupt traffic, and delay repairs, accelerating long-term costs and safety risks. AI-powered pavement-distress detection changes everything. Tools like **PaveSense AI** rapidly classify and quantify distresses\u2014cracks, rutting, potholes\u2014from high-resolution imagery across vast networks. This provides objective, actionable data, leveraging advanced computer vision. It identifies critical deterioration 70% faster than manual methods, enabling proactive, precise repairs. This data informs traffic modeling software, optimizing maintenance schedules, minimizing disruption, extending pavement life, and reducing lifecycle costs by up to 25%. Ready to optimize your pavement management? Explore AI solutions today!",
+    "video_id": "Dx7X-r99bzQ",
+    "url": "https://youtu.be/Dx7X-r99bzQ",
+    "published_at": "2026-09-15T19:09:35.489053+00:00",
+    "duration_seconds": 57.46,
+    "perf": {}
   }
 ]
