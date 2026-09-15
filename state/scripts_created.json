@@ -678,5 +678,29 @@
     "published_at": "2026-09-14T19:55:24.491873+00:00",
     "duration_seconds": 62.93,
     "perf": {}
+  },
+  {
+    "date": "2026-09-15",
+    "bucket": "civil_infra",
+    "feature_fingerprint": "civil_infra:pressure-pipe network design",
+    "title": "AI for Pressure Pipe Networks in Civil 3D",
+    "title_variants": [
+      "Streamline Pipe Design with AI in Civil 3D",
+      "Civil 3D AI: Smarter Pressure Pipe Networks"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "Struggling to optimize complex pressure pipe networks for hydraulics, cost, and constructability?",
+      "Designing efficient pipe systems for water or wastewater is notoriously iterative. Engineers spend extensive time sizing, routing, and selecting materials, balancing hydraulic performance with minimized length and fittings.",
+      "Now, AI-powered features in Autodesk Civil 3D automate this. The software rapidly analyzes thousands of design options. It intelligently suggests optimal pipe layouts, diameters, and materials, considering terrain, utilities, and critical hydraulic constraints.",
+      "This significantly accelerates design cycles and optimizes material use. Achieve a hydraulically sound and constructible design up to 40% faster, drastically reducing rework and project costs.",
+      "Elevate your infrastructure projects. Explore AI-driven pressure pipe network design in Civil 3D today!"
+    ],
+    "narration": "Struggling to optimize complex pressure pipe networks for hydraulics, cost, and constructability? Struggling to optimize complex pressure pipe networks for hydraulics, cost, and constructability? Designing efficient pipe systems for water or wastewater is notoriously iterative. Engineers spend extensive time sizing, routing, and selecting materials, balancing hydraulic performance with minimized length and fittings. Now, AI-powered features in Autodesk Civil 3D automate this. The software rapidly analyzes thousands of design options. It intelligently suggests optimal pipe layouts, diameters, and materials, considering terrain, utilities, and critical hydraulic constraints. This significantly accelerates design cycles and optimizes material use. Achieve a hydraulically sound and constructible design up to 40% faster, drastically reducing rework and project costs. Elevate your infrastructure projects. Explore AI-driven pressure pipe network design in Civil 3D today!",
+    "video_id": "UnQFYYvqceo",
+    "url": "https://youtu.be/UnQFYYvqceo",
+    "published_at": "2026-09-15T08:54:10.881366+00:00",
+    "duration_seconds": 62.26,
+    "perf": {}
   }
 ]
