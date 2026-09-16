@@ -727,5 +727,32 @@
     "published_at": "2026-09-15T19:09:35.489053+00:00",
     "duration_seconds": 57.46,
     "perf": {}
+  },
+  {
+    "date": "2026-09-16",
+    "bucket": "coordination_clash",
+    "feature_fingerprint": "coordination_clash:model coordination in acc",
+    "title": "AI for Clash Detection: Smarter Model Coordination",
+    "title_variants": [
+      "Boost Project Profits: AI in ACC Model Coordination",
+      "Stop the Rework: AI-Powered Clash Resolution",
+      "Engineer Smarter: AI-Driven Clash Detection"
+    ],
+    "hook_style": "shocking_stat",
+    "script_lines": [
+      "Did you know poor coordination accounts for up to 10% of total project costs, often due to preventable clashes!",
+      "AEC engineers know the grind: manually sifting through thousands of multi-disciplinary model clashes, slowing design and causing expensive rework.",
+      "But what if AI could proactively streamline this?",
+      "Autodesk Construction Cloud's Model Coordination, powered by AI, revolutionizes this. It automatically aggregates diverse models\u2014Revit, AutoCAD, IFC\u2014for intelligent clash identification.",
+      "Beyond simple interference, AI intelligently groups related clashes, enhancing Navisworks workflows. This means your team focuses on resolving critical conflicts, not just initial detection.",
+      "Teams using ACC Model Coordination cut manual clash review time by up to 60%, preventing costly rework and keeping projects on schedule.",
+      "Ready to transform your coordination? Explore ACC's AI-powered Model Coordination today!"
+    ],
+    "narration": "Did you know poor coordination accounts for up to 10% of total project costs, often due to preventable clashes! Did you know poor coordination accounts for up to 10% of total project costs, often due to preventable clashes! AEC engineers know the grind: manually sifting through thousands of multi-disciplinary model clashes, slowing design and causing expensive rework. But what if AI could proactively streamline this? Autodesk Construction Cloud's Model Coordination, powered by AI, revolutionizes this. It automatically aggregates diverse models\u2014Revit, AutoCAD, IFC\u2014for intelligent clash identification. Beyond simple interference, AI intelligently groups related clashes, enhancing Navisworks workflows. This means your team focuses on resolving critical conflicts, not just initial detection. Teams using ACC Model Coordination cut manual clash review time by up to 60%, preventing costly rework and keeping projects on schedule. Ready to transform your coordination? Explore ACC's AI-powered Model Coordination today!",
+    "video_id": "x3PVlf3IilQ",
+    "url": "https://youtu.be/x3PVlf3IilQ",
+    "published_at": "2026-09-16T08:47:58.531018+00:00",
+    "duration_seconds": 66.22,
+    "perf": {}
   }
 ]
