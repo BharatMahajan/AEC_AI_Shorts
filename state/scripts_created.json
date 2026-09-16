@@ -754,5 +754,36 @@
     "published_at": "2026-09-16T08:47:58.531018+00:00",
     "duration_seconds": 66.22,
     "perf": {}
+  },
+  {
+    "date": "2026-09-16",
+    "bucket": "docs_specs",
+    "feature_fingerprint": "docs_specs:automated submittal review",
+    "title": "AI Automates Submittal Review",
+    "title_variants": [
+      "Submittal Review Transformed by AI",
+      "AI for Faster Submittal Compliance",
+      "Elevate Submittal Review with AI"
+    ],
+    "hook_style": "bold_claim",
+    "script_lines": [
+      "Submittal reviews are bottlenecks, consuming valuable time and often missing critical details.",
+      "What if AI automated compliance checks, ensuring faster, error-free approvals?",
+      "AI-powered automated submittal review is here for AEC. Tools like Procore now integrate AI to analyze your submittals.",
+      "This AI intelligently ingests shop drawings, data sheets, and project specifications.",
+      "It cross-references hundreds of requirements in seconds, flagging deviations from material specs, drawing dimensions, or installation procedures.",
+      "For instance, a submittal requiring a specific fire-rating? AI instantly confirms alignment with architectural specs and local codes.",
+      "For identified non-compliances, AI auto-drafts detailed RFI questions, pre-populating forms with exact spec sections and drawing references.",
+      "This innovation reduces submittal review cycle time by up to 30%, catching issues earlier and minimizing costly rework.",
+      "It significantly boosts accuracy, ensuring all components meet contractual obligations.",
+      "Your teams can focus on high-value engineering, not tedious document comparison.",
+      "How are you leveraging AI in your documentation workflows? Share your experiences below!"
+    ],
+    "narration": "Forget chasing spec compliance manually; AI is transforming submittal reviews! Submittal reviews are bottlenecks, consuming valuable time and often missing critical details. What if AI automated compliance checks, ensuring faster, error-free approvals? AI-powered automated submittal review is here for AEC. Tools like Procore now integrate AI to analyze your submittals. This AI intelligently ingests shop drawings, data sheets, and project specifications. It cross-references hundreds of requirements in seconds, flagging deviations from material specs, drawing dimensions, or installation procedures. For instance, a submittal requiring a specific fire-rating? AI instantly confirms alignment with architectural specs and local codes. For identified non-compliances, AI auto-drafts detailed RFI questions, pre-populating forms with exact spec sections and drawing references. This innovation reduces submittal review cycle time by up to 30%, catching issues earlier and minimizing costly rework. It significantly boosts accuracy, ensuring all components meet contractual obligations. Your teams can focus on high-value engineering, not tedious document comparison. How are you leveraging AI in your documentation workflows? Share your experiences below!",
+    "video_id": "FFent2Kwwiw",
+    "url": "https://youtu.be/FFent2Kwwiw",
+    "published_at": "2026-09-16T19:01:19.264694+00:00",
+    "duration_seconds": 72.96,
+    "perf": {}
   }
 ]
