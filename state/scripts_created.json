@@ -811,5 +811,33 @@
     "published_at": "2026-09-17T08:51:27.694249+00:00",
     "duration_seconds": 57.55,
     "perf": {}
+  },
+  {
+    "date": "2026-09-17",
+    "bucket": "structural",
+    "feature_fingerprint": "structural:ml-based load prediction",
+    "title": "AI in Structural: ML Load Prediction",
+    "title_variants": [
+      "Structural AI: Precision Load Prediction",
+      "ETABS + AI: Smarter Load Analysis"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "Are your structural load predictions overly conservative?",
+      "Traditional static assumptions often lead to over-designed elements, escalating material costs and project timelines.",
+      "Imagine machine learning predicting structural loads with unparalleled precision.",
+      "Advanced structural analysis platforms, like CSI's ETABS, integrate ML-based load prediction.",
+      "This AI feature leverages historical data, real-time sensor inputs, and environmental factors to anticipate dynamic live loads, wind pressures, and seismic responses.",
+      "Engineers gain a far more accurate understanding of anticipated forces.",
+      "The concrete benefit? Optimize material use, potentially reducing steel and concrete by 8-12% while enhancing safety.",
+      "That means significant cost savings, lower carbon footprint, and faster project delivery.",
+      "Ready to move beyond conservative estimates? Explore how AI is revolutionizing structural analysis and design."
+    ],
+    "narration": "Are your structural load predictions overly conservative? Are your structural load predictions overly conservative? Traditional static assumptions often lead to over-designed elements, escalating material costs and project timelines. Imagine machine learning predicting structural loads with unparalleled precision. Advanced structural analysis platforms, like CSI's ETABS, integrate ML-based load prediction. This AI feature leverages historical data, real-time sensor inputs, and environmental factors to anticipate dynamic live loads, wind pressures, and seismic responses. Engineers gain a far more accurate understanding of anticipated forces. The concrete benefit? Optimize material use, potentially reducing steel and concrete by 8-12% while enhancing safety. That means significant cost savings, lower carbon footprint, and faster project delivery. Ready to move beyond conservative estimates? Explore how AI is revolutionizing structural analysis and design.",
+    "video_id": "Rdy0pOjMUws",
+    "url": "https://youtu.be/Rdy0pOjMUws",
+    "published_at": "2026-09-17T19:09:59.900978+00:00",
+    "duration_seconds": 61.49,
+    "perf": {}
   }
 ]
