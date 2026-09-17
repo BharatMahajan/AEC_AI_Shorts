@@ -785,5 +785,31 @@
     "published_at": "2026-09-16T19:01:19.264694+00:00",
     "duration_seconds": 72.96,
     "perf": {}
+  },
+  {
+    "date": "2026-09-17",
+    "bucket": "structural",
+    "feature_fingerprint": "structural:ai member sizing optimization",
+    "title": "AI for Structural Member Optimization",
+    "title_variants": [
+      "Smart Structural Sizing with AI",
+      "Optimize Beams & Columns with AI",
+      "AI-Powered Structural Design Efficiency"
+    ],
+    "hook_style": "shocking_stat",
+    "script_lines": [
+      "Structural engineers balance design efficiency with material economy. Manual member sizing involves endless iterations.",
+      "AI is changing that. AI member sizing optimization, in structural analysis software like RISA-3D, revolutionizes the process.",
+      "It uses machine learning to rapidly explore thousands of permutations, considering load combinations, deflection limits, and material specifications.",
+      "This identifies optimal section sizes for beams, columns, trusses, ensuring structural integrity and significantly reducing material waste.",
+      "Projects using this feature routinely achieve material cost reductions of 10-15%, cutting expenditure and embodied carbon.",
+      "This frees your structural design teams for complex work. Optimize your next project. Explore AI in structural analysis software today!"
+    ],
+    "narration": "Manual structural optimization costs you thousands in project overhead every year! Structural engineers balance design efficiency with material economy. Manual member sizing involves endless iterations. AI is changing that. AI member sizing optimization, in structural analysis software like RISA-3D, revolutionizes the process. It uses machine learning to rapidly explore thousands of permutations, considering load combinations, deflection limits, and material specifications. This identifies optimal section sizes for beams, columns, trusses, ensuring structural integrity and significantly reducing material waste. Projects using this feature routinely achieve material cost reductions of 10-15%, cutting expenditure and embodied carbon. This frees your structural design teams for complex work. Optimize your next project. Explore AI in structural analysis software today!",
+    "video_id": "umD6t3l264w",
+    "url": "https://youtu.be/umD6t3l264w",
+    "published_at": "2026-09-17T08:51:27.694249+00:00",
+    "duration_seconds": 57.55,
+    "perf": {}
   }
 ]
