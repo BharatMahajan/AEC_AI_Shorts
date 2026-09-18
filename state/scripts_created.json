@@ -866,5 +866,29 @@
     "published_at": "2026-09-18T08:26:44.165000+00:00",
     "duration_seconds": 52.51,
     "perf": {}
+  },
+  {
+    "date": "2026-09-18",
+    "bucket": "reality_capture",
+    "feature_fingerprint": "reality_capture:digital twin sync from iot sensors",
+    "title": "Your Digital Twin is Alive! Real-time AI Sync in AEC",
+    "title_variants": [
+      "AI-Powered Live Digital Twins: The Future of AEC",
+      "Beyond Static Models: Dynamic Digital Twins with AI",
+      "Real-time Asset Intelligence: AI & Digital Twins"
+    ],
+    "hook_style": "future_tease",
+    "script_lines": [
+      "What if your digital twin was a living, dynamic replica of your asset, not just a static model? Current digital twins quickly become outdated, failing to reflect real-world changes.",
+      "AI is transforming this. By integrating machine learning with IoT sensors, we enable true digital twin synchronization. Imagine thermal, vibration, or displacement sensors feeding live data directly into your twin.",
+      "This unlocks proactive intelligence. Platforms like Bentley iTwin, leveraging AI, ingest continuous sensor data streams. The AI cross-references this with foundational point cloud data, identifying deviations and predicting potential failures. It suggests maintenance *before* critical issues arise. This shifts reactive to predictive upkeep, reducing unscheduled downtime by up to 25% and extending asset lifespan.",
+      "How are you keeping your digital twins alive? Share your real-time data strategies below!"
+    ],
+    "narration": "What if your digital twin autonomously reflected real-world changes, in real-time? What if your digital twin was a living, dynamic replica of your asset, not just a static model? Current digital twins quickly become outdated, failing to reflect real-world changes. AI is transforming this. By integrating machine learning with IoT sensors, we enable true digital twin synchronization. Imagine thermal, vibration, or displacement sensors feeding live data directly into your twin. This unlocks proactive intelligence. Platforms like Bentley iTwin, leveraging AI, ingest continuous sensor data streams. The AI cross-references this with foundational point cloud data, identifying deviations and predicting potential failures. It suggests maintenance *before* critical issues arise. This shifts reactive to predictive upkeep, reducing unscheduled downtime by up to 25% and extending asset lifespan. How are you keeping your digital twins alive? Share your real-time data strategies below!",
+    "video_id": "KiN9MBH1ojE",
+    "url": "https://youtu.be/KiN9MBH1ojE",
+    "published_at": "2026-09-18T18:36:58.869944+00:00",
+    "duration_seconds": 62.38,
+    "perf": {}
   }
 ]
