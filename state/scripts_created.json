@@ -941,5 +941,35 @@
     "published_at": "2026-09-20T08:46:38.365370+00:00",
     "duration_seconds": 54.6,
     "perf": {}
+  },
+  {
+    "date": "2026-09-20",
+    "bucket": "cad",
+    "feature_fingerprint": "cad:smart blocks placement prediction",
+    "title": "AI in AutoCAD: Smart Block Placement",
+    "title_variants": [
+      "AutoCAD AI: Faster Block Placement",
+      "Predictive CAD: Smart Blocks",
+      "70% Faster Block Placement with AI"
+    ],
+    "hook_style": "bold_claim",
+    "script_lines": [
+      "You're about to make block placement up to 70% faster in AutoCAD!",
+      "Stop wasting precious hours manually aligning and rotating CAD blocks.",
+      "Imagine AI anticipating exactly where your next component should go.",
+      "AutoCAD's Smart Blocks feature, specifically its placement prediction capability, leverages machine learning to learn from your existing drawing.",
+      "As you insert a block, like a door, fixture, or electrical symbol, the AI analyzes the surrounding geometry and intelligently suggests optimal placement locations.",
+      "It understands context, snapping blocks to common insertion points, aligning with walls, or spacing them uniformly based on patterns it identifies.",
+      "This drastically reduces repetitive actions, minimizes manual adjustments, and ensures consistency.",
+      "Engineers and drafters can complete detailing tasks significantly quicker, freeing up time for more complex problem-solving.",
+      "It's not just a suggestion; it's a predictive leap in drafting efficiency.",
+      "Integrate AutoCAD Smart Blocks placement prediction into your workflow and reclaim your time. Visit the Autodesk website to learn more!"
+    ],
+    "narration": "You're about to make block placement up to 70% faster in AutoCAD! You're about to make block placement up to 70% faster in AutoCAD! Stop wasting precious hours manually aligning and rotating CAD blocks. Imagine AI anticipating exactly where your next component should go. AutoCAD's Smart Blocks feature, specifically its placement prediction capability, leverages machine learning to learn from your existing drawing. As you insert a block, like a door, fixture, or electrical symbol, the AI analyzes the surrounding geometry and intelligently suggests optimal placement locations. It understands context, snapping blocks to common insertion points, aligning with walls, or spacing them uniformly based on patterns it identifies. This drastically reduces repetitive actions, minimizes manual adjustments, and ensures consistency. Engineers and drafters can complete detailing tasks significantly quicker, freeing up time for more complex problem-solving. It's not just a suggestion; it's a predictive leap in drafting efficiency. Integrate AutoCAD Smart Blocks placement prediction into your workflow and reclaim your time. Visit the Autodesk website to learn more!",
+    "video_id": "abwcnUQBUM0",
+    "url": "https://youtu.be/abwcnUQBUM0",
+    "published_at": "2026-09-20T18:15:45.128812+00:00",
+    "duration_seconds": 64.87,
+    "perf": {}
   }
 ]
