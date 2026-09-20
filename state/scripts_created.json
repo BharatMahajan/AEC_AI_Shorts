@@ -918,5 +918,28 @@
     "published_at": "2026-09-19T08:13:54.937948+00:00",
     "duration_seconds": 63.94,
     "perf": {}
+  },
+  {
+    "date": "2026-09-20",
+    "bucket": "reality_capture",
+    "feature_fingerprint": "reality_capture:ml object classification in scans",
+    "title": "AI for Digital Twin Object Classification",
+    "title_variants": [
+      "Streamline Digital Twins: AI Object Classification in Scans",
+      "Unlock Your Point Clouds: ML Object Recognition for AEC"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "Manually classifying objects like pipes or beams from lidar scans wastes significant time, delaying digital twin creation and critical asset management.",
+      "Modern reality capture platforms like Trimble RealWorks integrate advanced machine learning for automated object classification. AI models precisely recognize and segment diverse AEC components directly within your point cloud data\u2014from HVAC ducts to concrete beams.",
+      "This transforms raw scans into structured, actionable information, drastically accelerating digital twin population. Engineers report up to a 65% reduction in manual processing, ensuring higher accuracy for maintenance schedules.",
+      "Ready for faster, more accurate digital twin population? Explore AI-driven object classification. How could this enhance your next project?"
+    ],
+    "narration": "Struggling to identify specific assets within point clouds for digital twins? Manually classifying objects like pipes or beams from lidar scans wastes significant time, delaying digital twin creation and critical asset management. Modern reality capture platforms like Trimble RealWorks integrate advanced machine learning for automated object classification. AI models precisely recognize and segment diverse AEC components directly within your point cloud data\u2014from HVAC ducts to concrete beams. This transforms raw scans into structured, actionable information, drastically accelerating digital twin population. Engineers report up to a 65% reduction in manual processing, ensuring higher accuracy for maintenance schedules. Ready for faster, more accurate digital twin population? Explore AI-driven object classification. How could this enhance your next project?",
+    "video_id": "REvQZ2OpHLE",
+    "url": "https://youtu.be/REvQZ2OpHLE",
+    "published_at": "2026-09-20T08:46:38.365370+00:00",
+    "duration_seconds": 54.6,
+    "perf": {}
   }
 ]
