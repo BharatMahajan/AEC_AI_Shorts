@@ -971,5 +971,32 @@
     "published_at": "2026-09-20T18:15:45.128812+00:00",
     "duration_seconds": 64.87,
     "perf": {}
+  },
+  {
+    "date": "2026-09-21",
+    "bucket": "cad",
+    "feature_fingerprint": "cad:markup assist for digitizing redlines",
+    "title": "Redlines Solved: AutoCAD's AI Markup Assist",
+    "title_variants": [
+      "Slash Redline Time with AutoCAD AI",
+      "AutoCAD's AI Markup Assist: Your Redline Game-Changer"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "Still manually transcribing redlines from PDFs onto your CAD drawings?",
+      "If you're spending hours interpreting scanned markups, AutoCAD's AI-powered Markup Assist can transform your workflow.",
+      "This intelligent feature automatically identifies text, revision clouds, and other markups from imported PDFs or raster images.",
+      "It overlays them onto your drawing, letting you accept changes or convert markups directly into AutoCAD objects like MTEXT with a click.",
+      "Imagine slashing revision time.",
+      "Engineers using Markup Assist report reducing redline processing by up to 50%, freeing critical hours for complex design.",
+      "It's about speed, accuracy, and consistency across your project documentation.",
+      "Streamline your revisions and reclaim valuable engineering time. Explore AutoCAD Markup Assist today!"
+    ],
+    "narration": "Still manually transcribing redlines from PDFs onto your CAD drawings? Still manually transcribing redlines from PDFs onto your CAD drawings? If you're spending hours interpreting scanned markups, AutoCAD's AI-powered Markup Assist can transform your workflow. This intelligent feature automatically identifies text, revision clouds, and other markups from imported PDFs or raster images. It overlays them onto your drawing, letting you accept changes or convert markups directly into AutoCAD objects like MTEXT with a click. Imagine slashing revision time. Engineers using Markup Assist report reducing redline processing by up to 50%, freeing critical hours for complex design. It's about speed, accuracy, and consistency across your project documentation. Streamline your revisions and reclaim valuable engineering time. Explore AutoCAD Markup Assist today!",
+    "video_id": "jwgT-3ETVo0",
+    "url": "https://youtu.be/jwgT-3ETVo0",
+    "published_at": "2026-09-21T09:14:01.816534+00:00",
+    "duration_seconds": 55.08,
+    "perf": {}
   }
 ]
