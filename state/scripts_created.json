@@ -998,5 +998,36 @@
     "published_at": "2026-09-21T09:14:01.816534+00:00",
     "duration_seconds": 55.08,
     "perf": {}
+  },
+  {
+    "date": "2026-09-21",
+    "bucket": "transport",
+    "feature_fingerprint": "transport:ml traffic flow prediction",
+    "title": "AI's Predictive Edge in Traffic Flow",
+    "title_variants": [
+      "Machine Learning: The Future of Traffic",
+      "Predictive Traffic with AI"
+    ],
+    "hook_style": "bold_claim",
+    "script_lines": [
+      "Traditional traffic analysis struggles with real-time dynamics and unpredictable events.",
+      "But machine learning is revolutionizing how we plan and manage transportation networks.",
+      "Imagine leveraging historical data, sensor feeds, weather patterns, and even social events.",
+      "All to accurately predict congestion points *hours* in advance.",
+      "Advanced traffic modeling software, integrating ML algorithms, enables granular traffic flow prediction.",
+      "This isn't just basic simulation. It's dynamic, adaptive modeling.",
+      "It forecasts vehicular densities, queue lengths, and travel times with remarkable precision.",
+      "By deploying ML-powered dynamic traffic signal optimization, cities are seeing average travel time reductions of up to 25%.",
+      "And fuel consumption decreases of 15%.",
+      "This capability allows engineers to proactively adjust signal timings and reroute traffic before issues escalate.",
+      "It transforms reactive management into predictive control, leading to smoother commutes and more efficient infrastructure utilization.",
+      "Ready to integrate predictive intelligence into your next transport project? Let's discuss the possibilities!"
+    ],
+    "narration": "We can virtually eliminate rush hour bottlenecks with AI! Traditional traffic analysis struggles with real-time dynamics and unpredictable events. But machine learning is revolutionizing how we plan and manage transportation networks. Imagine leveraging historical data, sensor feeds, weather patterns, and even social events. All to accurately predict congestion points *hours* in advance. Advanced traffic modeling software, integrating ML algorithms, enables granular traffic flow prediction. This isn't just basic simulation. It's dynamic, adaptive modeling. It forecasts vehicular densities, queue lengths, and travel times with remarkable precision. By deploying ML-powered dynamic traffic signal optimization, cities are seeing average travel time reductions of up to 25%. And fuel consumption decreases of 15%. This capability allows engineers to proactively adjust signal timings and reroute traffic before issues escalate. It transforms reactive management into predictive control, leading to smoother commutes and more efficient infrastructure utilization. Ready to integrate predictive intelligence into your next transport project? Let's discuss the possibilities!",
+    "video_id": "VI8Vl-vIBX4",
+    "url": "https://youtu.be/VI8Vl-vIBX4",
+    "published_at": "2026-09-21T20:05:51.404390+00:00",
+    "duration_seconds": 66.55,
+    "perf": {}
   }
 ]
