@@ -1057,5 +1057,28 @@
     "published_at": "2026-09-22T08:45:42.939365+00:00",
     "duration_seconds": 55.06,
     "perf": {}
+  },
+  {
+    "date": "2026-09-22",
+    "bucket": "reality_capture",
+    "feature_fingerprint": "reality_capture:automated scan-to-bim from point clouds",
+    "title": "AI-Powered Scan-to-BIM: Automating Digital Twins",
+    "title_variants": [
+      "Scan-to-BIM with AI: The Future of Reality Capture",
+      "Automated Scan-to-BIM for AEC"
+    ],
+    "hook_style": "future_tease",
+    "script_lines": [
+      "Still manually converting dense point clouds into BIM? That tedious process bottlenecks comprehensive digital twin adoption. What if AI could automate this, delivering precision and speed?",
+      "The future of reality capture is here. AI-powered Scan-to-BIM solutions transform as-built conditions into intelligent models. Using raw point cloud data, algorithms automatically detect and extract geometric features.",
+      "Platforms like EdgeWise leverage machine learning to identify structural elements, walls, and complex MEP systems. They generate precise, parametric BIM objects, slashing Scan-to-BIM timelines by 70 to 90 percent. This frees up engineers for analysis, not manual drafting.",
+      "Ready to accelerate your digital twin initiatives? Explore AI-driven Scan-to-BIM and revolutionize your workflows today."
+    ],
+    "narration": "Imagine generating accurate BIM models from complex site scans in minutes, not days? Still manually converting dense point clouds into BIM? That tedious process bottlenecks comprehensive digital twin adoption. What if AI could automate this, delivering precision and speed? The future of reality capture is here. AI-powered Scan-to-BIM solutions transform as-built conditions into intelligent models. Using raw point cloud data, algorithms automatically detect and extract geometric features. Platforms like EdgeWise leverage machine learning to identify structural elements, walls, and complex MEP systems. They generate precise, parametric BIM objects, slashing Scan-to-BIM timelines by 70 to 90 percent. This frees up engineers for analysis, not manual drafting. Ready to accelerate your digital twin initiatives? Explore AI-driven Scan-to-BIM and revolutionize your workflows today.",
+    "video_id": "mtqQ_o01xpU",
+    "url": "https://youtu.be/mtqQ_o01xpU",
+    "published_at": "2026-09-22T19:02:40.201433+00:00",
+    "duration_seconds": 58.32,
+    "perf": {}
   }
 ]
