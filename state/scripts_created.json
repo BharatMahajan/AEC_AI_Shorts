@@ -1029,5 +1029,33 @@
     "published_at": "2026-09-21T20:05:51.404390+00:00",
     "duration_seconds": 66.55,
     "perf": {}
+  },
+  {
+    "date": "2026-09-22",
+    "bucket": "gis_planning",
+    "feature_fingerprint": "gis_planning:automated zoning compliance",
+    "title": "AI & GIS: Automated Zoning Compliance",
+    "title_variants": [
+      "Master Zoning Compliance with AI-Powered GIS",
+      "Streamline Planning: AI's Role in GIS Zoning Checks",
+      "Unlock Efficiency: AI for Zoning in AEC"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "Struggling with complex zoning codes in your AEC projects?",
+      "Manual zoning compliance checks are time-intensive, error-prone, and often cause delays and costly redesigns.",
+      "Enter AI-powered GIS. These platforms now automate preliminary planning checks.",
+      "They integrate machine learning to parse regulatory documents and apply spatial rules directly to your site plans.",
+      "Upload a design; the AI instantly flags height, setback, or density violations, with specific code references.",
+      "This rapid, iterative feedback reduces initial review time by 30-50%. Imagine fewer reworks and faster permitting.",
+      "De-risk your project development and accelerate timelines by leveraging intelligent zoning compliance.",
+      "Ready to streamline your planning? Explore AI in modern GIS platforms today!"
+    ],
+    "narration": "Struggling with complex zoning codes in your AEC projects? Struggling with complex zoning codes in your AEC projects? Manual zoning compliance checks are time-intensive, error-prone, and often cause delays and costly redesigns. Enter AI-powered GIS. These platforms now automate preliminary planning checks. They integrate machine learning to parse regulatory documents and apply spatial rules directly to your site plans. Upload a design; the AI instantly flags height, setback, or density violations, with specific code references. This rapid, iterative feedback reduces initial review time by 30-50%. Imagine fewer reworks and faster permitting. De-risk your project development and accelerate timelines by leveraging intelligent zoning compliance. Ready to streamline your planning? Explore AI in modern GIS platforms today!",
+    "video_id": "dyti2jb2vCc",
+    "url": "https://youtu.be/dyti2jb2vCc",
+    "published_at": "2026-09-22T08:45:42.939365+00:00",
+    "duration_seconds": 55.06,
+    "perf": {}
   }
 ]
