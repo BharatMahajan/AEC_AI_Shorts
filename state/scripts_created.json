@@ -1109,5 +1109,27 @@
     "published_at": "2026-09-23T08:47:01.762429+00:00",
     "duration_seconds": 63.84,
     "perf": {}
+  },
+  {
+    "date": "2026-09-23",
+    "bucket": "coordination_clash",
+    "feature_fingerprint": "coordination_clash:issue auto-routing",
+    "title": "AI Auto-Routes Clashes in Navisworks",
+    "title_variants": [
+      "Smart Clash Assignment with AI",
+      "Navisworks Gets AI Issue Routing"
+    ],
+    "hook_style": "future_tease",
+    "script_lines": [
+      "Manually routing thousands of clash issues from Navisworks? That's a huge time sink in project coordination. Imagine AI automating issue assignment entirely.",
+      "Soon, AI engines will integrate with Navisworks. After a clash detection run, AI analyzes each clash\u2014dissecting elements, systems, and BIM data\u2014then autonomously assigns it to the most relevant discipline lead.",
+      "This intelligent auto-routing slashes administrative clash management by up to 70%, freeing engineers for design solutions. Envision faster resolution, fewer missed issues, and significantly reduced project delays. Ready for smarter coordination? Subscribe!"
+    ],
+    "narration": "What if AI could resolve your coordination bottlenecks before they even start? Manually routing thousands of clash issues from Navisworks? That's a huge time sink in project coordination. Imagine AI automating issue assignment entirely. Soon, AI engines will integrate with Navisworks. After a clash detection run, AI analyzes each clash\u2014dissecting elements, systems, and BIM data\u2014then autonomously assigns it to the most relevant discipline lead. This intelligent auto-routing slashes administrative clash management by up to 70%, freeing engineers for design solutions. Envision faster resolution, fewer missed issues, and significantly reduced project delays. Ready for smarter coordination? Subscribe!",
+    "video_id": "Y-qa3iGlUJI",
+    "url": "https://youtu.be/Y-qa3iGlUJI",
+    "published_at": "2026-09-23T19:10:08.918672+00:00",
+    "duration_seconds": 46.46,
+    "perf": {}
   }
 ]
