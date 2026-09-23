@@ -1080,5 +1080,34 @@
     "published_at": "2026-09-22T19:02:40.201433+00:00",
     "duration_seconds": 58.32,
     "perf": {}
+  },
+  {
+    "date": "2026-09-23",
+    "bucket": "bim_authoring",
+    "feature_fingerprint": "bim_authoring:generative floorplate layout",
+    "title": "AI Generative Floorplate Layout in Revit",
+    "title_variants": [
+      "Revit's AI Floorplan Power-Up",
+      "Engineer's AI Co-Pilot for Floor Layouts",
+      "Generative Design for AEC: Floorplans!"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "Traditional floorplate design is often a manual, iterative process, consuming significant engineering hours to optimize for various programmatic requirements.",
+      "What if AI could generate optimal layouts for you, almost instantly?",
+      "With generative design capabilities available in tools like Revit, you can define parameters like room adjacencies, area targets, daylighting metrics, and circulation efficiency.",
+      "The AI then explores thousands of potential solutions, presenting a diverse set of high-performing options tailored to your project goals.",
+      "This isn't just about speed; it's about discovering unforeseen optimal layouts.",
+      "We've seen teams reduce initial layout generation time by up to 70%, freeing up engineers to focus on higher-value design refinement and structural integration.",
+      "Imagine delivering more refined designs, faster, with data-backed justification.",
+      "Curious how this can elevate your project delivery?",
+      "Hit like and subscribe to explore more cutting-edge AI in AEC!"
+    ],
+    "narration": "Struggling to rapidly iterate through countless floorplan configurations in your BIM models? Traditional floorplate design is often a manual, iterative process, consuming significant engineering hours to optimize for various programmatic requirements. What if AI could generate optimal layouts for you, almost instantly? With generative design capabilities available in tools like Revit, you can define parameters like room adjacencies, area targets, daylighting metrics, and circulation efficiency. The AI then explores thousands of potential solutions, presenting a diverse set of high-performing options tailored to your project goals. This isn't just about speed; it's about discovering unforeseen optimal layouts. We've seen teams reduce initial layout generation time by up to 70%, freeing up engineers to focus on higher-value design refinement and structural integration. Imagine delivering more refined designs, faster, with data-backed justification. Curious how this can elevate your project delivery? Hit like and subscribe to explore more cutting-edge AI in AEC!",
+    "video_id": "Y3ZhDgM6m64",
+    "url": "https://youtu.be/Y3ZhDgM6m64",
+    "published_at": "2026-09-23T08:47:01.762429+00:00",
+    "duration_seconds": 63.84,
+    "perf": {}
   }
 ]
