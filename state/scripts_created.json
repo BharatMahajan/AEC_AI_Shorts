@@ -1161,5 +1161,37 @@
     "published_at": "2026-09-24T08:40:37.695638+00:00",
     "duration_seconds": 63.41,
     "perf": {}
+  },
+  {
+    "date": "2026-09-24",
+    "bucket": "civil_infra",
+    "feature_fingerprint": "civil_infra:ai grading optimization",
+    "title": "AI Grades Smarter, Not Harder!",
+    "title_variants": [
+      "Optimize Earthwork with AI Grading!",
+      "Civil 3D AI Grading: Cut Costs, Not Corners!",
+      "Unlock Earthwork Savings with AI Grading"
+    ],
+    "hook_style": "bold_claim",
+    "script_lines": [
+      "Stop leaving money in the ground with suboptimal grading designs!",
+      "Traditional grading is an iterative nightmare, rarely optimal for earthwork.",
+      "Imagine cutting project costs and accelerating timelines with AI precision.",
+      "Introducing AI grading optimization, a game-changer for civil infrastructure.",
+      "Integrated into tools like Autodesk Civil 3D, this feature leverages advanced algorithms.",
+      "It intelligently analyzes site constraints \u2013 slopes, drainage, haul distances \u2013 and your design objectives.",
+      "Instead of manual iterations, AI rapidly explores countless designs, identifying the most efficient solution.",
+      "This minimizes cut and fill volumes, translating directly to massive savings.",
+      "Imagine a 10-15% reduction in earthwork, saving hundreds of thousands in material and operational costs.",
+      "Plus, accelerate design cycles, freeing your team for higher-value tasks.",
+      "Ready to deliver more sustainable, cost-efficient projects?",
+      "Explore AI grading optimization in Civil 3D and transform your civil design today!"
+    ],
+    "narration": "Stop leaving money in the ground with suboptimal grading designs! Stop leaving money in the ground with suboptimal grading designs! Traditional grading is an iterative nightmare, rarely optimal for earthwork. Imagine cutting project costs and accelerating timelines with AI precision. Introducing AI grading optimization, a game-changer for civil infrastructure. Integrated into tools like Autodesk Civil 3D, this feature leverages advanced algorithms. It intelligently analyzes site constraints \u2013 slopes, drainage, haul distances \u2013 and your design objectives. Instead of manual iterations, AI rapidly explores countless designs, identifying the most efficient solution. This minimizes cut and fill volumes, translating directly to massive savings. Imagine a 10-15% reduction in earthwork, saving hundreds of thousands in material and operational costs. Plus, accelerate design cycles, freeing your team for higher-value tasks. Ready to deliver more sustainable, cost-efficient projects? Explore AI grading optimization in Civil 3D and transform your civil design today!",
+    "video_id": "SAmeOATeKoU",
+    "url": "https://youtu.be/SAmeOATeKoU",
+    "published_at": "2026-09-24T19:23:01.264838+00:00",
+    "duration_seconds": 68.5,
+    "perf": {}
   }
 ]
