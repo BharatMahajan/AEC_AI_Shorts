@@ -1131,5 +1131,35 @@
     "published_at": "2026-09-23T19:10:08.918672+00:00",
     "duration_seconds": 46.46,
     "perf": {}
+  },
+  {
+    "date": "2026-09-24",
+    "bucket": "mep",
+    "feature_fingerprint": "mep:automated duct/pipe routing",
+    "title": "AI Supercharges MEP Routing",
+    "title_variants": [
+      "Automated Duct & Pipe Design with AI",
+      "MEP Routing: The AI Revolution"
+    ],
+    "hook_style": "future_tease",
+    "script_lines": [
+      "What if your MEP designs could practically lay themselves out?",
+      "AI is transforming the game with automated duct and pipe routing.",
+      "Forget manual, iterative placement.",
+      "Modern AI-powered MEP routing solutions leverage sophisticated algorithms to analyze spatial constraints, structural elements, and service requirements in seconds.",
+      "You define parameters like clearances, pressure drops, maximum bend radius, and preferred routing zones...",
+      "...and the AI generates optimized, clash-free paths. This isn't just a suggestion; it's a complete, compliant design.",
+      "Imagine cutting initial routing design time by over 60% and reducing material waste by 10-15% due to optimized pathing.",
+      "These intelligent systems even consider constructability, ensuring optimal access for installation and maintenance, adhering to crucial installation guidelines automatically.",
+      "Ready to revolutionize your MEP workflows and deliver projects faster and more profitably?",
+      "Explore how AI-driven routing can elevate your design process.",
+      "The future of MEP design is intelligent, efficient, and here."
+    ],
+    "narration": "What if your MEP designs could practically lay themselves out? What if your MEP designs could practically lay themselves out? AI is transforming the game with automated duct and pipe routing. Forget manual, iterative placement. Modern AI-powered MEP routing solutions leverage sophisticated algorithms to analyze spatial constraints, structural elements, and service requirements in seconds. You define parameters like clearances, pressure drops, maximum bend radius, and preferred routing zones... ...and the AI generates optimized, clash-free paths. This isn't just a suggestion; it's a complete, compliant design. Imagine cutting initial routing design time by over 60% and reducing material waste by 10-15% due to optimized pathing. These intelligent systems even consider constructability, ensuring optimal access for installation and maintenance, adhering to crucial installation guidelines automatically. Ready to revolutionize your MEP workflows and deliver projects faster and more profitably? Explore how AI-driven routing can elevate your design process. The future of MEP design is intelligent, efficient, and here.",
+    "video_id": "vyStWxhMF0c",
+    "url": "https://youtu.be/vyStWxhMF0c",
+    "published_at": "2026-09-24T08:40:37.695638+00:00",
+    "duration_seconds": 63.41,
+    "perf": {}
   }
 ]
