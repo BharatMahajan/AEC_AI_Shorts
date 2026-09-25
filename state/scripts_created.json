@@ -1220,5 +1220,34 @@
     "published_at": "2026-09-25T09:01:56.974931+00:00",
     "duration_seconds": 59.66,
     "perf": {}
+  },
+  {
+    "date": "2026-09-25",
+    "bucket": "mep",
+    "feature_fingerprint": "mep:ml energy-use prediction",
+    "title": "AI's Energy Edge in MEP Routing",
+    "title_variants": [
+      "MEP Design Revolutionized with AI",
+      "Predict & Optimize with AI MEP",
+      "ML-Powered Energy Prediction for MEP"
+    ],
+    "hook_style": "bold_claim",
+    "script_lines": [
+      "In MEP design, optimizing for energy performance is critical, yet traditionally time-consuming.",
+      "Imagine quickly evaluating dozens of routing options against predicted energy consumption.",
+      "This is no longer future tech. AI-powered modules, integrated with platforms like Autodesk Revit MEP, are transforming this process.",
+      "These tools leverage machine learning to predict energy use based on your design parameters \u2013 from ductwork configuration and pipe layouts to equipment selection and zone conditions.",
+      "Instead of iterative simulations taking hours or days, ML models rapidly provide insights into the energy implications of different routing strategies.",
+      "This means you can identify and implement the most energy-efficient layouts much earlier.",
+      "We're talking about reducing predicted annual HVAC energy consumption by up to 20%, while accelerating design iteration cycles by threefold.",
+      "This isn't just about compliance; it's about delivering superior, high-performance buildings with optimized operational costs.",
+      "Ready to elevate your MEP designs? Explore AI-driven energy prediction today!"
+    ],
+    "narration": "What if you could guarantee optimal MEP routing for maximum energy efficiency, every single time? In MEP design, optimizing for energy performance is critical, yet traditionally time-consuming. Imagine quickly evaluating dozens of routing options against predicted energy consumption. This is no longer future tech. AI-powered modules, integrated with platforms like Autodesk Revit MEP, are transforming this process. These tools leverage machine learning to predict energy use based on your design parameters \u2013 from ductwork configuration and pipe layouts to equipment selection and zone conditions. Instead of iterative simulations taking hours or days, ML models rapidly provide insights into the energy implications of different routing strategies. This means you can identify and implement the most energy-efficient layouts much earlier. We're talking about reducing predicted annual HVAC energy consumption by up to 20%, while accelerating design iteration cycles by threefold. This isn't just about compliance; it's about delivering superior, high-performance buildings with optimized operational costs. Ready to elevate your MEP designs? Explore AI-driven energy prediction today!",
+    "video_id": "KJQKDOUTR7c",
+    "url": "https://youtu.be/KJQKDOUTR7c",
+    "published_at": "2026-09-25T19:24:35.385545+00:00",
+    "duration_seconds": 65.38,
+    "perf": {}
   }
 ]
