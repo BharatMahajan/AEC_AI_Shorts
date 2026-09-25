@@ -1193,5 +1193,32 @@
     "published_at": "2026-09-24T19:23:01.264838+00:00",
     "duration_seconds": 68.5,
     "perf": {}
+  },
+  {
+    "date": "2026-09-25",
+    "bucket": "site_ops",
+    "feature_fingerprint": "site_ops:autonomous layout robots",
+    "title": "AI Robots: Revolutionizing Jobsite Layout",
+    "title_variants": [
+      "Autonomous Layout Robots Are Here",
+      "Jobsite Layout: Faster & Smarter with AI"
+    ],
+    "hook_style": "bold_claim",
+    "script_lines": [
+      "Imagine your jobsite layout completed with millimeter precision, autonomously, in a fraction of the time.",
+      "Traditional layout is a bottleneck: labor-intensive, slow, and prone to human error.",
+      "But AI is revolutionizing this critical phase through **autonomous layout robots**.",
+      "These robots leverage advanced **computer vision** algorithms to navigate complex site conditions and precisely mark layout points.",
+      "Using a **BIM model as their blueprint**, tools like the Hilti Jaibot interpret digital plans directly, projecting and marking hundreds of points for walls, MEP, or penetrations.",
+      "This feature, **robotic field layout**, dramatically cuts layout time by up to 50% compared to manual methods, achieving accuracy within 2-3 millimeters.",
+      "Reduced rework, improved safety, and significant labor savings are now achievable.",
+      "Are you deploying autonomous layout robots on your projects? Share your insights!"
+    ],
+    "narration": "AI is unleashing jobsite layout precision like never before! Imagine your jobsite layout completed with millimeter precision, autonomously, in a fraction of the time. Traditional layout is a bottleneck: labor-intensive, slow, and prone to human error. But AI is revolutionizing this critical phase through **autonomous layout robots**. These robots leverage advanced **computer vision** algorithms to navigate complex site conditions and precisely mark layout points. Using a **BIM model as their blueprint**, tools like the Hilti Jaibot interpret digital plans directly, projecting and marking hundreds of points for walls, MEP, or penetrations. This feature, **robotic field layout**, dramatically cuts layout time by up to 50% compared to manual methods, achieving accuracy within 2-3 millimeters. Reduced rework, improved safety, and significant labor savings are now achievable. Are you deploying autonomous layout robots on your projects? Share your insights!",
+    "video_id": "R9a8YJI_acM",
+    "url": "https://youtu.be/R9a8YJI_acM",
+    "published_at": "2026-09-25T09:01:56.974931+00:00",
+    "duration_seconds": 59.66,
+    "perf": {}
   }
 ]
