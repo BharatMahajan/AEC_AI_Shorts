@@ -1249,5 +1249,32 @@
     "published_at": "2026-09-25T19:24:35.385545+00:00",
     "duration_seconds": 65.38,
     "perf": {}
+  },
+  {
+    "date": "2026-09-26",
+    "bucket": "bim_authoring",
+    "feature_fingerprint": "bim_authoring:automated room tagging",
+    "title": "Revit AI: Automated Room Tagging",
+    "title_variants": [
+      "AI for Revit: Eliminate Manual Room Tags",
+      "Revolutionize Room Tagging with AI in Revit",
+      "BIM Automation: AI Tags Your Revit Rooms"
+    ],
+    "hook_style": "pain_point",
+    "script_lines": [
+      "Tired of manually tagging every single room in your BIM models?",
+      "It's a repetitive, time-consuming task that pulls your team away from critical design work, and frankly, it's prone to human error.",
+      "Imagine automating that entire process. AI-powered room tagging solutions are transforming how we manage BIM data.",
+      "Specifically, tools integrating with platforms like Revit can now intelligently identify and assign room properties, tags, and data based on your model geometry.",
+      "This means instead of spending hours on a floor plan, an AI can process hundreds of rooms in minutes, drastically reducing your project timeline and freeing up your junior engineers for more complex challenges.",
+      "You can expect to cut down room tagging time by upwards of 80%, ensuring consistency and accuracy across even the largest projects.",
+      "Ready to ditch the manual grind? Share your biggest BIM authoring pain point in the comments below!"
+    ],
+    "narration": "Tired of manually tagging every single room in your BIM models? Tired of manually tagging every single room in your BIM models? It's a repetitive, time-consuming task that pulls your team away from critical design work, and frankly, it's prone to human error. Imagine automating that entire process. AI-powered room tagging solutions are transforming how we manage BIM data. Specifically, tools integrating with platforms like Revit can now intelligently identify and assign room properties, tags, and data based on your model geometry. This means instead of spending hours on a floor plan, an AI can process hundreds of rooms in minutes, drastically reducing your project timeline and freeing up your junior engineers for more complex challenges. You can expect to cut down room tagging time by upwards of 80%, ensuring consistency and accuracy across even the largest projects. Ready to ditch the manual grind? Share your biggest BIM authoring pain point in the comments below!",
+    "video_id": "Jrcr-azg8t8",
+    "url": "https://youtu.be/Jrcr-azg8t8",
+    "published_at": "2026-09-26T08:47:24.026853+00:00",
+    "duration_seconds": 59.42,
+    "perf": {}
   }
 ]
