@@ -1276,5 +1276,33 @@
     "published_at": "2026-09-26T08:47:24.026853+00:00",
     "duration_seconds": 59.42,
     "perf": {}
+  },
+  {
+    "date": "2026-09-26",
+    "bucket": "gis_planning",
+    "feature_fingerprint": "gis_planning:ai site-suitability analysis",
+    "title": "AI Site Suitability in GIS",
+    "title_variants": [
+      "Unlock Optimal Sites with AI",
+      "GIS AI for Rapid Site Selection",
+      "AI-Powered Site Suitability Analysis"
+    ],
+    "hook_style": "pain_point",
+    "script_lines": [
+      "That painstaking process of integrating topography, zoning, environmental factors, and infrastructure can consume weeks, leaving you second-guessing.",
+      "What if AI could instantly highlight prime development locations?",
+      "Enter AI site-suitability analysis, now integrated into GIS platforms like ArcGIS Pro.",
+      "This advanced feature leverages machine learning, ingesting vast datasets\u2014from soil composition and flood plains to transportation networks and utility access.",
+      "Define your project's criteria. The AI processes millions of data points, weighing factors to generate precise suitability scores for every parcel.",
+      "It quantifies potential, showing *why* a location is ideal or not.",
+      "One firm reduced initial site assessment time by over 70%, evaluating five times more opportunities with greater confidence.",
+      "Stop guessing. Explore AI site-suitability analysis in your GIS workflow today!"
+    ],
+    "narration": "Struggling to find the absolute best site for your next project, sifting through mountains of data manually? That painstaking process of integrating topography, zoning, environmental factors, and infrastructure can consume weeks, leaving you second-guessing. What if AI could instantly highlight prime development locations? Enter AI site-suitability analysis, now integrated into GIS platforms like ArcGIS Pro. This advanced feature leverages machine learning, ingesting vast datasets\u2014from soil composition and flood plains to transportation networks and utility access. Define your project's criteria. The AI processes millions of data points, weighing factors to generate precise suitability scores for every parcel. It quantifies potential, showing *why* a location is ideal or not. One firm reduced initial site assessment time by over 70%, evaluating five times more opportunities with greater confidence. Stop guessing. Explore AI site-suitability analysis in your GIS workflow today!",
+    "video_id": "2JxEJWjxBfI",
+    "url": "https://youtu.be/2JxEJWjxBfI",
+    "published_at": "2026-09-26T18:41:03.111902+00:00",
+    "duration_seconds": 62.66,
+    "perf": {}
   }
 ]
