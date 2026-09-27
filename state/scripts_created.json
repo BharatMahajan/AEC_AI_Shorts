@@ -1329,5 +1329,31 @@
     "published_at": "2026-09-27T09:28:07.727412+00:00",
     "duration_seconds": 57.58,
     "perf": {}
+  },
+  {
+    "date": "2026-09-27",
+    "bucket": "cad",
+    "feature_fingerprint": "cad:ai command suggestions",
+    "title": "Unleash AutoCAD AI Command Suggestions",
+    "title_variants": [
+      "AutoCAD's AI Commands: Your New CAD Assistant",
+      "Boost CAD Speed: AI Command Suggestions in AutoCAD"
+    ],
+    "hook_style": "bold_claim",
+    "script_lines": [
+      "In AEC, every second spent navigating menus or remembering obscure commands impacts project timelines.",
+      "Imagine a CAD environment that anticipates your next move, practically reading your design intent.",
+      "That future is here with AutoCAD's AI-powered Command Suggestions.",
+      "This intelligent feature learns from your drafting patterns, the objects you\u2019re interacting with, and common industry practices within your drawing context.",
+      "It proactively recommends the most relevant commands directly in your workspace.",
+      "This isn't just a minor convenience; users can see up to a 20% increase in task efficiency, saving hours weekly and accelerating design iteration.",
+      "Boost your team's output. Dive into AutoCAD and leverage AI command suggestions today to transform your design process!"
+    ],
+    "narration": "Engineers, stop wasting precious design time hunting for CAD commands! You could be accelerating your workflows right now. In AEC, every second spent navigating menus or remembering obscure commands impacts project timelines. Imagine a CAD environment that anticipates your next move, practically reading your design intent. That future is here with AutoCAD's AI-powered Command Suggestions. This intelligent feature learns from your drafting patterns, the objects you\u2019re interacting with, and common industry practices within your drawing context. It proactively recommends the most relevant commands directly in your workspace. This isn't just a minor convenience; users can see up to a 20% increase in task efficiency, saving hours weekly and accelerating design iteration. Boost your team's output. Dive into AutoCAD and leverage AI command suggestions today to transform your design process!",
+    "video_id": "5a8piYpsoJI",
+    "url": "https://youtu.be/5a8piYpsoJI",
+    "published_at": "2026-09-27T19:08:51.624188+00:00",
+    "duration_seconds": 54.94,
+    "perf": {}
   }
 ]
