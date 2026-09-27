@@ -1304,5 +1304,30 @@
     "published_at": "2026-09-26T18:41:03.111902+00:00",
     "duration_seconds": 62.66,
     "perf": {}
+  },
+  {
+    "date": "2026-09-27",
+    "bucket": "gis_planning",
+    "feature_fingerprint": "gis_planning:ml land-use classification",
+    "title": "AI for Land Use Classification: Faster Planning",
+    "title_variants": [
+      "Accelerate Site Analysis with AI Land Use Classification",
+      "GIS + AI: Revolutionizing Land Use Mapping",
+      "Cut Site Assessment Time with ML Land-Use Classification"
+    ],
+    "hook_style": "pain_point",
+    "script_lines": [
+      "You know the grind: hours spent interpreting satellite imagery, digitizing boundaries, and cross-referencing zoning. It's a bottleneck, delaying crucial early-stage planning decisions.",
+      "But what if modern GIS platforms like ArcGIS Pro could do it for you, leveraging AI-powered ML land-use classification?",
+      "This feature uses advanced machine learning to automatically identify and categorize land covers from high-resolution aerial imagery. Think residential, commercial, industrial, and natural areas, all mapped in minutes.",
+      "Engineers are now accelerating initial site assessments by up to 70%, turning weeks of manual analysis into just days. This significantly reduces manual errors and frees up your valuable time.",
+      "Stop getting bogged down in tedious data interpretation. Explore how AI in GIS can give your projects a faster, more accurate start."
+    ],
+    "narration": "Manually classifying land use for new project sites taking too long? You know the grind: hours spent interpreting satellite imagery, digitizing boundaries, and cross-referencing zoning. It's a bottleneck, delaying crucial early-stage planning decisions. But what if modern GIS platforms like ArcGIS Pro could do it for you, leveraging AI-powered ML land-use classification? This feature uses advanced machine learning to automatically identify and categorize land covers from high-resolution aerial imagery. Think residential, commercial, industrial, and natural areas, all mapped in minutes. Engineers are now accelerating initial site assessments by up to 70%, turning weeks of manual analysis into just days. This significantly reduces manual errors and frees up your valuable time. Stop getting bogged down in tedious data interpretation. Explore how AI in GIS can give your projects a faster, more accurate start.",
+    "video_id": "lm8pMxeKnRc",
+    "url": "https://youtu.be/lm8pMxeKnRc",
+    "published_at": "2026-09-27T09:28:07.727412+00:00",
+    "duration_seconds": 57.58,
+    "perf": {}
   }
 ]
