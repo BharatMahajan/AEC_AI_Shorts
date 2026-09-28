@@ -1355,5 +1355,31 @@
     "published_at": "2026-09-27T19:08:51.624188+00:00",
     "duration_seconds": 54.94,
     "perf": {}
+  },
+  {
+    "date": "2026-09-28",
+    "bucket": "transport",
+    "feature_fingerprint": "transport:transit demand forecasting",
+    "title": "AI for Predictive Transit Demand",
+    "title_variants": [
+      "Smart Transit Forecasting",
+      "Future-Proofing Urban Mobility with AI"
+    ],
+    "hook_style": "future_tease",
+    "script_lines": [
+      "Traditional transit demand forecasting often struggles with the dynamic complexity of urban growth.",
+      "Now, AI-powered demand forecasting is transforming how we plan infrastructure.",
+      "By integrating vast datasets\u2014from anonymized mobile data, public transport ridership, and GIS, to economic indicators\u2014machine learning models detect intricate patterns, predicting future demand with unprecedented precision.",
+      "Using advanced traffic modeling platforms, leveraging AI, engineers can simulate scenarios to optimize new transit lines and evaluate network expansions.",
+      "This enables forecasting shifts in demand up to 5 years out, potentially reducing project planning cycles by 15% and minimizing infrastructure underutilization.",
+      "It\u2019s about smarter, more resilient urban planning.",
+      "Ready to build the future of urban mobility? Explore how AI refines transport projects."
+    ],
+    "narration": "What if you could predict the future movements of an entire city's population with uncanny accuracy? Traditional transit demand forecasting often struggles with the dynamic complexity of urban growth. Now, AI-powered demand forecasting is transforming how we plan infrastructure. By integrating vast datasets\u2014from anonymized mobile data, public transport ridership, and GIS, to economic indicators\u2014machine learning models detect intricate patterns, predicting future demand with unprecedented precision. Using advanced traffic modeling platforms, leveraging AI, engineers can simulate scenarios to optimize new transit lines and evaluate network expansions. This enables forecasting shifts in demand up to 5 years out, potentially reducing project planning cycles by 15% and minimizing infrastructure underutilization. It\u2019s about smarter, more resilient urban planning. Ready to build the future of urban mobility? Explore how AI refines transport projects.",
+    "video_id": "HKvQAaD5XL4",
+    "url": "https://youtu.be/HKvQAaD5XL4",
+    "published_at": "2026-09-28T21:19:48.989714+00:00",
+    "duration_seconds": 59.28,
+    "perf": {}
   }
 ]
