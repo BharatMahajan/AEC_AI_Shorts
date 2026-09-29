@@ -1407,5 +1407,30 @@
     "published_at": "2026-09-29T10:03:53.417653+00:00",
     "duration_seconds": 55.92,
     "perf": {}
+  },
+  {
+    "date": "2026-09-29",
+    "bucket": "bim_authoring",
+    "feature_fingerprint": "bim_authoring:ai-assisted family creation",
+    "title": "Revit Families: AI Takes the Grind Out!",
+    "title_variants": [
+      "AI Supercharges Revit Family Creation",
+      "Stop Tedious Revit Family Work: Use AI",
+      "Revit Family Creation: AI's New Game"
+    ],
+    "hook_style": "pain_point",
+    "script_lines": [
+      "Tired of slogging through custom Revit family creation? Manually building complex geometries, parameters, and connectors for every unique component is a huge time sink. It's tedious, error-prone, and often delays critical project milestones.",
+      "But what if AI could handle the heavy lifting? Imagine using AI-assisted family creation tools directly within Revit. You simply provide natural language prompts describing your desired component \u2013 perhaps a custom light fixture with specific dimensions and material properties, or a unique door assembly.",
+      "The AI interprets your input, leveraging vast libraries of existing geometry and BIM standards. It can even take a simple sketch or reference image and generate a fully parametric, LOD-appropriate Revit family.",
+      "This isn't just a concept; it's a productivity game-changer. Engineers using these intelligent tools report reducing complex family creation time by up to 70%, freeing them to focus on design validation and crucial problem-solving.",
+      "Stop building families from scratch. Start leveraging AI in Revit. Explore how AI-assisted family creation can accelerate your next project workflow today!"
+    ],
+    "narration": "Tired of slogging through custom Revit family creation? Tired of slogging through custom Revit family creation? Manually building complex geometries, parameters, and connectors for every unique component is a huge time sink. It's tedious, error-prone, and often delays critical project milestones. But what if AI could handle the heavy lifting? Imagine using AI-assisted family creation tools directly within Revit. You simply provide natural language prompts describing your desired component \u2013 perhaps a custom light fixture with specific dimensions and material properties, or a unique door assembly. The AI interprets your input, leveraging vast libraries of existing geometry and BIM standards. It can even take a simple sketch or reference image and generate a fully parametric, LOD-appropriate Revit family. This isn't just a concept; it's a productivity game-changer. Engineers using these intelligent tools report reducing complex family creation time by up to 70%, freeing them to focus on design validation and crucial problem-solving. Stop building families from scratch. Start leveraging AI in Revit. Explore how AI-assisted family creation can accelerate your next project workflow today!",
+    "video_id": "b8qaBTAPVPM",
+    "url": "https://youtu.be/b8qaBTAPVPM",
+    "published_at": "2026-09-29T20:07:23.836887+00:00",
+    "duration_seconds": 66.79,
+    "perf": {}
   }
 ]
