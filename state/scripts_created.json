@@ -1381,5 +1381,31 @@
     "published_at": "2026-09-28T21:19:48.989714+00:00",
     "duration_seconds": 59.28,
     "perf": {}
+  },
+  {
+    "date": "2026-09-29",
+    "bucket": "site_ops",
+    "feature_fingerprint": "site_ops:equipment-utilization tracking",
+    "title": "AI Eliminates Costly Equipment Downtime",
+    "title_variants": [
+      "Boost Site Productivity with AI Vision",
+      "Doxel: End Idle Equipment Costs",
+      "Unlock Optimal Equipment Utilization"
+    ],
+    "hook_style": "shocking_stat",
+    "script_lines": [
+      "That lost productivity directly impacts your project schedules and budget, leading to significant cost overruns.",
+      "But what if you could pinpoint exactly when and why your excavators, loaders, or dozers aren't working?",
+      "AI-powered computer vision is revolutionizing site operations. By analyzing live video feeds, these systems identify and track every piece of equipment.",
+      "Tools like Doxel leverage this for sophisticated equipment utilization tracking, continuously monitoring operational status and idle times.",
+      "This provides engineers and general contractors real-time data to optimize fleet management. Imagine boosting active use by 10-15%, directly enhancing project profitability and schedule adherence.",
+      "It\u2019s time to stop guessing. Learn more about Doxel\u2019s capabilities and optimize your site logistics!"
+    ],
+    "narration": "Did you know heavy construction equipment sits idle up to 40% of the time on many project sites? That lost productivity directly impacts your project schedules and budget, leading to significant cost overruns. But what if you could pinpoint exactly when and why your excavators, loaders, or dozers aren't working? AI-powered computer vision is revolutionizing site operations. By analyzing live video feeds, these systems identify and track every piece of equipment. Tools like Doxel leverage this for sophisticated equipment utilization tracking, continuously monitoring operational status and idle times. This provides engineers and general contractors real-time data to optimize fleet management. Imagine boosting active use by 10-15%, directly enhancing project profitability and schedule adherence. It\u2019s time to stop guessing. Learn more about Doxel\u2019s capabilities and optimize your site logistics!",
+    "video_id": "ww5mvKLv7pk",
+    "url": "https://youtu.be/ww5mvKLv7pk",
+    "published_at": "2026-09-29T10:03:53.417653+00:00",
+    "duration_seconds": 55.92,
+    "perf": {}
   }
 ]
