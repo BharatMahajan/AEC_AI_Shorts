@@ -1456,5 +1456,32 @@
     "published_at": "2026-09-30T09:56:45.669831+00:00",
     "duration_seconds": 64.44,
     "perf": {}
+  },
+  {
+    "date": "2026-09-30",
+    "bucket": "docs_specs",
+    "feature_fingerprint": "docs_specs:spec compliance checking",
+    "title": "AI for AEC Specs: Cut RFIs & Rework",
+    "title_variants": [
+      "AI Unlocks Spec Compliance: The Future of AEC Documents",
+      "Stop Rework: AI's Role in Spec Compliance",
+      "Boost Efficiency: AI-Powered Spec Compliance"
+    ],
+    "hook_style": "shocking_stat",
+    "script_lines": [
+      "Did you know up to 15% of project RFIs are directly related to specification interpretation or compliance, costing hundreds of thousands in delays and rework!",
+      "That's why AI-powered document analysis platforms are revolutionizing AEC, using Natural Language Processing to cross-reference all project documents against master specifications.",
+      "Imagine submitting a design proposal, and AI proactively flags non-compliance *before* it leaves your desk.",
+      "It highlights discrepancies in material properties, installation methods, or required submittals by referencing specific clauses.",
+      "This isn't keyword search. AI understands context, finding nuanced semantic differences across thousands of pages human review often misses.",
+      "By catching issues early, you can cut spec-related RFIs by over 40 percent and save hundreds of engineering hours on rework.",
+      "Ready to dramatically improve project efficiency and reduce costly rework? Integrate AI-driven spec compliance tools into your workflow today."
+    ],
+    "narration": "Did you know up to 15% of project RFIs are directly related to specification interpretation or compliance, costing hundreds of thousands in delays and rework! Did you know up to 15% of project RFIs are directly related to specification interpretation or compliance, costing hundreds of thousands in delays and rework! That's why AI-powered document analysis platforms are revolutionizing AEC, using Natural Language Processing to cross-reference all project documents against master specifications. Imagine submitting a design proposal, and AI proactively flags non-compliance *before* it leaves your desk. It highlights discrepancies in material properties, installation methods, or required submittals by referencing specific clauses. This isn't keyword search. AI understands context, finding nuanced semantic differences across thousands of pages human review often misses. By catching issues early, you can cut spec-related RFIs by over 40 percent and save hundreds of engineering hours on rework. Ready to dramatically improve project efficiency and reduce costly rework? Integrate AI-driven spec compliance tools into your workflow today.",
+    "video_id": "H-O-VKXrj4o",
+    "url": "https://youtu.be/H-O-VKXrj4o",
+    "published_at": "2026-09-30T20:13:07.274668+00:00",
+    "duration_seconds": 63.19,
+    "perf": {}
   }
 ]
