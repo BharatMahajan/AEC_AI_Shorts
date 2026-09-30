@@ -1432,5 +1432,29 @@
     "published_at": "2026-09-29T20:07:23.836887+00:00",
     "duration_seconds": 66.79,
     "perf": {}
+  },
+  {
+    "date": "2026-09-30",
+    "bucket": "water_environmental",
+    "feature_fingerprint": "water_environmental:ml treatment-plant process optimization",
+    "title": "Boost Plant Efficiency with AI-Driven ML Optimization!",
+    "title_variants": [
+      "AI for Water Treatment: Smarter Plants, Lower Costs",
+      "ML Optimization for Wastewater: Cut Chemicals, Save Energy"
+    ],
+    "hook_style": "pain_point",
+    "script_lines": [
+      "Struggling to consistently meet effluent standards while battling soaring operational costs at your water or wastewater treatment plant? Manual, reactive process adjustments often lead to chemical overuse, higher energy consumption, and environmental compliance risks, right?",
+      "That's where AI-driven ML treatment-plant process optimization comes in. Imagine a system, like specialized modules within Xylem's Aquasuite, that constantly analyzes real-time SCADA data.",
+      "This AI leverages insights from your calibrated plant hydraulic model to predict and implement optimal adjustments.",
+      "This AI intelligently fine-tunes parameters like chemical dosing, aeration rates, and sludge return ratios, minimizing process variability. For example, implementing this can lead to a proven 15% reduction in chemical consumption and up to 10% energy savings through optimized blower operations, significantly improving your plant\u2019s bottom line and environmental performance.",
+      "Ready to transform your plant operations? Discover how ML optimization can achieve consistent compliance and substantial savings."
+    ],
+    "narration": "Struggling to consistently meet effluent standards while battling soaring operational costs at your water or wastewater treatment plant? Struggling to consistently meet effluent standards while battling soaring operational costs at your water or wastewater treatment plant? Manual, reactive process adjustments often lead to chemical overuse, higher energy consumption, and environmental compliance risks, right? That's where AI-driven ML treatment-plant process optimization comes in. Imagine a system, like specialized modules within Xylem's Aquasuite, that constantly analyzes real-time SCADA data. This AI leverages insights from your calibrated plant hydraulic model to predict and implement optimal adjustments. This AI intelligently fine-tunes parameters like chemical dosing, aeration rates, and sludge return ratios, minimizing process variability. For example, implementing this can lead to a proven 15% reduction in chemical consumption and up to 10% energy savings through optimized blower operations, significantly improving your plant\u2019s bottom line and environmental performance. Ready to transform your plant operations? Discover how ML optimization can achieve consistent compliance and substantial savings.",
+    "video_id": "TZgXeGLR6Kg",
+    "url": "https://youtu.be/TZgXeGLR6Kg",
+    "published_at": "2026-09-30T09:56:45.669831+00:00",
+    "duration_seconds": 64.44,
+    "perf": {}
   }
 ]
