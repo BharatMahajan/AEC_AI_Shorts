@@ -1483,5 +1483,33 @@
     "published_at": "2026-09-30T20:13:07.274668+00:00",
     "duration_seconds": 63.19,
     "perf": {}
+  },
+  {
+    "date": "2026-10-01",
+    "bucket": "structural",
+    "feature_fingerprint": "structural:automated rebar detailing",
+    "title": "AI for Automated Rebar Detailing",
+    "title_variants": [
+      "Rebar Detailing with AI",
+      "Supercharge Rebar Detailing with AI",
+      "AI-Powered Rebar Automation"
+    ],
+    "hook_style": "future_tease",
+    "script_lines": [
+      "Rebar detailing: complex, time-consuming, a major source of delays and RFIs.",
+      "But AI is now transforming this critical structural process.",
+      "Imagine AI leveraging your structural analysis outputs \u2013 loads, stresses, deflections \u2013 to instantly generate optimized, code-compliant rebar layouts.",
+      "Integrated with BIM platforms like Tekla Structures, advanced algorithms automate detailed arrangements, even for complex geometries, and meticulously check for clashes.",
+      "The AI ensures buildability and material efficiency, optimizing every bar placement.",
+      "This cuts detailing time by over 50% and slashes rebar-related RFIs by 40%.",
+      "You gain precise cut lists and 3D models with minimal input, freeing engineers for higher-value decisions.",
+      "Ready to explore how AI can transform your structural workflows? Investigate automated rebar detailing solutions today."
+    ],
+    "narration": "What if your most tedious structural task could be transformed, delivering error-free rebar designs in a fraction of the time? Rebar detailing: complex, time-consuming, a major source of delays and RFIs. But AI is now transforming this critical structural process. Imagine AI leveraging your structural analysis outputs \u2013 loads, stresses, deflections \u2013 to instantly generate optimized, code-compliant rebar layouts. Integrated with BIM platforms like Tekla Structures, advanced algorithms automate detailed arrangements, even for complex geometries, and meticulously check for clashes. The AI ensures buildability and material efficiency, optimizing every bar placement. This cuts detailing time by over 50% and slashes rebar-related RFIs by 40%. You gain precise cut lists and 3D models with minimal input, freeing engineers for higher-value decisions. Ready to explore how AI can transform your structural workflows? Investigate automated rebar detailing solutions today.",
+    "video_id": "1WRFPXtQHMc",
+    "url": "https://youtu.be/1WRFPXtQHMc",
+    "published_at": "2026-10-01T10:23:50.278072+00:00",
+    "duration_seconds": 62.62,
+    "perf": {}
   }
 ]
