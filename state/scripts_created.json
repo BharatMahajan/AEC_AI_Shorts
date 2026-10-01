@@ -1511,5 +1511,34 @@
     "published_at": "2026-10-01T10:23:50.278072+00:00",
     "duration_seconds": 62.62,
     "perf": {}
+  },
+  {
+    "date": "2026-10-01",
+    "bucket": "bim_authoring",
+    "feature_fingerprint": "bim_authoring:early-stage massing with forma",
+    "title": "Forma & Revit: AI for Early-Stage BIM Massing",
+    "title_variants": [
+      "AI Massing with Forma: Revolutionize Early-Stage BIM",
+      "Stop Rework: Forma's AI for Conceptual Design",
+      "Revit Ready: AI-Optimized Massing with Autodesk Forma"
+    ],
+    "hook_style": "shocking_stat",
+    "script_lines": [
+      "That's where AI is revolutionizing BIM authoring, specifically with Autodesk Forma.",
+      "Forma uses generative AI to rapidly explore countless design permutations for early-stage massing.",
+      "Imagine uploading your site context and constraints, and Forma instantly generates high-performance building options.",
+      "It analyzes factors like sunlight, wind, and buildable area, providing data-driven insights to optimize your project from day one.",
+      "This isn't just conceptual; you can compare scenarios side-by-side, understanding impact on key metrics.",
+      "Once optimized, this intelligent massing model integrates seamlessly into Revit for detailed development.",
+      "This process drastically reduces manual iteration time, letting your team focus on value-added design, not endless sketching.",
+      "Stop the late-stage change penalties! Ready to make smarter, faster decisions in conceptual design with Forma and Revit?",
+      "Learn more today!"
+    ],
+    "narration": "Did you know inadequate early-stage design costs projects up to 10% of their total budget due to rework later?! That's where AI is revolutionizing BIM authoring, specifically with Autodesk Forma. Forma uses generative AI to rapidly explore countless design permutations for early-stage massing. Imagine uploading your site context and constraints, and Forma instantly generates high-performance building options. It analyzes factors like sunlight, wind, and buildable area, providing data-driven insights to optimize your project from day one. This isn't just conceptual; you can compare scenarios side-by-side, understanding impact on key metrics. Once optimized, this intelligent massing model integrates seamlessly into Revit for detailed development. This process drastically reduces manual iteration time, letting your team focus on value-added design, not endless sketching. Stop the late-stage change penalties! Ready to make smarter, faster decisions in conceptual design with Forma and Revit? Learn more today!",
+    "video_id": "C26EuSskHJs",
+    "url": "https://youtu.be/C26EuSskHJs",
+    "published_at": "2026-10-01T20:26:16.950479+00:00",
+    "duration_seconds": 62.09,
+    "perf": {}
   }
 ]
