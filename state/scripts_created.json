@@ -1540,5 +1540,37 @@
     "published_at": "2026-10-01T20:26:16.950479+00:00",
     "duration_seconds": 62.09,
     "perf": {}
+  },
+  {
+    "date": "2026-10-02",
+    "bucket": "project_controls",
+    "feature_fingerprint": "project_controls:predictive cost overrun detection",
+    "title": "AI for Predictive Cost Control in AEC",
+    "title_variants": [
+      "AI in Project Controls: Beat Cost Overruns",
+      "Primavera P6 AI: Proactive Cost Management",
+      "Predictive Cost Overrun Detection with AI"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "Do project cost overruns feel inevitable on your complex projects?",
+      "AI is revolutionizing project controls, helping you anticipate and mitigate them.",
+      "For large infrastructure and building projects, integrate AI with Primavera P6.",
+      "This AI analyzes historical data: schedules, actual costs, and change orders.",
+      "It identifies patterns, predicting potential cost overruns for specific work packages.",
+      "An AI module in Primavera P6 flags activities likely to exceed budget by 10% or more, weeks in advance.",
+      "This isn't just earned value; it\u2019s a deep dive into risk factors via machine learning.",
+      "Gain actionable insights for proactive intervention.",
+      "Reallocate resources, adjust schedules, or negotiate earlier.",
+      "Early detection reduces cost variances by up to 15-20%, saving millions.",
+      "Ready to keep projects on budget and boost profitability?",
+      "Explore AI in AEC. Follow us!"
+    ],
+    "narration": "Do project cost overruns feel inevitable on your complex projects? Do project cost overruns feel inevitable on your complex projects? AI is revolutionizing project controls, helping you anticipate and mitigate them. For large infrastructure and building projects, integrate AI with Primavera P6. This AI analyzes historical data: schedules, actual costs, and change orders. It identifies patterns, predicting potential cost overruns for specific work packages. An AI module in Primavera P6 flags activities likely to exceed budget by 10% or more, weeks in advance. This isn't just earned value; it\u2019s a deep dive into risk factors via machine learning. Gain actionable insights for proactive intervention. Reallocate resources, adjust schedules, or negotiate earlier. Early detection reduces cost variances by up to 15-20%, saving millions. Ready to keep projects on budget and boost profitability? Explore AI in AEC. Follow us!",
+    "video_id": "wbw_FfjP9D0",
+    "url": "https://youtu.be/wbw_FfjP9D0",
+    "published_at": "2026-10-02T20:03:16.817251+00:00",
+    "duration_seconds": 63.65,
+    "perf": {}
   }
 ]
