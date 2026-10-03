@@ -1600,5 +1600,34 @@
     "published_at": "2026-10-03T09:22:51.949774+00:00",
     "duration_seconds": 62.02,
     "perf": {}
+  },
+  {
+    "date": "2026-10-03",
+    "bucket": "site_ops",
+    "feature_fingerprint": "site_ops:cv-based ppe/safety monitoring",
+    "title": "AI for Construction Safety: Real-time PPE Monitoring",
+    "title_variants": [
+      "Site Safety with AI: PPE & Zone Monitoring",
+      "Computer Vision Elevates Site Safety",
+      "Predictive Safety with AI on Construction Sites"
+    ],
+    "hook_style": "shocking_stat",
+    "script_lines": [
+      "Did you know that preventable accidents still cost the construction industry billions annually, not to mention the tragic human toll?",
+      "Traditional safety checks are crucial but can't cover every moment. What if AI could provide an always-on safety net?",
+      "Enter Computer Vision for site safety. This isn't just theory; it's active on sites today.",
+      "Using existing security cameras, advanced computer vision platforms like SmartVid.io can constantly monitor for specific safety compliance breaches.",
+      "They automatically detect if workers are wearing required Personal Protective Equipment \u2013 hard hats, safety vests, gloves \u2013 in designated zones.",
+      "Beyond PPE, these systems identify unauthorized access into restricted areas or proximity to dangerous equipment in real-time.",
+      "The result? Instant alerts to supervisors for immediate intervention, improving PPE compliance by over 30% and significantly reducing the likelihood of accidents.",
+      "This proactively saves lives and prevents costly project delays and insurance claims.",
+      "Ready to elevate your site safety from reactive to predictive? Explore how computer vision can transform your project's risk management today."
+    ],
+    "narration": "Did you know that preventable accidents still cost the construction industry billions annually, not to mention the tragic human toll? Did you know that preventable accidents still cost the construction industry billions annually, not to mention the tragic human toll? Traditional safety checks are crucial but can't cover every moment. What if AI could provide an always-on safety net? Enter Computer Vision for site safety. This isn't just theory; it's active on sites today. Using existing security cameras, advanced computer vision platforms like SmartVid.io can constantly monitor for specific safety compliance breaches. They automatically detect if workers are wearing required Personal Protective Equipment \u2013 hard hats, safety vests, gloves \u2013 in designated zones. Beyond PPE, these systems identify unauthorized access into restricted areas or proximity to dangerous equipment in real-time. The result? Instant alerts to supervisors for immediate intervention, improving PPE compliance by over 30% and significantly reducing the likelihood of accidents. This proactively saves lives and prevents costly project delays and insurance claims. Ready to elevate your site safety from reactive to predictive? Explore how computer vision can transform your project's risk management today.",
+    "video_id": "EsKGZlAo9RU",
+    "url": "https://youtu.be/EsKGZlAo9RU",
+    "published_at": "2026-10-03T18:46:56.481925+00:00",
+    "duration_seconds": 69.62,
+    "perf": {}
   }
 ]
