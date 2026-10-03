@@ -1572,5 +1572,33 @@
     "published_at": "2026-10-02T20:03:16.817251+00:00",
     "duration_seconds": 63.65,
     "perf": {}
+  },
+  {
+    "date": "2026-10-03",
+    "bucket": "project_controls",
+    "feature_fingerprint": "project_controls:ml schedule risk forecasting",
+    "title": "AI for Predictive Project Schedules",
+    "title_variants": [
+      "Stop Project Delays with AI",
+      "Primavera P6 Gets Predictive AI"
+    ],
+    "hook_style": "shocking_stat",
+    "script_lines": [
+      "Over 80% of construction projects face significant schedule delays, costing billions annually!",
+      "Traditional schedule analysis is often reactive, making it tough to spot critical path risks early.",
+      "Imagine predicting delays weeks, even months, in advance with high accuracy.",
+      "That\u2019s the power of AI-driven Machine Learning schedule risk forecasting.",
+      "Integrated with tools like Primavera P6, AI analyzes millions of historical project data points.",
+      "It identifies subtle patterns in resource availability, weather, supply chain, and subcontractor performance.",
+      "This predicts potential delays, letting you proactively reallocate resources and revise schedules.",
+      "Teams using ML forecasting report a 15-20% reduction in major schedule deviations, keeping projects on track.",
+      "Ready to transform project timelines from reactive to predictive? Explore AI schedule risk forecasting now."
+    ],
+    "narration": "Over 80% of construction projects face significant schedule delays, costing billions annually! Over 80% of construction projects face significant schedule delays, costing billions annually! Traditional schedule analysis is often reactive, making it tough to spot critical path risks early. Imagine predicting delays weeks, even months, in advance with high accuracy. That\u2019s the power of AI-driven Machine Learning schedule risk forecasting. Integrated with tools like Primavera P6, AI analyzes millions of historical project data points. It identifies subtle patterns in resource availability, weather, supply chain, and subcontractor performance. This predicts potential delays, letting you proactively reallocate resources and revise schedules. Teams using ML forecasting report a 15-20% reduction in major schedule deviations, keeping projects on track. Ready to transform project timelines from reactive to predictive? Explore AI schedule risk forecasting now.",
+    "video_id": "BCtfbk-4AWg",
+    "url": "https://youtu.be/BCtfbk-4AWg",
+    "published_at": "2026-10-03T09:22:51.949774+00:00",
+    "duration_seconds": 62.02,
+    "perf": {}
   }
 ]
