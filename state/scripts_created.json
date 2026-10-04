@@ -1629,5 +1629,34 @@
     "published_at": "2026-10-03T18:46:56.481925+00:00",
     "duration_seconds": 69.62,
     "perf": {}
+  },
+  {
+    "date": "2026-10-04",
+    "bucket": "coordination_clash",
+    "feature_fingerprint": "coordination_clash:model coordination in acc",
+    "title": "AI Supercharges Clash Coordination",
+    "title_variants": [
+      "Smart Clash Grouping for AEC",
+      "Streamline Clash Review with AI",
+      "Automated Clash Grouping in ACC"
+    ],
+    "hook_style": "shocking_stat",
+    "script_lines": [
+      "Industry data reveals that inefficient clash resolution can inflate project costs by up to 10% through rework and delays!",
+      "As an engineer, you've experienced sifting through hundreds of individual clashes from tools like Navisworks.",
+      "Manually categorizing and assigning them wastes critical design time.",
+      "But AI is changing this. Autodesk Construction Cloud's Model Coordination module now uses AI for intelligent clash grouping.",
+      "This feature automatically identifies patterns and relationships among detected conflicts.",
+      "Instead of 50 separate pipe-through-duct clashes, AI consolidates them into a single, actionable system conflict group.",
+      "It intelligently clusters geometrically related issues, drastically reducing items for review and accelerating coordination.",
+      "Our clients cut clash review time by up to 70%, preventing costly field changes.",
+      "Ready to transform coordination? Explore AI-powered clash grouping in ACC Model Coordination."
+    ],
+    "narration": "Industry data reveals that inefficient clash resolution can inflate project costs by up to 10% through rework and delays! Industry data reveals that inefficient clash resolution can inflate project costs by up to 10% through rework and delays! As an engineer, you've experienced sifting through hundreds of individual clashes from tools like Navisworks. Manually categorizing and assigning them wastes critical design time. But AI is changing this. Autodesk Construction Cloud's Model Coordination module now uses AI for intelligent clash grouping. This feature automatically identifies patterns and relationships among detected conflicts. Instead of 50 separate pipe-through-duct clashes, AI consolidates them into a single, actionable system conflict group. It intelligently clusters geometrically related issues, drastically reducing items for review and accelerating coordination. Our clients cut clash review time by up to 70%, preventing costly field changes. Ready to transform coordination? Explore AI-powered clash grouping in ACC Model Coordination.",
+    "video_id": "08F8l7bZQAg",
+    "url": "https://youtu.be/08F8l7bZQAg",
+    "published_at": "2026-10-04T10:01:13.735846+00:00",
+    "duration_seconds": 66.46,
+    "perf": {}
   }
 ]
