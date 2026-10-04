@@ -1658,5 +1658,34 @@
     "published_at": "2026-10-04T10:01:13.735846+00:00",
     "duration_seconds": 66.46,
     "perf": {}
+  },
+  {
+    "date": "2026-10-04",
+    "bucket": "docs_specs",
+    "feature_fingerprint": "docs_specs:automated submittal review",
+    "title": "AI for Automated Submittal Review & RFI Drafting",
+    "title_variants": [
+      "Streamline Submittals: AI & Automated RFIs",
+      "Cut Submittal Review Time with AI",
+      "AI-Powered RFI Drafting in ACC"
+    ],
+    "hook_style": "pain_point",
+    "script_lines": [
+      "Tired of drowning in submittals, manually cross-referencing specs, and drafting endless RFIs for missing data?",
+      "This manual burden chokes project schedules and drains engineering team bandwidth.",
+      "AI is changing this. Autodesk Construction Cloud offers AI-powered submittal review with automated RFI drafting.",
+      "AI scans submitted documents against specs, contracts, and BIM data.",
+      "It flags non-compliance, missing data, and *drafts* targeted RFIs.",
+      "RFIs come pre-populated with references and questions, addressing discrepancies.",
+      "Firms report cutting submittal review time by 30-40% and reducing RFI turnaround by 25%.",
+      "Faster approvals, fewer delays, higher document quality.",
+      "Give your engineers critical time back. Explore Autodesk Construction Cloud's AI submittal management today!"
+    ],
+    "narration": "Tired of drowning in submittals, manually cross-referencing specs, and drafting endless RFIs for missing data? Tired of drowning in submittals, manually cross-referencing specs, and drafting endless RFIs for missing data? This manual burden chokes project schedules and drains engineering team bandwidth. AI is changing this. Autodesk Construction Cloud offers AI-powered submittal review with automated RFI drafting. AI scans submitted documents against specs, contracts, and BIM data. It flags non-compliance, missing data, and *drafts* targeted RFIs. RFIs come pre-populated with references and questions, addressing discrepancies. Firms report cutting submittal review time by 30-40% and reducing RFI turnaround by 25%. Faster approvals, fewer delays, higher document quality. Give your engineers critical time back. Explore Autodesk Construction Cloud's AI submittal management today!",
+    "video_id": "HTeFxudgx6k",
+    "url": "https://youtu.be/HTeFxudgx6k",
+    "published_at": "2026-10-04T18:43:37.539246+00:00",
+    "duration_seconds": 59.59,
+    "perf": {}
   }
 ]
