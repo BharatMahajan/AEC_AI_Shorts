@@ -1711,5 +1711,36 @@
     "published_at": "2026-10-05T10:46:02.523105+00:00",
     "duration_seconds": 63.17,
     "perf": {}
+  },
+  {
+    "date": "2026-10-05",
+    "bucket": "transport",
+    "feature_fingerprint": "transport:ai signal-timing optimization",
+    "title": "AI: Smarter Traffic Flow",
+    "title_variants": [
+      "Traffic Flow Optimization with AI",
+      "AEC: AI Signal Optimization"
+    ],
+    "hook_style": "shocking_stat",
+    "script_lines": [
+      "That's a full work week lost to gridlock, severely impacting our cities.",
+      "But what if civil infrastructure could dynamically adapt to real-time traffic?",
+      "AI signal-timing optimization is transforming transportation networks.",
+      "This intelligent traffic management moves beyond static timing plans.",
+      "Using traffic modeling tools like PTV VISSIM, AI analyzes real-time vehicle counts and queue lengths.",
+      "It then optimizes signal phases across entire urban areas.",
+      "The AI predicts congestion, proactively adjusting lights to maximize vehicular throughput.",
+      "For traffic engineers, this means boosted operational efficiency.",
+      "Deployments show a consistent 15-25% reduction in average intersection delays.",
+      "Result? Smoother commutes, less fuel, and improved congestion management.",
+      "Ready to integrate AI into your next civil infrastructure project?",
+      "Elevate your community\u2019s transportation planning today!"
+    ],
+    "narration": "Commuters waste an average of 42 hours *per year* stuck in traffic!? That's a full work week lost to gridlock, severely impacting our cities. But what if civil infrastructure could dynamically adapt to real-time traffic? AI signal-timing optimization is transforming transportation networks. This intelligent traffic management moves beyond static timing plans. Using traffic modeling tools like PTV VISSIM, AI analyzes real-time vehicle counts and queue lengths. It then optimizes signal phases across entire urban areas. The AI predicts congestion, proactively adjusting lights to maximize vehicular throughput. For traffic engineers, this means boosted operational efficiency. Deployments show a consistent 15-25% reduction in average intersection delays. Result? Smoother commutes, less fuel, and improved congestion management. Ready to integrate AI into your next civil infrastructure project? Elevate your community\u2019s transportation planning today!",
+    "video_id": "IbLRY8O-UHc",
+    "url": "https://youtu.be/IbLRY8O-UHc",
+    "published_at": "2026-10-05T22:07:47.886402+00:00",
+    "duration_seconds": 62.09,
+    "perf": {}
   }
 ]
