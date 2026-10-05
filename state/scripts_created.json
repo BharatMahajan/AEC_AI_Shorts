@@ -1687,5 +1687,29 @@
     "published_at": "2026-10-04T18:43:37.539246+00:00",
     "duration_seconds": 59.59,
     "perf": {}
+  },
+  {
+    "date": "2026-10-05",
+    "bucket": "mep",
+    "feature_fingerprint": "mep:ai load calculations",
+    "title": "AI Precision in MEP Loads",
+    "title_variants": [
+      "MEP Load Calculations Reimagined",
+      "Smarter MEP Design with AI"
+    ],
+    "hook_style": "future_tease",
+    "script_lines": [
+      "Imagine your MEP load calculations... done in minutes, not days, with unmatched precision! Traditional methods are manual, iterative, and prone to error, especially with complex projects.",
+      "Today, AI is revolutionizing this. AI-driven load calculation engines analyze comprehensive building data \u2013 orientation, materials, occupancy schedules, and granular climate data.",
+      "Tools like the 'AEC AI Design Co-Pilot' leverage machine learning to process hundreds of interdependent variables simultaneously. This means you can accurately size HVAC systems, electrical panels, and plumbing networks faster, reducing design time by up to 40%.",
+      "It enables optimized equipment selection, potentially cutting predicted operational energy consumption by 10-15% from the initial design phase. The AI identifies peak demands and subtle thermal interactions with an accuracy traditional methods struggle to achieve.",
+      "Are you ready to optimize your designs and project efficiency? Explore AI-powered load calculations today!"
+    ],
+    "narration": "Imagine your MEP load calculations... done in minutes, not days, with unmatched precision! Imagine your MEP load calculations... done in minutes, not days, with unmatched precision! Traditional methods are manual, iterative, and prone to error, especially with complex projects. Today, AI is revolutionizing this. AI-driven load calculation engines analyze comprehensive building data \u2013 orientation, materials, occupancy schedules, and granular climate data. Tools like the 'AEC AI Design Co-Pilot' leverage machine learning to process hundreds of interdependent variables simultaneously. This means you can accurately size HVAC systems, electrical panels, and plumbing networks faster, reducing design time by up to 40%. It enables optimized equipment selection, potentially cutting predicted operational energy consumption by 10-15% from the initial design phase. The AI identifies peak demands and subtle thermal interactions with an accuracy traditional methods struggle to achieve. Are you ready to optimize your designs and project efficiency? Explore AI-powered load calculations today!",
+    "video_id": "5Rm1PxQ_13c",
+    "url": "https://youtu.be/5Rm1PxQ_13c",
+    "published_at": "2026-10-05T10:46:02.523105+00:00",
+    "duration_seconds": 63.17,
+    "perf": {}
   }
 ]
