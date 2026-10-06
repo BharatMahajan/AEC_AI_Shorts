@@ -1742,5 +1742,33 @@
     "published_at": "2026-10-05T22:07:47.886402+00:00",
     "duration_seconds": 62.09,
     "perf": {}
+  },
+  {
+    "date": "2026-10-06",
+    "bucket": "docs_specs",
+    "feature_fingerprint": "docs_specs:drawing-to-text extraction",
+    "title": "AI: Extracting Insights from Your Drawings, Faster",
+    "title_variants": [
+      "AI's Secret Weapon for AEC Drawings",
+      "Stop Sifting: AI for Drawing Data Extraction",
+      "Automate RFIs with AI Drawing-to-Text"
+    ],
+    "hook_style": "shocking_stat",
+    "script_lines": [
+      "Did you know engineers spend up to 30% of their time manually reviewing drawings and extracting critical information?",
+      "This traditional method is a major bottleneck for vital tasks like drafting Requests for Information.",
+      "But AI is transforming this. Advanced drawing-to-text extraction tools are revolutionizing how we interact with design documents.",
+      "These tools use optical character recognition and natural language processing to identify and pull specific text, dimensions, and annotations directly from PDFs or scanned drawings.",
+      "Imagine drafting an RFI. Instead of manually sifting through hundreds of sheets for a structural connection detail or a material spec, AI instantly pinpoints and extracts that data.",
+      "For instance, within platforms like Autodesk Docs, AI can highlight all instances of a specific pipe size or finish code across your drawing set.",
+      "This drastically cuts RFI creation and review time. Engineers can reduce initial RFI data gathering by up to 70%, allowing focus on critical problem-solving.",
+      "Stop sifting. Explore how AI-powered drawing-to-text extraction can streamline your RFI process."
+    ],
+    "narration": "Did you know engineers spend up to 30% of their time manually reviewing drawings and extracting critical information? Did you know engineers spend up to 30% of their time manually reviewing drawings and extracting critical information? This traditional method is a major bottleneck for vital tasks like drafting Requests for Information. But AI is transforming this. Advanced drawing-to-text extraction tools are revolutionizing how we interact with design documents. These tools use optical character recognition and natural language processing to identify and pull specific text, dimensions, and annotations directly from PDFs or scanned drawings. Imagine drafting an RFI. Instead of manually sifting through hundreds of sheets for a structural connection detail or a material spec, AI instantly pinpoints and extracts that data. For instance, within platforms like Autodesk Docs, AI can highlight all instances of a specific pipe size or finish code across your drawing set. This drastically cuts RFI creation and review time. Engineers can reduce initial RFI data gathering by up to 70%, allowing focus on critical problem-solving. Stop sifting. Explore how AI-powered drawing-to-text extraction can streamline your RFI process.",
+    "video_id": "4ORTk2rHhB0",
+    "url": "https://youtu.be/4ORTk2rHhB0",
+    "published_at": "2026-10-06T10:39:26.885957+00:00",
+    "duration_seconds": 67.99,
+    "perf": {}
   }
 ]
