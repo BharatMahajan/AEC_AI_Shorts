@@ -1770,5 +1770,30 @@
     "published_at": "2026-10-06T10:39:26.885957+00:00",
     "duration_seconds": 67.99,
     "perf": {}
+  },
+  {
+    "date": "2026-10-06",
+    "bucket": "coordination_clash",
+    "feature_fingerprint": "coordination_clash:automated clash grouping",
+    "title": "AI in Navisworks: Automated Clash Grouping",
+    "title_variants": [
+      "Streamline Clash Review with AI",
+      "Navisworks AI: Grouping Clashes Automatically",
+      "Stop Drowning in Clashes: AI Can Help!"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "Traditional clash reports overwhelm. What if AI could intelligently organize them?",
+      "Introducing automated clash grouping, a powerful feature in Autodesk Navisworks. AI intelligently analyzes clashes, grouping spatially and semantically related issues.",
+      "No more countless individual items. AI consolidates, turning many clashes in one area\u2014like pipe-to-duct\u2014into a single actionable group. This radically streamlines your review.",
+      "Expect to reduce unique clash issues by 60-70%, saving significant engineering hours. Your team focuses on critical resolutions, not repetitive identification.",
+      "Optimize coordination now. Discover AI-powered automated clash grouping in Navisworks today!"
+    ],
+    "narration": "Manually sifting through hundreds of clashes, wasting valuable project time? Traditional clash reports overwhelm. What if AI could intelligently organize them? Introducing automated clash grouping, a powerful feature in Autodesk Navisworks. AI intelligently analyzes clashes, grouping spatially and semantically related issues. No more countless individual items. AI consolidates, turning many clashes in one area\u2014like pipe-to-duct\u2014into a single actionable group. This radically streamlines your review. Expect to reduce unique clash issues by 60-70%, saving significant engineering hours. Your team focuses on critical resolutions, not repetitive identification. Optimize coordination now. Discover AI-powered automated clash grouping in Navisworks today!",
+    "video_id": "5bkPhdJ-8_o",
+    "url": "https://youtu.be/5bkPhdJ-8_o",
+    "published_at": "2026-10-06T20:28:21.153034+00:00",
+    "duration_seconds": 51.14,
+    "perf": {}
   }
 ]
