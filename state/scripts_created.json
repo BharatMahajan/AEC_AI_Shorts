@@ -1818,5 +1818,34 @@
     "published_at": "2026-10-07T10:30:17.300329+00:00",
     "duration_seconds": 57.43,
     "perf": {}
+  },
+  {
+    "date": "2026-10-07",
+    "bucket": "structural",
+    "feature_fingerprint": "structural:ml-based load prediction",
+    "title": "AI for Smarter Structural Load Prediction",
+    "title_variants": [
+      "Predicting Loads with AI & ML",
+      "ML for Structural Load Accuracy",
+      "Accelerate Structural Design with AI Loads"
+    ],
+    "hook_style": "pain_point",
+    "script_lines": [
+      "Are early-stage structural load estimations slowing down your design process?",
+      "Manual load definition and iterative adjustments for complex structures often delay preliminary design.",
+      "This leads to rework and suboptimal material selection, impacting project timelines and budgets significantly.",
+      "Imagine Machine Learning-based load prediction.",
+      "This AI analyzes vast historical project data, site conditions, and building typology.",
+      "It autonomously generates highly accurate, context-aware live and dead load sets rapidly.",
+      "By integrating this with tools like ETABS, you can establish preliminary load models with unprecedented speed and precision.",
+      "This accelerates your design cycle, reducing initial analysis setup time by up to 35% and minimizing costly redesigns.",
+      "Ready to build smarter? Explore AI-driven load prediction for your next project."
+    ],
+    "narration": "Are early-stage structural load estimations slowing down your design process? Are early-stage structural load estimations slowing down your design process? Manual load definition and iterative adjustments for complex structures often delay preliminary design. This leads to rework and suboptimal material selection, impacting project timelines and budgets significantly. Imagine Machine Learning-based load prediction. This AI analyzes vast historical project data, site conditions, and building typology. It autonomously generates highly accurate, context-aware live and dead load sets rapidly. By integrating this with tools like ETABS, you can establish preliminary load models with unprecedented speed and precision. This accelerates your design cycle, reducing initial analysis setup time by up to 35% and minimizing costly redesigns. Ready to build smarter? Explore AI-driven load prediction for your next project.",
+    "video_id": "JcgASYXYQ4M",
+    "url": "https://youtu.be/JcgASYXYQ4M",
+    "published_at": "2026-10-07T20:43:55.218757+00:00",
+    "duration_seconds": 56.88,
+    "perf": {}
   }
 ]
