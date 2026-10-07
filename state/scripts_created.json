@@ -1795,5 +1795,28 @@
     "published_at": "2026-10-06T20:28:21.153034+00:00",
     "duration_seconds": 51.14,
     "perf": {}
+  },
+  {
+    "date": "2026-10-07",
+    "bucket": "reality_capture",
+    "feature_fingerprint": "reality_capture:progress tracking from site scans",
+    "title": "AI for Site Progress Tracking",
+    "title_variants": [
+      "Automated Progress Tracking with AI",
+      "AI & Point Clouds for Construction Progress"
+    ],
+    "hook_style": "shocking_stat",
+    "script_lines": [
+      "That's too long!",
+      "AI is revolutionizing progress monitoring. Leveraging regular 3D site scans and dense point cloud data, AI algorithms automatically compare as-built reality against your BIM model. This delivers rapid, intelligent analysis.",
+      "The AI quickly identifies completed work, flags deviations, and pinpoints discrepancies like missing components or incorrect placements. Imagine reducing progress reporting time by 80% and catching critical errors weeks earlier! Tools like Autodesk Construction Cloud integrate this, enabling teams to visualize variances for proactive decisions. This reduces rework and keeps projects on schedule.",
+      "Ready to enhance project oversight? Explore AI-driven reality capture for unparalleled site progress tracking today!"
+    ],
+    "narration": "Did you know manual construction progress tracking often delays issue identification by over 30 days, costing projects millions!? That's too long! AI is revolutionizing progress monitoring. Leveraging regular 3D site scans and dense point cloud data, AI algorithms automatically compare as-built reality against your BIM model. This delivers rapid, intelligent analysis. The AI quickly identifies completed work, flags deviations, and pinpoints discrepancies like missing components or incorrect placements. Imagine reducing progress reporting time by 80% and catching critical errors weeks earlier! Tools like Autodesk Construction Cloud integrate this, enabling teams to visualize variances for proactive decisions. This reduces rework and keeps projects on schedule. Ready to enhance project oversight? Explore AI-driven reality capture for unparalleled site progress tracking today!",
+    "video_id": "zBbFfAWRgJQ",
+    "url": "https://youtu.be/zBbFfAWRgJQ",
+    "published_at": "2026-10-07T10:30:17.300329+00:00",
+    "duration_seconds": 57.43,
+    "perf": {}
   }
 ]
