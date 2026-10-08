@@ -1871,5 +1871,30 @@
     "published_at": "2026-10-08T10:51:12.171441+00:00",
     "duration_seconds": 56.4,
     "perf": {}
+  },
+  {
+    "date": "2026-10-08",
+    "bucket": "transport",
+    "feature_fingerprint": "transport:ml traffic flow prediction",
+    "title": "Predicting Traffic Flow with ML for Smarter Cities",
+    "title_variants": [
+      "AI Traffic Flow: Beyond Basic Models",
+      "Unlock Predictable Urban Mobility with AI"
+    ],
+    "hook_style": "pain_point",
+    "script_lines": [
+      "Stuck battling unpredictable traffic congestion in your urban planning projects? Traditional traffic models often fall short, struggling with dynamic real-world conditions.",
+      "Imagine accurately forecasting traffic patterns hours or even days in advance. That's precisely what Machine Learning traffic flow prediction offers.",
+      "Leveraging platforms like PTV Vissim, integrated with advanced ML models, we can analyze vast datasets\u2014from sensor feeds to historical congestion records.",
+      "This allows for precise predictions of lane-specific traffic volumes and speeds, identifying future bottlenecks before they occur. For instance, anticipating a surge near a new development can inform real-time adaptive signal timings, reducing peak hour delays by up to 15-20%.",
+      "This isn't just theory; it's being implemented to optimize infrastructure and improve urban mobility. Embrace predictive power.",
+      "Ready to transform your traffic management strategies? Explore AI-powered traffic prediction for your next project today!"
+    ],
+    "narration": "Stuck battling unpredictable traffic congestion in your urban planning projects? Stuck battling unpredictable traffic congestion in your urban planning projects? Traditional traffic models often fall short, struggling with dynamic real-world conditions. Imagine accurately forecasting traffic patterns hours or even days in advance. That's precisely what Machine Learning traffic flow prediction offers. Leveraging platforms like PTV Vissim, integrated with advanced ML models, we can analyze vast datasets\u2014from sensor feeds to historical congestion records. This allows for precise predictions of lane-specific traffic volumes and speeds, identifying future bottlenecks before they occur. For instance, anticipating a surge near a new development can inform real-time adaptive signal timings, reducing peak hour delays by up to 15-20%. This isn't just theory; it's being implemented to optimize infrastructure and improve urban mobility. Embrace predictive power. Ready to transform your traffic management strategies? Explore AI-powered traffic prediction for your next project today!",
+    "video_id": "3sSXDfq3RrU",
+    "url": "https://youtu.be/3sSXDfq3RrU",
+    "published_at": "2026-10-08T20:46:16.023299+00:00",
+    "duration_seconds": 66.62,
+    "perf": {}
   }
 ]
