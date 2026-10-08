@@ -1847,5 +1847,29 @@
     "published_at": "2026-10-07T20:43:55.218757+00:00",
     "duration_seconds": 56.88,
     "perf": {}
+  },
+  {
+    "date": "2026-10-08",
+    "bucket": "project_controls",
+    "feature_fingerprint": "project_controls:earned-value anomaly detection",
+    "title": "AI Catches Project Overruns Sooner",
+    "title_variants": [
+      "AI for Project Controls: Anomaly Detection",
+      "Primavera P6 + AI: Spotting EVM Anomalies",
+      "Prevent Project Overruns with AI Earned Value"
+    ],
+    "hook_style": "shocking_stat",
+    "script_lines": [
+      "Over 70% of major construction projects overrun budget or schedule! Critical deviations often go unnoticed, as manually sifting earned value data is monumental and error-prone. What if AI could instantly highlight these anomalies?",
+      "Introducing AI-driven earned-value anomaly detection. This feature uses machine learning to continuously analyze PV, EV, and AC from your Primavera P6 schedules. AI learns normal project patterns, then flags unusual variances in CPI or SPI.",
+      "This pinpoints issues days or weeks earlier, enabling proactive intervention. Imagine preventing project budget overruns by up to 15%, potentially saving millions, simply by catching critical trends sooner.",
+      "Ready to revolutionize your project controls? Share your biggest earned value management challenge below!"
+    ],
+    "narration": "Over 70% of major construction projects overrun budget or schedule! Over 70% of major construction projects overrun budget or schedule! Critical deviations often go unnoticed, as manually sifting earned value data is monumental and error-prone. What if AI could instantly highlight these anomalies? Introducing AI-driven earned-value anomaly detection. This feature uses machine learning to continuously analyze PV, EV, and AC from your Primavera P6 schedules. AI learns normal project patterns, then flags unusual variances in CPI or SPI. This pinpoints issues days or weeks earlier, enabling proactive intervention. Imagine preventing project budget overruns by up to 15%, potentially saving millions, simply by catching critical trends sooner. Ready to revolutionize your project controls? Share your biggest earned value management challenge below!",
+    "video_id": "i3rACfMAme0",
+    "url": "https://youtu.be/i3rACfMAme0",
+    "published_at": "2026-10-08T10:51:12.171441+00:00",
+    "duration_seconds": 56.4,
+    "perf": {}
   }
 ]
