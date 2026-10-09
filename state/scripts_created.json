@@ -1921,5 +1921,32 @@
     "published_at": "2026-10-09T10:50:01.875838+00:00",
     "duration_seconds": 69.98,
     "perf": {}
+  },
+  {
+    "date": "2026-10-09",
+    "bucket": "reality_capture",
+    "feature_fingerprint": "reality_capture:ml object classification in scans",
+    "title": "AI Classifies Point Clouds 90% Faster",
+    "title_variants": [
+      "Machine Learning for Reality Capture",
+      "Automated Scan Object Classification",
+      "AI Supercharges Digital Twin Creation"
+    ],
+    "hook_style": "shocking_stat",
+    "script_lines": [
+      "That's days lost before design even begins! But now, AI is revolutionizing reality capture.",
+      "Software suites like Trimble RealWorks are leveraging machine learning for automated object classification within your point cloud data.",
+      "Imagine: pipes, conduits, structural elements, even specific equipment like HVAC units are instantly tagged.",
+      "This ML feature learns patterns, differentiating concrete from steel, and vegetation from machinery, with incredible accuracy.",
+      "It transforms raw point cloud data into structured information at lightning speed, cutting manual effort by up to 90%.",
+      "This means faster, more accurate as-built digital twins, quicker retrofits, and proactive maintenance.",
+      "Explore software offering AI-driven point cloud classification and transform your reality capture workflows today."
+    ],
+    "narration": "Did you know manual classification of a typical 100-million-point LiDAR scan can take a skilled technician over 40 hours? That's days lost before design even begins! But now, AI is revolutionizing reality capture. Software suites like Trimble RealWorks are leveraging machine learning for automated object classification within your point cloud data. Imagine: pipes, conduits, structural elements, even specific equipment like HVAC units are instantly tagged. This ML feature learns patterns, differentiating concrete from steel, and vegetation from machinery, with incredible accuracy. It transforms raw point cloud data into structured information at lightning speed, cutting manual effort by up to 90%. This means faster, more accurate as-built digital twins, quicker retrofits, and proactive maintenance. Explore software offering AI-driven point cloud classification and transform your reality capture workflows today.",
+    "video_id": "7scxaCqRv4w",
+    "url": "https://youtu.be/7scxaCqRv4w",
+    "published_at": "2026-10-09T20:13:12.802675+00:00",
+    "duration_seconds": 57.77,
+    "perf": {}
   }
 ]
