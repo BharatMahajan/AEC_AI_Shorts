@@ -1896,5 +1896,30 @@
     "published_at": "2026-10-08T20:46:16.023299+00:00",
     "duration_seconds": 66.62,
     "perf": {}
+  },
+  {
+    "date": "2026-10-09",
+    "bucket": "cad",
+    "feature_fingerprint": "cad:markup assist for digitizing redlines",
+    "title": "AI Redlines: AutoCAD's Markup Assist Revolution",
+    "title_variants": [
+      "AutoCAD AI: Digitize Redlines Instantly",
+      "Stop Manual Redlines! AI Does It Faster"
+    ],
+    "hook_style": "bold_claim",
+    "script_lines": [
+      "Tired of manually transcribing design feedback from scanned PDFs or even paper redlines? What if AI could practically do it for you?",
+      "Introducing AutoCAD's Markup Assist, a groundbreaking feature powered by machine learning. It automatically identifies redline markups and text directly within your drawings.",
+      "Simply import a scanned PDF or even a photo of hand-drawn markups. Markup Assist analyzes the image, detecting common revision symbols and text.",
+      "It then overlays these detected markups onto your DWG, suggesting corresponding CAD commands like MOVE, COPY, or ERASE, and even text for new annotations. You confirm the changes, drastically reducing manual transcription.",
+      "This isn't just a convenience; it's a productivity game-changer. Engineering teams are seeing up to 90% reduction in time spent digitizing redlines, freeing up valuable hours for actual design work.",
+      "Imagine the impact on your project timelines and error reduction. Ready to transform your review cycles? Explore AutoCAD Markup Assist today and reclaim your design time."
+    ],
+    "narration": "Stop manually transcribing redlines! Tired of manually transcribing design feedback from scanned PDFs or even paper redlines? What if AI could practically do it for you? Introducing AutoCAD's Markup Assist, a groundbreaking feature powered by machine learning. It automatically identifies redline markups and text directly within your drawings. Simply import a scanned PDF or even a photo of hand-drawn markups. Markup Assist analyzes the image, detecting common revision symbols and text. It then overlays these detected markups onto your DWG, suggesting corresponding CAD commands like MOVE, COPY, or ERASE, and even text for new annotations. You confirm the changes, drastically reducing manual transcription. This isn't just a convenience; it's a productivity game-changer. Engineering teams are seeing up to 90% reduction in time spent digitizing redlines, freeing up valuable hours for actual design work. Imagine the impact on your project timelines and error reduction. Ready to transform your review cycles? Explore AutoCAD Markup Assist today and reclaim your design time.",
+    "video_id": "BHALvOBLOIg",
+    "url": "https://youtu.be/BHALvOBLOIg",
+    "published_at": "2026-10-09T10:50:01.875838+00:00",
+    "duration_seconds": 69.98,
+    "perf": {}
   }
 ]
