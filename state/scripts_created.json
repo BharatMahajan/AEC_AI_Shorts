@@ -1974,5 +1974,29 @@
     "published_at": "2026-10-10T10:05:03.169616+00:00",
     "duration_seconds": 65.3,
     "perf": {}
+  },
+  {
+    "date": "2026-10-10",
+    "bucket": "coordination_clash",
+    "feature_fingerprint": "coordination_clash:issue auto-routing",
+    "title": "AI Auto-Routing for Navisworks Clashes",
+    "title_variants": [
+      "Revolutionize Clash Coordination with AI!",
+      "Navisworks & AI: Smarter Clash Routing"
+    ],
+    "hook_style": "bold_claim",
+    "script_lines": [
+      "Manual clash assignment is dead!",
+      "AEC coordination just got a massive upgrade with AI-powered issue auto-routing. After running your clash detection in Navisworks, an AI system instantly analyzes each clash.",
+      "It identifies involved disciplines, assesses element properties, and learns from past project data to pinpoint the likely responsible party. This AI then automatically routes the issue to the correct team.",
+      "This intelligent automation drastically cuts human error and the tedious manual review process. Firms are reducing issue assignment time by over 40%, directly accelerating resolution cycles and improving project timelines.",
+      "Ready to streamline coordination and empower your engineers? Explore how AI issue auto-routing can integrate with your Navisworks-driven BIM workflows today!"
+    ],
+    "narration": "Manual clash assignment is dead! Manual clash assignment is dead! AEC coordination just got a massive upgrade with AI-powered issue auto-routing. After running your clash detection in Navisworks, an AI system instantly analyzes each clash. It identifies involved disciplines, assesses element properties, and learns from past project data to pinpoint the likely responsible party. This AI then automatically routes the issue to the correct team. This intelligent automation drastically cuts human error and the tedious manual review process. Firms are reducing issue assignment time by over 40%, directly accelerating resolution cycles and improving project timelines. Ready to streamline coordination and empower your engineers? Explore how AI issue auto-routing can integrate with your Navisworks-driven BIM workflows today!",
+    "video_id": "XDyvwRej9BM",
+    "url": "https://youtu.be/XDyvwRej9BM",
+    "published_at": "2026-10-10T19:26:01.176785+00:00",
+    "duration_seconds": 51.05,
+    "perf": {}
   }
 ]
