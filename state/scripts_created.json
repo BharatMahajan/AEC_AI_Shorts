@@ -2025,5 +2025,33 @@
     "published_at": "2026-10-11T10:15:01.334392+00:00",
     "duration_seconds": 65.5,
     "perf": {}
+  },
+  {
+    "date": "2026-10-11",
+    "bucket": "reality_capture",
+    "feature_fingerprint": "reality_capture:digital twin sync from iot sensors",
+    "title": "AI Syncs Your Digital Twin: Predictive Power",
+    "title_variants": [
+      "Live Twins, Smarter Assets with AI",
+      "Real-Time Reality: AI & Digital Twins"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "Building robust digital twins often starts with precise reality capture, using laser scanners to generate detailed point clouds of existing conditions.",
+      "But a static snapshot isn't enough for true operational insight.",
+      "This is where AI-powered digital twin synchronization with IoT sensors transforms asset management.",
+      "Platforms like Autodesk Tandem leverage AI to continuously ingest and analyze real-time data from hundreds of interconnected IoT sensors.",
+      "Monitoring everything from HVAC performance to structural vibrations, this AI not only updates your twin's parameters instantly...",
+      "...but also identifies subtle anomalies, predicting potential equipment failures up to two weeks in advance.",
+      "Imagine proactively replacing a critical pump before it breaks, avoiding costly unplanned downtime.",
+      "This capability shifts maintenance from reactive to predictive, significantly extending asset lifespan and optimizing operational efficiency by up to 15%.",
+      "Are you integrating AI into your digital twin strategy? Explore its potential today!"
+    ],
+    "narration": "How do you ensure your digital twin truly reflects the live, dynamic state of your physical asset? Building robust digital twins often starts with precise reality capture, using laser scanners to generate detailed point clouds of existing conditions. But a static snapshot isn't enough for true operational insight. This is where AI-powered digital twin synchronization with IoT sensors transforms asset management. Platforms like Autodesk Tandem leverage AI to continuously ingest and analyze real-time data from hundreds of interconnected IoT sensors. Monitoring everything from HVAC performance to structural vibrations, this AI not only updates your twin's parameters instantly... ...but also identifies subtle anomalies, predicting potential equipment failures up to two weeks in advance. Imagine proactively replacing a critical pump before it breaks, avoiding costly unplanned downtime. This capability shifts maintenance from reactive to predictive, significantly extending asset lifespan and optimizing operational efficiency by up to 15%. Are you integrating AI into your digital twin strategy? Explore its potential today!",
+    "video_id": "KxujR3LiLzk",
+    "url": "https://youtu.be/KxujR3LiLzk",
+    "published_at": "2026-10-11T19:38:59.794737+00:00",
+    "duration_seconds": 67.39,
+    "perf": {}
   }
 ]
