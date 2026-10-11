@@ -1998,5 +1998,32 @@
     "published_at": "2026-10-10T19:26:01.176785+00:00",
     "duration_seconds": 51.05,
     "perf": {}
+  },
+  {
+    "date": "2026-10-11",
+    "bucket": "gis_planning",
+    "feature_fingerprint": "gis_planning:automated zoning compliance",
+    "title": "AI for Instant Zoning Compliance",
+    "title_variants": [
+      "Automated Zoning with AI GIS",
+      "GIS & AI: Your Zoning Compliance Shortcut"
+    ],
+    "hook_style": "future_tease",
+    "script_lines": [
+      "Manually sifting through complex zoning ordinances, setback requirements, and density regulations for every new site is a monumental, error-prone task.",
+      "It often delays project starts and incurs significant costs. This isn't just a headache; it's a bottleneck.",
+      "But what if AI could automate that? Advanced GIS platforms are now integrating AI for automated zoning compliance.",
+      "This isn't just basic rule-checking; it's a sophisticated engine ingesting local and national zoning codes, instantly assessing your proposed design against thousands of specific requirements.",
+      "Picture uploading a preliminary site plan into your GIS and immediately receiving a detailed compliance report, highlighting every potential violation, from height restrictions to parking minimums.",
+      "This AI functionality can reduce initial compliance review time by over 70%, identifying critical issues in minutes instead of days.",
+      "It frees up your engineers and planners from tedious manual checks, allowing them to focus on optimization.",
+      "Ready to accelerate your planning workflows and ensure first-pass compliance? Explore AI-powered GIS solutions for your next project!"
+    ],
+    "narration": "Imagine slashing weeks off your project's initial planning phase! Manually sifting through complex zoning ordinances, setback requirements, and density regulations for every new site is a monumental, error-prone task. It often delays project starts and incurs significant costs. This isn't just a headache; it's a bottleneck. But what if AI could automate that? Advanced GIS platforms are now integrating AI for automated zoning compliance. This isn't just basic rule-checking; it's a sophisticated engine ingesting local and national zoning codes, instantly assessing your proposed design against thousands of specific requirements. Picture uploading a preliminary site plan into your GIS and immediately receiving a detailed compliance report, highlighting every potential violation, from height restrictions to parking minimums. This AI functionality can reduce initial compliance review time by over 70%, identifying critical issues in minutes instead of days. It frees up your engineers and planners from tedious manual checks, allowing them to focus on optimization. Ready to accelerate your planning workflows and ensure first-pass compliance? Explore AI-powered GIS solutions for your next project!",
+    "video_id": "t0-8kwHe35I",
+    "url": "https://youtu.be/t0-8kwHe35I",
+    "published_at": "2026-10-11T10:15:01.334392+00:00",
+    "duration_seconds": 65.5,
+    "perf": {}
   }
 ]
