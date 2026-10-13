@@ -2053,5 +2053,36 @@
     "published_at": "2026-10-11T19:38:59.794737+00:00",
     "duration_seconds": 67.39,
     "perf": {}
+  },
+  {
+    "date": "2026-10-13",
+    "bucket": "mep",
+    "feature_fingerprint": "mep:clash-aware mep layout",
+    "title": "AI: Clash-Free MEP Layouts",
+    "title_variants": [
+      "AI Prevents MEP Clashes, Saves Time",
+      "Smart MEP Routing with AI",
+      "MEP Design: AI-Powered Clash Prevention"
+    ],
+    "hook_style": "shocking_stat",
+    "script_lines": [
+      "That\u2019s weeks, sometimes months, lost in rework and communication.",
+      "But what if AI could proactively prevent most of those clashes before they even reach coordination meetings?",
+      "Introducing AI-driven, clash-aware MEP layout optimization.",
+      "Tools like Autodesk Generative Design, when applied to MEP routing, leverage artificial intelligence to explore thousands of design options.",
+      "It intelligently places ducts, pipes, and trays by considering spatial constraints, maintenance access, and real-time interference.",
+      "This includes conflicts with structural elements, other disciplines, and even future construction sequences.",
+      "This isn't just clash detection; it's clash prevention at the design stage.",
+      "By generating optimized layouts that inherently minimize collisions, engineers can reduce on-site rework by twenty percent or more.",
+      "It also accelerates design iterations by up to five times, and dramatically cuts coordination meeting overhead.",
+      "This translates directly to significant project cost savings and faster delivery.",
+      "Ready to build better, smarter, and faster? Explore AI for your MEP routing today."
+    ],
+    "narration": "Did you know that manual MEP clash resolution can consume over thirty percent of a design team's coordination time on complex projects? That\u2019s weeks, sometimes months, lost in rework and communication. But what if AI could proactively prevent most of those clashes before they even reach coordination meetings? Introducing AI-driven, clash-aware MEP layout optimization. Tools like Autodesk Generative Design, when applied to MEP routing, leverage artificial intelligence to explore thousands of design options. It intelligently places ducts, pipes, and trays by considering spatial constraints, maintenance access, and real-time interference. This includes conflicts with structural elements, other disciplines, and even future construction sequences. This isn't just clash detection; it's clash prevention at the design stage. By generating optimized layouts that inherently minimize collisions, engineers can reduce on-site rework by twenty percent or more. It also accelerates design iterations by up to five times, and dramatically cuts coordination meeting overhead. This translates directly to significant project cost savings and faster delivery. Ready to build better, smarter, and faster? Explore AI for your MEP routing today.",
+    "video_id": "ldKdoo4NsDY",
+    "url": "https://youtu.be/ldKdoo4NsDY",
+    "published_at": "2026-10-13T20:46:52.693751+00:00",
+    "duration_seconds": 68.14,
+    "perf": {}
   }
 ]
