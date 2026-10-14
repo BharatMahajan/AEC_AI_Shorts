@@ -2084,5 +2084,37 @@
     "published_at": "2026-10-13T20:46:52.693751+00:00",
     "duration_seconds": 68.14,
     "perf": {}
+  },
+  {
+    "date": "2026-10-14",
+    "bucket": "site_ops",
+    "feature_fingerprint": "site_ops:drone progress capture",
+    "title": "AI Drones for Instant Site Progress",
+    "title_variants": [
+      "Drone AI: Real-Time Site Deviation Analysis",
+      "Computer Vision for Drone Progress Capture",
+      "Automated Site Progress with AI Drones"
+    ],
+    "hook_style": "future_tease",
+    "script_lines": [
+      "AEC leaders, manual site checks are slow and error-prone.",
+      "Imagine instantly verifying site progress against design, daily!",
+      "AI-powered drone progress capture is transforming site operations.",
+      "Drones fly pre-programmed routes, collecting high-resolution 3D site data.",
+      "DroneDeploy, utilizing advanced computer vision, instantly analyzes this data.",
+      "Its key feature: automated deviation analysis.",
+      "CV algorithms compare drone-captured 3D models and orthomosaics directly against your BIM or design.",
+      "It pinpoints discrepancies like incorrect earthwork volumes or misplaced foundations.",
+      "This rapid identification offers a concrete benefit: reduce costly rework by up to 10%.",
+      "Catching issues in hours, not days, allows proactive correction, keeping projects on schedule and to design.",
+      "Ready to boost efficiency with AI-driven site insights?",
+      "Integrate drone AI into your workflows today."
+    ],
+    "narration": "Imagine instantly verifying site progress against design, daily! AEC leaders, manual site checks are slow and error-prone. Imagine instantly verifying site progress against design, daily! AI-powered drone progress capture is transforming site operations. Drones fly pre-programmed routes, collecting high-resolution 3D site data. DroneDeploy, utilizing advanced computer vision, instantly analyzes this data. Its key feature: automated deviation analysis. CV algorithms compare drone-captured 3D models and orthomosaics directly against your BIM or design. It pinpoints discrepancies like incorrect earthwork volumes or misplaced foundations. This rapid identification offers a concrete benefit: reduce costly rework by up to 10%. Catching issues in hours, not days, allows proactive correction, keeping projects on schedule and to design. Ready to boost efficiency with AI-driven site insights? Integrate drone AI into your workflows today.",
+    "video_id": "e8dAt4MLntw",
+    "url": "https://youtu.be/e8dAt4MLntw",
+    "published_at": "2026-10-14T08:58:21.282317+00:00",
+    "duration_seconds": 62.35,
+    "perf": {}
   }
 ]
