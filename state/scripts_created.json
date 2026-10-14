@@ -2116,5 +2116,34 @@
     "published_at": "2026-10-14T08:58:21.282317+00:00",
     "duration_seconds": 62.35,
     "perf": {}
+  },
+  {
+    "date": "2026-10-14",
+    "bucket": "reality_capture",
+    "feature_fingerprint": "reality_capture:automated scan-to-bim from point clouds",
+    "title": "AI for Automated Scan-to-BIM",
+    "title_variants": [
+      "Scan-to-BIM Automation with AI",
+      "Unlock BIM from Point Clouds with AI",
+      "AI-Powered Reality Capture for AEC"
+    ],
+    "hook_style": "shocking_stat",
+    "script_lines": [
+      "Historically, converting raw point cloud data into a usable BIM model meant laborious, manual tracing prone to errors.",
+      "AI is revolutionizing this. Automated Scan-to-BIM platforms now intelligently process point clouds using machine learning.",
+      "They automatically identify and model architectural elements \u2013 walls, doors, structural components like columns \u2013 directly from the data.",
+      "Sophisticated algorithms even detect complex MEP systems, converting dense point clouds directly into parametric BIM objects with high fidelity.",
+      "This slashes modeling time by upwards of 70%, dramatically boosting accuracy for renovation, facility management, and QA/QC workflows.",
+      "Explore tools like ClearEdge3D Edgewise.",
+      "Stop the manual grind.",
+      "Leverage AI-driven Scan-to-BIM to boost your project timelines and precision.",
+      "Transform your reality capture workflows today!"
+    ],
+    "narration": "Did you know manual Scan-to-BIM conversion can consume up to 80% of a reality capture project's total effort? Historically, converting raw point cloud data into a usable BIM model meant laborious, manual tracing prone to errors. AI is revolutionizing this. Automated Scan-to-BIM platforms now intelligently process point clouds using machine learning. They automatically identify and model architectural elements \u2013 walls, doors, structural components like columns \u2013 directly from the data. Sophisticated algorithms even detect complex MEP systems, converting dense point clouds directly into parametric BIM objects with high fidelity. This slashes modeling time by upwards of 70%, dramatically boosting accuracy for renovation, facility management, and QA/QC workflows. Explore tools like ClearEdge3D Edgewise. Stop the manual grind. Leverage AI-driven Scan-to-BIM to boost your project timelines and precision. Transform your reality capture workflows today!",
+    "video_id": "Ukp_MEz7X0I",
+    "url": "https://youtu.be/Ukp_MEz7X0I",
+    "published_at": "2026-10-14T19:34:01.772957+00:00",
+    "duration_seconds": 63.12,
+    "perf": {}
   }
 ]
