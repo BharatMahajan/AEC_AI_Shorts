@@ -2145,5 +2145,34 @@
     "published_at": "2026-10-14T19:34:01.772957+00:00",
     "duration_seconds": 63.12,
     "perf": {}
+  },
+  {
+    "date": "2026-10-15",
+    "bucket": "structural",
+    "feature_fingerprint": "structural:generative steel framing",
+    "title": "Generative AI for Steel Framing: Maximize Efficiency",
+    "title_variants": [
+      "AI-Driven Steel Framing Optimization",
+      "Unlocking Value in Steel Structures with Generative AI"
+    ],
+    "hook_style": "bold_claim",
+    "script_lines": [
+      "You\u2019re leaving millions on the table with every steel frame design!",
+      "Manual steel framing design is slow, iterative, and often results in over-engineered structures.",
+      "Exploring optimal solutions for complex projects is impossible without digital assistance.",
+      "Imagine AI rapidly exploring thousands of design options in minutes, not weeks.",
+      "That\u2019s AI-driven generative steel framing \u2013 optimization at an unprecedented scale.",
+      "Using advanced parametric tools like Grasshopper with structural analysis plugins such as Karamba3D, engineers leverage AI to generate and evaluate countless framing possibilities.",
+      "These algorithms consider material usage, stiffness, constructability, and cost simultaneously, identifying the most efficient solutions.",
+      "Projects are seeing up to 20% material optimization in steel tonnage and 70% reduction in initial design iteration time.",
+      "That means substantial cost savings, faster project delivery, and a significantly lower carbon footprint.",
+      "Ready to redefine structural efficiency? Explore integrating generative AI into your next steel project today!"
+    ],
+    "narration": "You\u2019re leaving millions on the table with every steel frame design! You\u2019re leaving millions on the table with every steel frame design! Manual steel framing design is slow, iterative, and often results in over-engineered structures. Exploring optimal solutions for complex projects is impossible without digital assistance. Imagine AI rapidly exploring thousands of design options in minutes, not weeks. That\u2019s AI-driven generative steel framing \u2013 optimization at an unprecedented scale. Using advanced parametric tools like Grasshopper with structural analysis plugins such as Karamba3D, engineers leverage AI to generate and evaluate countless framing possibilities. These algorithms consider material usage, stiffness, constructability, and cost simultaneously, identifying the most efficient solutions. Projects are seeing up to 20% material optimization in steel tonnage and 70% reduction in initial design iteration time. That means substantial cost savings, faster project delivery, and a significantly lower carbon footprint. Ready to redefine structural efficiency? Explore integrating generative AI into your next steel project today!",
+    "video_id": "8YdVC43LJ4I",
+    "url": "https://youtu.be/8YdVC43LJ4I",
+    "published_at": "2026-10-15T08:31:48.751622+00:00",
+    "duration_seconds": 63.24,
+    "perf": {}
   }
 ]
