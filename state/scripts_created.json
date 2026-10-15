@@ -2174,5 +2174,35 @@
     "published_at": "2026-10-15T08:31:48.751622+00:00",
     "duration_seconds": 63.24,
     "perf": {}
+  },
+  {
+    "date": "2026-10-15",
+    "bucket": "gis_planning",
+    "feature_fingerprint": "gis_planning:flood-risk modeling",
+    "title": "AI in GIS: Predicting the Next Flood",
+    "title_variants": [
+      "AI-Powered Flood Risk: A GIS Game-Changer",
+      "Stop Guessing: AI-Driven Flood Models in GIS",
+      "GIS + AI: Precision Flood Risk for AEC"
+    ],
+    "hook_style": "shocking_stat",
+    "script_lines": [
+      "Traditional hydraulic models are computationally intensive and often fall short in predicting hyper-localized impacts or dynamic changes from urban growth.",
+      "This leaves communities vulnerable and infrastructure under-protected.",
+      "But now, AI is revolutionizing how we approach flood resilience.",
+      "Advanced GIS platforms are integrating machine learning to transform flood-risk modeling.",
+      "Consider AI-powered flood-risk modeling. This capability leverages vast datasets \u2013 historical weather patterns, terrain topography, hydrological data, even future climate projections \u2013 to generate highly accurate, granular predictions.",
+      "Unlike static models, AI can dynamically simulate complex interactions, identifying specific structures or infrastructure corridors most at risk,",
+      "often achieving 30% higher spatial resolution in risk identification.",
+      "This means engineers and planners can optimize drainage designs, precisely site critical infrastructure, and develop targeted mitigation strategies up to five times faster than traditional methods,",
+      "leading to significantly more resilient projects.",
+      "Ready to build smarter, more resilient communities? Explore how AI-driven GIS can enhance your next flood mitigation project."
+    ],
+    "narration": "Globally, flood damage totals over $60 billion annually, and it's rising! Are your current flood risk assessments keeping pace with this escalating threat? Traditional hydraulic models are computationally intensive and often fall short in predicting hyper-localized impacts or dynamic changes from urban growth. This leaves communities vulnerable and infrastructure under-protected. But now, AI is revolutionizing how we approach flood resilience. Advanced GIS platforms are integrating machine learning to transform flood-risk modeling. Consider AI-powered flood-risk modeling. This capability leverages vast datasets \u2013 historical weather patterns, terrain topography, hydrological data, even future climate projections \u2013 to generate highly accurate, granular predictions. Unlike static models, AI can dynamically simulate complex interactions, identifying specific structures or infrastructure corridors most at risk, often achieving 30% higher spatial resolution in risk identification. This means engineers and planners can optimize drainage designs, precisely site critical infrastructure, and develop targeted mitigation strategies up to five times faster than traditional methods, leading to significantly more resilient projects. Ready to build smarter, more resilient communities? Explore how AI-driven GIS can enhance your next flood mitigation project.",
+    "video_id": "W2A5eexK_h4",
+    "url": "https://youtu.be/W2A5eexK_h4",
+    "published_at": "2026-10-15T19:19:01.843823+00:00",
+    "duration_seconds": 75.0,
+    "perf": {}
   }
 ]
