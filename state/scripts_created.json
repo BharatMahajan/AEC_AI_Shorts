@@ -2233,5 +2233,35 @@
     "published_at": "2026-10-16T08:24:57.985931+00:00",
     "duration_seconds": 64.68,
     "perf": {}
+  },
+  {
+    "date": "2026-10-16",
+    "bucket": "structural",
+    "feature_fingerprint": "structural:ai member sizing optimization",
+    "title": "AI Structural Optimization: Cut Costs, Not Corners",
+    "title_variants": [
+      "AI Sizing: The Future of Structural Design",
+      "Optimize Structural Members with AI",
+      "ETABS + AI: Smarter Structural Sizing"
+    ],
+    "hook_style": "shocking_stat",
+    "script_lines": [
+      "Did you know structural overdesign costs the industry millions in material waste annually?",
+      "Manual member sizing is tedious, iterative, and often results in conservative, inefficient designs.",
+      "What if AI could instantly pinpoint the most efficient section for every single member?",
+      "AI member sizing optimization uses computational intelligence to analyze thousands of permutations.",
+      "It rapidly evaluates standard sections against precise load cases, material properties, and building codes.",
+      "This isn't just about passing checks; it's about finding the *optimal* balance of performance and economy.",
+      "Advanced structural analysis platforms like CSI's ETABS now integrate these powerful AI capabilities.",
+      "Imagine reducing steel tonnage by 10 to 15% on complex projects \u2013 that's massive cost savings!",
+      "This means faster fabrication, lower carbon footprint, and a healthier project bottom line.",
+      "Don't leave savings on the table. Explore AI member sizing for your next structural design."
+    ],
+    "narration": "Did you know structural overdesign costs the industry millions in material waste annually? Did you know structural overdesign costs the industry millions in material waste annually? Manual member sizing is tedious, iterative, and often results in conservative, inefficient designs. What if AI could instantly pinpoint the most efficient section for every single member? AI member sizing optimization uses computational intelligence to analyze thousands of permutations. It rapidly evaluates standard sections against precise load cases, material properties, and building codes. This isn't just about passing checks; it's about finding the *optimal* balance of performance and economy. Advanced structural analysis platforms like CSI's ETABS now integrate these powerful AI capabilities. Imagine reducing steel tonnage by 10 to 15% on complex projects \u2013 that's massive cost savings! This means faster fabrication, lower carbon footprint, and a healthier project bottom line. Don't leave savings on the table. Explore AI member sizing for your next structural design.",
+    "video_id": "4J-N09bPTlU",
+    "url": "https://youtu.be/4J-N09bPTlU",
+    "published_at": "2026-10-16T18:54:12.148040+00:00",
+    "duration_seconds": 65.47,
+    "perf": {}
   }
 ]
