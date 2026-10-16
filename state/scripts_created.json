@@ -2204,5 +2204,34 @@
     "published_at": "2026-10-15T19:19:01.843823+00:00",
     "duration_seconds": 75.0,
     "perf": {}
+  },
+  {
+    "date": "2026-10-16",
+    "bucket": "mep",
+    "feature_fingerprint": "mep:ml energy-use prediction",
+    "title": "AI for MEP: Predictive Energy Routing",
+    "title_variants": [
+      "MEP Design with AI Energy Prediction",
+      "Optimize MEP Routing with ML",
+      "Beyond Clashes: AI MEP Energy"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "Are you optimizing MEP routing for more than just clashes and cost?",
+      "What if your layouts could predict operational energy consumption before construction?",
+      "Advanced AI-powered design environments are transforming MEP engineering.",
+      "Consider Machine Learning (ML) energy-use prediction integrated into platforms like Hypar.io for generative MEP routing.",
+      "Instead of static models, ML algorithms, trained on vast datasets of building performance, dynamically forecast energy loads and consumption for proposed ductwork, piping, and electrical layouts.",
+      "This allows engineers to explore thousands of routing permutations, automatically identifying designs that minimize energy expenditure while respecting spatial constraints.",
+      "Projects can achieve a significant 15-20% reduction in operational energy costs and up to a 10% decrease in material usage due to optimized layouts.",
+      "This isn't just about avoiding clashes; it's about engineering for true lifecycle performance.",
+      "Explore how ML energy prediction can elevate your next MEP design."
+    ],
+    "narration": "Are you optimizing MEP routing for more than just clashes and cost? What if your layouts could predict operational energy consumption *before* construction? Are you optimizing MEP routing for more than just clashes and cost? What if your layouts could predict operational energy consumption before construction? Advanced AI-powered design environments are transforming MEP engineering. Consider Machine Learning (ML) energy-use prediction integrated into platforms like Hypar.io for generative MEP routing. Instead of static models, ML algorithms, trained on vast datasets of building performance, dynamically forecast energy loads and consumption for proposed ductwork, piping, and electrical layouts. This allows engineers to explore thousands of routing permutations, automatically identifying designs that minimize energy expenditure while respecting spatial constraints. Projects can achieve a significant 15-20% reduction in operational energy costs and up to a 10% decrease in material usage due to optimized layouts. This isn't just about avoiding clashes; it's about engineering for true lifecycle performance. Explore how ML energy prediction can elevate your next MEP design.",
+    "video_id": "GmW-QjHdx_I",
+    "url": "https://youtu.be/GmW-QjHdx_I",
+    "published_at": "2026-10-16T08:24:57.985931+00:00",
+    "duration_seconds": 64.68,
+    "perf": {}
   }
 ]
