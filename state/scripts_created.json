@@ -2263,5 +2263,29 @@
     "published_at": "2026-10-16T18:54:12.148040+00:00",
     "duration_seconds": 65.47,
     "perf": {}
+  },
+  {
+    "date": "2026-10-17",
+    "bucket": "transport",
+    "feature_fingerprint": "transport:transit demand forecasting",
+    "title": "AI for Precision Transit Demand Forecasting",
+    "title_variants": [
+      "Predicting Future Travel: AI in Transport",
+      "Revolutionizing Transit Planning with AI",
+      "AI-Powered Transit Forecasting for AEC"
+    ],
+    "hook_style": "shocking_stat",
+    "script_lines": [
+      "Traditional transit demand forecasting relies on outdated models, often missing crucial real-time dynamics for urban planning. This leads to inefficient infrastructure development and missed opportunities for public transit networks.",
+      "But what if we could predict travel patterns with unprecedented accuracy? AI is revolutionizing this. Using sophisticated machine learning, tools like PTV Visum's AI-driven demand modeling can analyze vast datasets\u2014including anonymized mobile data, public transport ticketing, and GIS information.",
+      "This enables transportation engineers and urban planners to forecast multimodal ridership, predict network capacity issues, and optimize routes for new infrastructure. We're talking about predicting future demand up to 15% more accurately than traditional methods, leading to a 20% improvement in capital investment ROI.",
+      "Imagine designing transportation networks with confidence, knowing your forecasts are robust. This precision improves project delivery, reduces congestion, and fosters sustainable growth. Ready to transform your transportation projects? Explore AI-powered demand forecasting today!"
+    ],
+    "narration": "Did you know traffic congestion costs the average commuter 51 hours a year and over $1,000 in fuel and lost productivity! Traditional transit demand forecasting relies on outdated models, often missing crucial real-time dynamics for urban planning. This leads to inefficient infrastructure development and missed opportunities for public transit networks. But what if we could predict travel patterns with unprecedented accuracy? AI is revolutionizing this. Using sophisticated machine learning, tools like PTV Visum's AI-driven demand modeling can analyze vast datasets\u2014including anonymized mobile data, public transport ticketing, and GIS information. This enables transportation engineers and urban planners to forecast multimodal ridership, predict network capacity issues, and optimize routes for new infrastructure. We're talking about predicting future demand up to 15% more accurately than traditional methods, leading to a 20% improvement in capital investment ROI. Imagine designing transportation networks with confidence, knowing your forecasts are robust. This precision improves project delivery, reduces congestion, and fosters sustainable growth. Ready to transform your transportation projects? Explore AI-powered demand forecasting today!",
+    "video_id": "oTKoyIJnKKw",
+    "url": "https://youtu.be/oTKoyIJnKKw",
+    "published_at": "2026-10-17T07:58:59.880787+00:00",
+    "duration_seconds": 69.48,
+    "perf": {}
   }
 ]
