@@ -2313,5 +2313,31 @@
     "published_at": "2026-10-18T08:15:26.089639+00:00",
     "duration_seconds": 50.59,
     "perf": {}
+  },
+  {
+    "date": "2026-10-18",
+    "bucket": "coordination_clash",
+    "feature_fingerprint": "coordination_clash:ml-prioritized clash detection",
+    "title": "AI Prioritizes Your BIM Clashes",
+    "title_variants": [
+      "Stop Drowning in BIM Clashes! AI Prioritizes For You",
+      "ML-Driven Clash Detection: Focus on Critical Issues",
+      "Navisworks AI: Prioritized Clash Resolution"
+    ],
+    "hook_style": "pain_point",
+    "script_lines": [
+      "Still drowning in hundreds of irrelevant clashes from your BIM models? Wasting valuable engineering time sifting through minor interferences that won't impact constructability?",
+      "It's time to leverage AI with ML-prioritized clash detection to focus on what truly matters.",
+      "Tools like Navisworks now use machine learning to intelligently rank conflicts. AI analyzes element proximity, system criticality, and even historical resolution patterns.",
+      "This means you\u2019re presented with a focused list of high-priority issues, allowing your coordination team to resolve critical conflicts up to 35% faster.",
+      "No more chasing phantom pipes when a major structural beam interference demands immediate attention.",
+      "Ready to make your coordination more efficient? Discover how ML-prioritized clash detection can streamline your projects. What\u2019s your biggest clash detection bottleneck?"
+    ],
+    "narration": "Still sifting through hundreds of irrelevant BIM clashes? Still drowning in hundreds of irrelevant clashes from your BIM models? Wasting valuable engineering time sifting through minor interferences that won't impact constructability? It's time to leverage AI with ML-prioritized clash detection to focus on what truly matters. Tools like Navisworks now use machine learning to intelligently rank conflicts. AI analyzes element proximity, system criticality, and even historical resolution patterns. This means you\u2019re presented with a focused list of high-priority issues, allowing your coordination team to resolve critical conflicts up to 35% faster. No more chasing phantom pipes when a major structural beam interference demands immediate attention. Ready to make your coordination more efficient? Discover how ML-prioritized clash detection can streamline your projects. What\u2019s your biggest clash detection bottleneck?",
+    "video_id": "m5dL_c5olzc",
+    "url": "https://youtu.be/m5dL_c5olzc",
+    "published_at": "2026-10-18T18:15:30.245409+00:00",
+    "duration_seconds": 55.51,
+    "perf": {}
   }
 ]
