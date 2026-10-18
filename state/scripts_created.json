@@ -2287,5 +2287,31 @@
     "published_at": "2026-10-17T07:58:59.880787+00:00",
     "duration_seconds": 69.48,
     "perf": {}
+  },
+  {
+    "date": "2026-10-18",
+    "bucket": "water_environmental",
+    "feature_fingerprint": "water_environmental:ai leakage detection in networks",
+    "title": "AI Leak Detection: Stop Water Loss",
+    "title_variants": [
+      "Smart Networks: AI Leakage Detection",
+      "Combatting Water Loss with AI",
+      "Pinpointing Leaks: AI for Water Systems"
+    ],
+    "hook_style": "shocking_stat",
+    "script_lines": [
+      "This huge financial and environmental drain is now being tackled by AI in water infrastructure.",
+      "AI-powered hydraulic models, like those utilizing InfoWorks WS, integrate machine learning for continuous network monitoring.",
+      "The core AI feature: anomaly detection. It analyzes real-time pressure, flow, and acoustic sensor data.",
+      "This identifies subtle pattern shifts, pinpointing developing leaks long before visible signs emerge.",
+      "You can detect leaks 70% faster, reducing non-revenue water by 15-20%. That's millions saved annually.",
+      "Enable proactive maintenance, conserve water, and boost resilience. Explore AI leakage detection today."
+    ],
+    "narration": "Did you know up to 30% of treated water is lost globally due to leaks? That\u2019s billions in wasted resources! This huge financial and environmental drain is now being tackled by AI in water infrastructure. AI-powered hydraulic models, like those utilizing InfoWorks WS, integrate machine learning for continuous network monitoring. The core AI feature: anomaly detection. It analyzes real-time pressure, flow, and acoustic sensor data. This identifies subtle pattern shifts, pinpointing developing leaks long before visible signs emerge. You can detect leaks 70% faster, reducing non-revenue water by 15-20%. That's millions saved annually. Enable proactive maintenance, conserve water, and boost resilience. Explore AI leakage detection today.",
+    "video_id": "Sp4OFxIeEbA",
+    "url": "https://youtu.be/Sp4OFxIeEbA",
+    "published_at": "2026-10-18T08:15:26.089639+00:00",
+    "duration_seconds": 50.59,
+    "perf": {}
   }
 ]
