@@ -2366,5 +2366,30 @@
     "published_at": "2026-10-19T09:13:06.589294+00:00",
     "duration_seconds": 44.16,
     "perf": {}
+  },
+  {
+    "date": "2026-10-19",
+    "bucket": "transport",
+    "feature_fingerprint": "transport:pavement-distress detection from imagery",
+    "title": "AI for Smarter Pavement Inspections",
+    "title_variants": [
+      "AI-Powered Pavement Distress Detection",
+      "Transforming Road Maintenance with AI",
+      "Faster, Smarter Pavement Management"
+    ],
+    "hook_style": "pain_point",
+    "script_lines": [
+      "Traditional assessments are subjective, resource-intensive, and often miss critical distresses, leading to reactive maintenance and unexpected expenses.",
+      "AI-powered distress detection from high-resolution imagery changes this. Advanced computer vision models automatically identify and classify cracks, potholes, and rutting with millimeter accuracy.",
+      "This intelligence integrates into your *pavement management systems* or *traffic modeling platforms*. Result? Over 70% faster inspections and 3x diagnostic accuracy.",
+      "Shift to proactive maintenance, optimize resource allocation, and cut annual repair costs by 15-20%. Transform your infrastructure strategy.",
+      "Ready to streamline pavement management? Follow us to explore practical AI applications."
+    ],
+    "narration": "Is manual pavement inspection for your transport projects draining time and budget? Traditional assessments are subjective, resource-intensive, and often miss critical distresses, leading to reactive maintenance and unexpected expenses. AI-powered distress detection from high-resolution imagery changes this. Advanced computer vision models automatically identify and classify cracks, potholes, and rutting with millimeter accuracy. This intelligence integrates into your *pavement management systems* or *traffic modeling platforms*. Result? Over 70% faster inspections and 3x diagnostic accuracy. Shift to proactive maintenance, optimize resource allocation, and cut annual repair costs by 15-20%. Transform your infrastructure strategy. Ready to streamline pavement management? Follow us to explore practical AI applications.",
+    "video_id": "KBdsASrggS0",
+    "url": "https://youtu.be/KBdsASrggS0",
+    "published_at": "2026-10-19T20:40:46.409871+00:00",
+    "duration_seconds": 53.88,
+    "perf": {}
   }
 ]
