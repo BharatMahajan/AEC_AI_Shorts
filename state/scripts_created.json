@@ -2339,5 +2339,32 @@
     "published_at": "2026-10-18T18:15:30.245409+00:00",
     "duration_seconds": 55.51,
     "perf": {}
+  },
+  {
+    "date": "2026-10-19",
+    "bucket": "site_ops",
+    "feature_fingerprint": "site_ops:equipment-utilization tracking",
+    "title": "Boost Heavy Machinery Utilization with AI Vision",
+    "title_variants": [
+      "AI Vision for Optimal Equipment Use",
+      "Stop Guessing: AI-Powered Equipment Tracking",
+      "Max Your Machines: AI in Site Operations"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "Manual equipment tracking causes hidden costs and project delays. AI-powered computer vision is revolutionizing site operations.",
+      "Smart cameras on your job site, using EarthCam's analytics, identify every excavator and dozer.",
+      "Their AI tracks movement, distinguishing active work from costly idle time.",
+      "This provides granular equipment-utilization data.",
+      "Project managers optimize fleet deployment, cutting operational costs by 10-15% and significantly improving project schedules.",
+      "It boosts construction productivity and project management.",
+      "How are you leveraging AI to optimize heavy machinery? Share your strategies below!"
+    ],
+    "narration": "Is your heavy machinery *really* pulling its weight on site? Manual equipment tracking causes hidden costs and project delays. AI-powered computer vision is revolutionizing site operations. Smart cameras on your job site, using EarthCam's analytics, identify every excavator and dozer. Their AI tracks movement, distinguishing active work from costly idle time. This provides granular equipment-utilization data. Project managers optimize fleet deployment, cutting operational costs by 10-15% and significantly improving project schedules. It boosts construction productivity and project management. How are you leveraging AI to optimize heavy machinery? Share your strategies below!",
+    "video_id": "8xWHaq1XNLg",
+    "url": "https://youtu.be/8xWHaq1XNLg",
+    "published_at": "2026-10-19T09:13:06.589294+00:00",
+    "duration_seconds": 44.16,
+    "perf": {}
   }
 ]
