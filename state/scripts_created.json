@@ -2391,5 +2391,35 @@
     "published_at": "2026-10-19T20:40:46.409871+00:00",
     "duration_seconds": 53.88,
     "perf": {}
+  },
+  {
+    "date": "2026-10-20",
+    "bucket": "project_controls",
+    "feature_fingerprint": "project_controls:ai-driven resource leveling",
+    "title": "AI Levels Up Your Primavera P6",
+    "title_variants": [
+      "Stop Manual Resource Headaches!",
+      "Primavera P6 Gets AI Resource Leveling",
+      "AI for Optimized Project Resources"
+    ],
+    "hook_style": "pain_point",
+    "script_lines": [
+      "Manually optimizing resource loads across hundreds of activities is a monumental task, leading to delays and inefficient utilization.",
+      "Project teams struggle to balance skilled labor, equipment, and materials without impacting critical paths, often resulting in rework and missed deadlines.",
+      "But what if AI could handle this complexity for you, automatically?",
+      "Enter AI-driven resource leveling, a game-changer for project controls.",
+      "Advanced platforms like Primavera P6 are now integrating AI that automatically analyzes your entire project schedule, resource availability, skill sets, and project constraints.",
+      "It intelligently identifies potential over-allocations and proposes optimized reassignments, evaluating countless scenarios to find the most efficient path forward.",
+      "This powerful feature can significantly reduce resource over-allocations by up to 40% and free up project managers from hours of manual adjustment each week.",
+      "That means more time for strategic oversight and less time firefighting.",
+      "Unlock efficient resource management today! Explore how AI in Primavera P6 can transform your project controls.",
+      "Visit your vendor's site or search for 'AI resource leveling in Primavera P6' to learn more!"
+    ],
+    "narration": "Tired of constant resource over-allocations derailing your project schedules?! Manually optimizing resource loads across hundreds of activities is a monumental task, leading to delays and inefficient utilization. Project teams struggle to balance skilled labor, equipment, and materials without impacting critical paths, often resulting in rework and missed deadlines. But what if AI could handle this complexity for you, automatically? Enter AI-driven resource leveling, a game-changer for project controls. Advanced platforms like Primavera P6 are now integrating AI that automatically analyzes your entire project schedule, resource availability, skill sets, and project constraints. It intelligently identifies potential over-allocations and proposes optimized reassignments, evaluating countless scenarios to find the most efficient path forward. This powerful feature can significantly reduce resource over-allocations by up to 40% and free up project managers from hours of manual adjustment each week. That means more time for strategic oversight and less time firefighting. Unlock efficient resource management today! Explore how AI in Primavera P6 can transform your project controls. Visit your vendor's site or search for 'AI resource leveling in Primavera P6' to learn more!",
+    "video_id": "07mbPfK1ii0",
+    "url": "https://youtu.be/07mbPfK1ii0",
+    "published_at": "2026-10-20T08:48:44.010146+00:00",
+    "duration_seconds": 69.77,
+    "perf": {}
   }
 ]
