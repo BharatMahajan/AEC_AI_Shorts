@@ -2421,5 +2421,34 @@
     "published_at": "2026-10-20T08:48:44.010146+00:00",
     "duration_seconds": 69.77,
     "perf": {}
+  },
+  {
+    "date": "2026-10-20",
+    "bucket": "structural",
+    "feature_fingerprint": "structural:automated rebar detailing",
+    "title": "AI: Automated Rebar Detailing for Structural Engineers",
+    "title_variants": [
+      "Streamline Rebar Detailing with AI",
+      "AI Transforms Rebar Layouts",
+      "Faster Rebar: The AI Way"
+    ],
+    "hook_style": "pain_point",
+    "script_lines": [
+      "Complex layouts, bar marks, and schedules lead to bottlenecks, rework, and costly delays.",
+      "But AI is changing this. Automated rebar detailing is a game-changer for concrete structures.",
+      "Platforms like Tekla Structures now use AI, interpreting your 3D model and analysis results.",
+      "It intelligently generates complete rebar layouts, precise bar marks, and fabrication schedules, adhering to design codes.",
+      "This dramatically cuts manual effort, ensuring accurate cut lists and bend shapes.",
+      "The benefit? Slash detailing time by up to 70% and minimize costly fabrication errors.",
+      "That's faster project delivery, less waste, and significant cost savings.",
+      "AI empowers you to focus on high-value design, not repetitive detailing.",
+      "Ready to build smarter? Explore AI-powered rebar detailing today!"
+    ],
+    "narration": "Structural engineers, is manual rebar detailing a headache? Complex layouts, bar marks, and schedules lead to bottlenecks, rework, and costly delays. But AI is changing this. Automated rebar detailing is a game-changer for concrete structures. Platforms like Tekla Structures now use AI, interpreting your 3D model and analysis results. It intelligently generates complete rebar layouts, precise bar marks, and fabrication schedules, adhering to design codes. This dramatically cuts manual effort, ensuring accurate cut lists and bend shapes. The benefit? Slash detailing time by up to 70% and minimize costly fabrication errors. That's faster project delivery, less waste, and significant cost savings. AI empowers you to focus on high-value design, not repetitive detailing. Ready to build smarter? Explore AI-powered rebar detailing today!",
+    "video_id": "-t6Z8w5DTL4",
+    "url": "https://youtu.be/-t6Z8w5DTL4",
+    "published_at": "2026-10-20T19:28:13.344648+00:00",
+    "duration_seconds": 57.72,
+    "perf": {}
   }
 ]
