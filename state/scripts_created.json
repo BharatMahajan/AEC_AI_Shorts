@@ -2477,5 +2477,29 @@
     "published_at": "2026-10-21T08:48:28.451371+00:00",
     "duration_seconds": 63.24,
     "perf": {}
+  },
+  {
+    "date": "2026-10-21",
+    "bucket": "civil_infra",
+    "feature_fingerprint": "civil_infra:ai grading optimization",
+    "title": "AI Grading Optimization for Civil Engineers",
+    "title_variants": [
+      "AI Earthwork Optimization for Infrastructure",
+      "Optimize Grading with AI in Civil 3D"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "Struggling with endless iterations to balance cut and fill on your civil projects? Manually optimizing grading is a massive resource drain, directly impacting costs and schedules for large infrastructure.",
+      "What if AI could rapidly achieve optimal site grading? With AI grading optimization in Autodesk Civil 3D, engineers move beyond trial-and-error.",
+      "This AI-driven capability analyzes topography, constraints, and costs to generate multiple grading alternatives simultaneously. It precisely balances cut/fill volumes, minimizes haul distances, and respects design parameters like drainage and slopes.",
+      "This can lead to an average reduction of 15-20% in earthwork volumes. That translates directly into lower construction costs and accelerated project timelines. It's about delivering more sustainable, efficient designs faster.",
+      "Ready to transform your grading workflows? Explore AI grading optimization in Civil 3D today!"
+    ],
+    "narration": "Struggling with endless iterations to balance cut and fill on your civil projects? Struggling with endless iterations to balance cut and fill on your civil projects? Manually optimizing grading is a massive resource drain, directly impacting costs and schedules for large infrastructure. What if AI could rapidly achieve optimal site grading? With AI grading optimization in Autodesk Civil 3D, engineers move beyond trial-and-error. This AI-driven capability analyzes topography, constraints, and costs to generate multiple grading alternatives simultaneously. It precisely balances cut/fill volumes, minimizes haul distances, and respects design parameters like drainage and slopes. This can lead to an average reduction of 15-20% in earthwork volumes. That translates directly into lower construction costs and accelerated project timelines. It's about delivering more sustainable, efficient designs faster. Ready to transform your grading workflows? Explore AI grading optimization in Civil 3D today!",
+    "video_id": "PasRcMjwyTI",
+    "url": "https://youtu.be/PasRcMjwyTI",
+    "published_at": "2026-10-21T19:27:43.218976+00:00",
+    "duration_seconds": 63.26,
+    "perf": {}
   }
 ]
