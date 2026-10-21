@@ -2450,5 +2450,32 @@
     "published_at": "2026-10-20T19:28:13.344648+00:00",
     "duration_seconds": 57.72,
     "perf": {}
+  },
+  {
+    "date": "2026-10-21",
+    "bucket": "civil_infra",
+    "feature_fingerprint": "civil_infra:pressure-pipe network design",
+    "title": "AI Optimizes Pressure Pipe Networks",
+    "title_variants": [
+      "Civil 3D AI for Pressure Pipes",
+      "Smarter Pipe Design with AI",
+      "Generative Design for Water Infrastructure"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "Struggling to optimize your civil infrastructure pressure pipe networks for cost and performance simultaneously?",
+      "Manually balancing hydraulic efficiency, material costs, and regulatory compliance in large-scale pipeline projects is a huge challenge. But what if AI could do the heavy lifting?",
+      "Meet AI-powered generative design for pressure pipe networks in tools like Autodesk Civil 3D. This isn't just basic pipe sizing; it's a sophisticated engine that rapidly explores thousands of design alternatives.",
+      "You define your design criteria: desired flow rates, minimum system pressure, maximum velocities, and available pipe materials.",
+      "The AI then automatically identifies optimal pipe diameters, routes, and pump selections to minimize material costs while ensuring peak hydraulic performance across your entire utility infrastructure.",
+      "This can cut your initial design time by up to 60% and lead to significant operational cost savings over the network's lifespan.",
+      "Ready to transform your civil engineering workflows? Explore AI-driven pressure pipe network optimization today!"
+    ],
+    "narration": "Struggling to optimize your civil infrastructure pressure pipe networks for cost and performance simultaneously? Struggling to optimize your civil infrastructure pressure pipe networks for cost and performance simultaneously? Manually balancing hydraulic efficiency, material costs, and regulatory compliance in large-scale pipeline projects is a huge challenge. But what if AI could do the heavy lifting? Meet AI-powered generative design for pressure pipe networks in tools like Autodesk Civil 3D. This isn't just basic pipe sizing; it's a sophisticated engine that rapidly explores thousands of design alternatives. You define your design criteria: desired flow rates, minimum system pressure, maximum velocities, and available pipe materials. The AI then automatically identifies optimal pipe diameters, routes, and pump selections to minimize material costs while ensuring peak hydraulic performance across your entire utility infrastructure. This can cut your initial design time by up to 60% and lead to significant operational cost savings over the network's lifespan. Ready to transform your civil engineering workflows? Explore AI-driven pressure pipe network optimization today!",
+    "video_id": "VqOO-XM7Mao",
+    "url": "https://youtu.be/VqOO-XM7Mao",
+    "published_at": "2026-10-21T08:48:28.451371+00:00",
+    "duration_seconds": 63.24,
+    "perf": {}
   }
 ]
