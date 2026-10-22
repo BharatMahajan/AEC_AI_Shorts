@@ -2501,5 +2501,34 @@
     "published_at": "2026-10-21T19:27:43.218976+00:00",
     "duration_seconds": 63.26,
     "perf": {}
+  },
+  {
+    "date": "2026-10-22",
+    "bucket": "bim_authoring",
+    "feature_fingerprint": "bim_authoring:early-stage massing with forma",
+    "title": "AI for Faster BIM Massing with Forma",
+    "title_variants": [
+      "Optimize Early Design with Forma AI",
+      "Generative Design for AEC Massing",
+      "Accelerate Early BIM with Autodesk Forma"
+    ],
+    "hook_style": "pain_point",
+    "script_lines": [
+      "Still spending weeks on early-stage site layout iterations and manual performance analysis?",
+      "That's a huge drain, often leading to suboptimal designs. What if you could explore hundreds of optimized options in hours, not weeks?",
+      "Autodesk Forma's generative design features are changing early AEC workflows.",
+      "Define parameters like maximizing daylight or minimizing noise, and Forma automatically generates diverse massing options.",
+      "You instantly visualize and compare concepts with real-time data analysis.",
+      "This intelligent exploration accelerates early design, reducing iteration cycles by up to 70%.",
+      "Once optimized, seamlessly bring your Forma model into Revit.",
+      "Jump straight into detailed development, confident your foundational design is performance-driven.",
+      "Stop guessing, start designing with data. Explore Autodesk Forma and elevate your project's early design phase today!"
+    ],
+    "narration": "Still spending weeks on early-stage site layout iterations and manual performance analysis? Still spending weeks on early-stage site layout iterations and manual performance analysis? That's a huge drain, often leading to suboptimal designs. What if you could explore hundreds of optimized options in hours, not weeks? Autodesk Forma's generative design features are changing early AEC workflows. Define parameters like maximizing daylight or minimizing noise, and Forma automatically generates diverse massing options. You instantly visualize and compare concepts with real-time data analysis. This intelligent exploration accelerates early design, reducing iteration cycles by up to 70%. Once optimized, seamlessly bring your Forma model into Revit. Jump straight into detailed development, confident your foundational design is performance-driven. Stop guessing, start designing with data. Explore Autodesk Forma and elevate your project's early design phase today!",
+    "video_id": "1GNsZnC_9A0",
+    "url": "https://youtu.be/1GNsZnC_9A0",
+    "published_at": "2026-10-22T19:52:12.126331+00:00",
+    "duration_seconds": 60.02,
+    "perf": {}
   }
 ]
