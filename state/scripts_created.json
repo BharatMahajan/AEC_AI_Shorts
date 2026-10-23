@@ -2554,5 +2554,37 @@
     "published_at": "2026-10-23T08:46:57.688866+00:00",
     "duration_seconds": 59.78,
     "perf": {}
+  },
+  {
+    "date": "2026-10-23",
+    "bucket": "civil_infra",
+    "feature_fingerprint": "civil_infra:earthwork volume optimization",
+    "title": "AI for Smarter Earthwork Volumes",
+    "title_variants": [
+      "Cut Earthwork Costs with AI",
+      "Optimize Civil Earthwork with AI",
+      "Civil 3D AI: Maximize Earthwork Efficiency"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "Traditional earthwork calculations are often time-consuming, iterative, and can lead to suboptimal designs.",
+      "This impacts project budgets, schedules, and even environmental footprints.",
+      "But what if you could leverage AI to dramatically refine your earthwork strategy?",
+      "AI-driven earthwork volume optimization is transforming how civil engineers approach site development.",
+      "Using tools like Autodesk Civil 3D's Grading Optimization feature, you can now feed design constraints directly into an AI engine.",
+      "This powerful AI iteratively refines your surface, considering factors like maximum slopes, drainage paths, and target cut-fill balance.",
+      "It converges on a solution that minimizes total material movement and costs.",
+      "This isn't just about creating a grade; it's about intelligently finding the most efficient earthwork profile.",
+      "The result? Significant savings. Engineers are seeing 15-25% reductions in cut and fill volumes on complex sites.",
+      "This translates directly to lower hauling costs, shorter construction timelines, and reduced environmental impact.",
+      "Explore how AI earthwork optimization can transform your next civil project.",
+      "Start leveraging these powerful capabilities to drive efficiency and savings today!"
+    ],
+    "narration": "Are you truly optimizing your earthwork volumes, or just estimating them? Traditional earthwork calculations are often time-consuming, iterative, and can lead to suboptimal designs. This impacts project budgets, schedules, and even environmental footprints. But what if you could leverage AI to dramatically refine your earthwork strategy? AI-driven earthwork volume optimization is transforming how civil engineers approach site development. Using tools like Autodesk Civil 3D's Grading Optimization feature, you can now feed design constraints directly into an AI engine. This powerful AI iteratively refines your surface, considering factors like maximum slopes, drainage paths, and target cut-fill balance. It converges on a solution that minimizes total material movement and costs. This isn't just about creating a grade; it's about intelligently finding the most efficient earthwork profile. The result? Significant savings. Engineers are seeing 15-25% reductions in cut and fill volumes on complex sites. This translates directly to lower hauling costs, shorter construction timelines, and reduced environmental impact. Explore how AI earthwork optimization can transform your next civil project. Start leveraging these powerful capabilities to drive efficiency and savings today!",
+    "video_id": "0WehYOQUDGQ",
+    "url": "https://youtu.be/0WehYOQUDGQ",
+    "published_at": "2026-10-23T20:05:30.682313+00:00",
+    "duration_seconds": 71.59,
+    "perf": {}
   }
 ]
