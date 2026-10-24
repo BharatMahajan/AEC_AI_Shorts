@@ -2586,5 +2586,28 @@
     "published_at": "2026-10-23T20:05:30.682313+00:00",
     "duration_seconds": 71.59,
     "perf": {}
+  },
+  {
+    "date": "2026-10-24",
+    "bucket": "docs_specs",
+    "feature_fingerprint": "docs_specs:spec compliance checking",
+    "title": "AI for Spec Compliance: Mitigate Rework",
+    "title_variants": [
+      "AI Speeds Up Spec Compliance",
+      "Automated Spec Checks: Autodesk Build AI",
+      "Slash Rework with AI Spec Analysis"
+    ],
+    "hook_style": "pain_point",
+    "script_lines": [
+      "Drowning in project specifications and submittals? Manually cross-referencing specs against drawings is slow, risky, and leads to costly RFIs and rework. What if AI could automate compliance checking?",
+      "Meet AI-powered specification analysis, integrated into platforms like Autodesk Build. This AI parses your project specifications, identifies key requirements, and automatically compares them against submittal data or model elements. It instantly flags potential non-compliances: conflicts in material grades, tolerances, or installation methods. It's an intelligent auditor.",
+      "Engineers and contractors can slash manual review time by 70%, catching 95% of non-compliances proactively. This quality assurance mitigates millions in potential rework, ensuring project delivery. Stop costly surprises. Explore AI for ironclad spec compliance today."
+    ],
+    "narration": "Drowning in project specifications and submittals? Drowning in project specifications and submittals? Manually cross-referencing specs against drawings is slow, risky, and leads to costly RFIs and rework. What if AI could automate compliance checking? Meet AI-powered specification analysis, integrated into platforms like Autodesk Build. This AI parses your project specifications, identifies key requirements, and automatically compares them against submittal data or model elements. It instantly flags potential non-compliances: conflicts in material grades, tolerances, or installation methods. It's an intelligent auditor. Engineers and contractors can slash manual review time by 70%, catching 95% of non-compliances proactively. This quality assurance mitigates millions in potential rework, ensuring project delivery. Stop costly surprises. Explore AI for ironclad spec compliance today.",
+    "video_id": "G3I-8YW-1g8",
+    "url": "https://youtu.be/G3I-8YW-1g8",
+    "published_at": "2026-10-24T08:21:17.112234+00:00",
+    "duration_seconds": 59.74,
+    "perf": {}
   }
 ]
