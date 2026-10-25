@@ -2636,5 +2636,29 @@
     "published_at": "2026-10-25T08:39:18.734576+00:00",
     "duration_seconds": 63.26,
     "perf": {}
+  },
+  {
+    "date": "2026-10-25",
+    "bucket": "docs_specs",
+    "feature_fingerprint": "docs_specs:drawing-to-text extraction",
+    "title": "AI Streamlines RFI Generation",
+    "title_variants": [
+      "Automate RFI Drafting with AI",
+      "AI for Faster RFIs",
+      "Stop Manual RFI Data Entry"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "You know the pain: extracting callouts, dimensions, and specs from PDFs to fill RFI forms. It's tedious, error-prone, and wastes engineering time. AI offers a powerful solution.",
+      "With drawing-to-text extraction, AI automatically pulls critical data from blueprints. Upload a drawing; the system instantly parses sheet numbers, detail references, and notes, ready for your RFI.",
+      "This feature drastically cuts manual data entry for detail-driven RFIs by over 70%. Imagine pre-populating fields in seconds. That saves hours weekly, letting your team focus on problem-solving, not transcription.",
+      "Explore AI-powered document intelligence to streamline RFI workflows and boost project efficiency today!"
+    ],
+    "narration": "Manually typing drawing details for RFIs? You know the pain: extracting callouts, dimensions, and specs from PDFs to fill RFI forms. It's tedious, error-prone, and wastes engineering time. AI offers a powerful solution. With drawing-to-text extraction, AI automatically pulls critical data from blueprints. Upload a drawing; the system instantly parses sheet numbers, detail references, and notes, ready for your RFI. This feature drastically cuts manual data entry for detail-driven RFIs by over 70%. Imagine pre-populating fields in seconds. That saves hours weekly, letting your team focus on problem-solving, not transcription. Explore AI-powered document intelligence to streamline RFI workflows and boost project efficiency today!",
+    "video_id": "LVr-HZnlCos",
+    "url": "https://youtu.be/LVr-HZnlCos",
+    "published_at": "2026-10-25T18:31:57.188163+00:00",
+    "duration_seconds": 49.75,
+    "perf": {}
   }
 ]
