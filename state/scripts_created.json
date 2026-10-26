@@ -2687,5 +2687,35 @@
     "published_at": "2026-10-26T09:16:14.021795+00:00",
     "duration_seconds": 54.72,
     "perf": {}
+  },
+  {
+    "date": "2026-10-26",
+    "bucket": "water_environmental",
+    "feature_fingerprint": "water_environmental:ml treatment-plant process optimization",
+    "title": "AI for Water Treatment Optimization",
+    "title_variants": [
+      "ML in Water Treatment: Unlocking Plant Efficiency",
+      "Optimize Your Plant with AI: Cut Costs, Improve Quality",
+      "Smart Treatment Plant Operations with ML"
+    ],
+    "hook_style": "shocking_stat",
+    "script_lines": [
+      "Millions wasted on excess energy, chemical overdosing, and suboptimal pumping.",
+      "AI is changing this with Machine Learning-driven process optimization.",
+      "ML models analyze real-time SCADA data, learning plant dynamics.",
+      "They predict optimal setpoints for aeration, chemical feed, and pumping.",
+      "Integrating ML with your hydraulic model enables predictive control, like clarifier polymer dosing.",
+      "The AI adjusts inputs based on influent, ensuring peak solids removal with minimal chemical use.",
+      "Clients achieve 15-20% reductions in energy and chemical usage.",
+      "This means significant savings and improved effluent quality.",
+      "Ready to optimize your plant's performance?",
+      "Learn more about ML optimization on our website today!"
+    ],
+    "narration": "Did you know treatment plants often lose over 25% of their budget to inefficiencies annually?! Millions wasted on excess energy, chemical overdosing, and suboptimal pumping. AI is changing this with Machine Learning-driven process optimization. ML models analyze real-time SCADA data, learning plant dynamics. They predict optimal setpoints for aeration, chemical feed, and pumping. Integrating ML with your hydraulic model enables predictive control, like clarifier polymer dosing. The AI adjusts inputs based on influent, ensuring peak solids removal with minimal chemical use. Clients achieve 15-20% reductions in energy and chemical usage. This means significant savings and improved effluent quality. Ready to optimize your plant's performance? Learn more about ML optimization on our website today!",
+    "video_id": "dYT0n17c5dU",
+    "url": "https://youtu.be/dYT0n17c5dU",
+    "published_at": "2026-10-26T20:41:06.308419+00:00",
+    "duration_seconds": 51.48,
+    "perf": {}
   }
 ]
