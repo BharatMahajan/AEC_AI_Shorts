@@ -2660,5 +2660,32 @@
     "published_at": "2026-10-25T18:31:57.188163+00:00",
     "duration_seconds": 49.75,
     "perf": {}
+  },
+  {
+    "date": "2026-10-26",
+    "bucket": "reality_capture",
+    "feature_fingerprint": "reality_capture:progress tracking from site scans",
+    "title": "AI for Real-Time Site Progress Tracking",
+    "title_variants": [
+      "Instant Site Progress with AI Reality Capture",
+      "Digital Twins: AI Progress Monitoring",
+      "Accelerate Construction with AI Site Scans"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "Traditional monitoring causes delays. Compare live site reality against your 4D BIM model instantly, with AI.",
+      "AI-driven reality capture transforms progress: capture detailed point clouds with laser scanners or drone photogrammetry.",
+      "Autodesk Build uses AI to process scans, aligning point clouds with BIM to compare actual work against planned milestones.",
+      "It quantifies installed components, highlights deviations, and calculates precise progress percentages.",
+      "Spot schedule/design deviations 4x faster. Reduce manual reporting 70%, gaining actionable insights in hours, not days.",
+      "Optimize resources, prevent rework, stay on budget. Revolutionize site monitoring!",
+      "Explore AI reality capture today! Follow us for more AEC innovations!"
+    ],
+    "narration": "Is manual progress tracking slowing your projects? Traditional monitoring causes delays. Compare live site reality against your 4D BIM model instantly, with AI. AI-driven reality capture transforms progress: capture detailed point clouds with laser scanners or drone photogrammetry. Autodesk Build uses AI to process scans, aligning point clouds with BIM to compare actual work against planned milestones. It quantifies installed components, highlights deviations, and calculates precise progress percentages. Spot schedule/design deviations 4x faster. Reduce manual reporting 70%, gaining actionable insights in hours, not days. Optimize resources, prevent rework, stay on budget. Revolutionize site monitoring! Explore AI reality capture today! Follow us for more AEC innovations!",
+    "video_id": "YCXyySaMdZs",
+    "url": "https://youtu.be/YCXyySaMdZs",
+    "published_at": "2026-10-26T09:16:14.021795+00:00",
+    "duration_seconds": 54.72,
+    "perf": {}
   }
 ]
