@@ -2717,5 +2717,30 @@
     "published_at": "2026-10-26T20:41:06.308419+00:00",
     "duration_seconds": 51.48,
     "perf": {}
+  },
+  {
+    "date": "2026-10-27",
+    "bucket": "gis_planning",
+    "feature_fingerprint": "gis_planning:ml land-use classification",
+    "title": "AI in GIS: Turbocharge Land-Use Planning",
+    "title_variants": [
+      "ML for Land Use: GIS Revolution",
+      "GIS AI: Faster Land Use Classification"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "Is manual land-use classification a bottleneck in your planning process?",
+      "Mapping vast land areas from imagery is slow, labor-intensive, and error-prone, delaying critical preliminary planning. Imagine reducing weeks of work to mere hours.",
+      "Modern GIS platforms, like ArcGIS Pro, now leverage ML land-use classification. They deploy deep learning models to rapidly analyze high-resolution imagery and LiDAR data.",
+      "These models automatically identify diverse land cover types: residential, commercial, industrial, forests, wetlands, agriculture\u2014with impressive accuracy.",
+      "A 50-square-kilometer region, previously taking weeks, now completes in less than a day, achieving over 95% accuracy.",
+      "This accelerates feasibility studies and environmental baselines, letting your team focus on high-value design. Get precise, up-to-date geographic intelligence for master planning."
+    ],
+    "narration": "Is manual land-use classification a bottleneck in your planning process? Is manual land-use classification a bottleneck in your planning process? Mapping vast land areas from imagery is slow, labor-intensive, and error-prone, delaying critical preliminary planning. Imagine reducing weeks of work to mere hours. Modern GIS platforms, like ArcGIS Pro, now leverage ML land-use classification. They deploy deep learning models to rapidly analyze high-resolution imagery and LiDAR data. These models automatically identify diverse land cover types: residential, commercial, industrial, forests, wetlands, agriculture\u2014with impressive accuracy. A 50-square-kilometer region, previously taking weeks, now completes in less than a day, achieving over 95% accuracy. This accelerates feasibility studies and environmental baselines, letting your team focus on high-value design. Get precise, up-to-date geographic intelligence for master planning.",
+    "video_id": "1W9p69xPvXA",
+    "url": "https://youtu.be/1W9p69xPvXA",
+    "published_at": "2026-10-27T09:15:53.868419+00:00",
+    "duration_seconds": 60.31,
+    "perf": {}
   }
 ]
