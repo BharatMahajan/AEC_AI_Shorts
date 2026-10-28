@@ -2793,5 +2793,31 @@
     "published_at": "2026-10-28T09:56:58.901415+00:00",
     "duration_seconds": 64.2,
     "perf": {}
+  },
+  {
+    "date": "2026-10-28",
+    "bucket": "project_controls",
+    "feature_fingerprint": "project_controls:ml schedule risk forecasting",
+    "title": "AI: Predictive Schedules, Real Certainty",
+    "title_variants": [
+      "AI for Proactive Schedule Risk in AEC",
+      "Primavera P6 + AI: Forecast Project Delays"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "Struggling with project schedule certainty? Do traditional risk analyses leave you guessing?",
+      "Manually assessing schedule risks in Primavera P6 is time-consuming and often reactive, missing subtle indicators of future delays.",
+      "But what if AI could proactively forecast these deviations?",
+      "Machine learning schedule risk forecasting leverages historical project data \u2013 from past delays to resource constraints \u2013 to predict future slippage probabilities.",
+      "Integrating ML models with your Primavera P6 data provides a probabilistic forecast of completion dates, pinpointing critical path activities with high delay potential.",
+      "This allows for proactive intervention, potentially reducing schedule overruns by 15-20% and improving on-time delivery confidence.",
+      "Ready to empower your project controls with AI? Comment 'AI Schedules' to learn more!"
+    ],
+    "narration": "Struggling with project schedule certainty? Do traditional risk analyses leave you guessing? Struggling with project schedule certainty? Do traditional risk analyses leave you guessing? Manually assessing schedule risks in Primavera P6 is time-consuming and often reactive, missing subtle indicators of future delays. But what if AI could proactively forecast these deviations? Machine learning schedule risk forecasting leverages historical project data \u2013 from past delays to resource constraints \u2013 to predict future slippage probabilities. Integrating ML models with your Primavera P6 data provides a probabilistic forecast of completion dates, pinpointing critical path activities with high delay potential. This allows for proactive intervention, potentially reducing schedule overruns by 15-20% and improving on-time delivery confidence. Ready to empower your project controls with AI? Comment 'AI Schedules' to learn more!",
+    "video_id": "PxWWuytNc1s",
+    "url": "https://youtu.be/PxWWuytNc1s",
+    "published_at": "2026-10-28T20:27:01.200038+00:00",
+    "duration_seconds": 56.74,
+    "perf": {}
   }
 ]
