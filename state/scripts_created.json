@@ -2767,5 +2767,31 @@
     "published_at": "2026-10-27T20:12:27.283877+00:00",
     "duration_seconds": 63.74,
     "perf": {}
+  },
+  {
+    "date": "2026-10-28",
+    "bucket": "docs_specs",
+    "feature_fingerprint": "docs_specs:llm rfi drafting and response",
+    "title": "AI Supercharges RFI Workflow",
+    "title_variants": [
+      "Boost Project Speed with AI RFIs",
+      "AI for Faster, Smarter RFIs",
+      "Eliminate RFI Bottlenecks with AI"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "Tired of RFIs creating project bottlenecks? Manual drafting and slow responses delay critical decisions. What if AI could streamline this process?",
+      "Introducing **RFI-Assist AI**, leveraging large language models to transform your RFI workflow. For drafting, it ingests project specs, drawings, and models.",
+      "The AI automatically identifies ambiguities and generates precise RFI questions, saving you hours of manual composition.",
+      "When an RFI arrives, RFI-Assist AI instantly analyzes the query, cross-referencing all project documentation\u2014from submittals to past RFIs.",
+      "It then drafts a concise, accurate response, citing relevant clauses. This drastically cuts research time and ensures consistency.",
+      "Teams using RFI-Assist AI report up to a 30% reduction in RFI cycle time, delivering projects faster with less rework. Ready to optimize project communication? Explore RFI-Assist AI now!"
+    ],
+    "narration": "Tired of RFIs creating project bottlenecks? Tired of RFIs creating project bottlenecks? Manual drafting and slow responses delay critical decisions. What if AI could streamline this process? Introducing **RFI-Assist AI**, leveraging large language models to transform your RFI workflow. For drafting, it ingests project specs, drawings, and models. The AI automatically identifies ambiguities and generates precise RFI questions, saving you hours of manual composition. When an RFI arrives, RFI-Assist AI instantly analyzes the query, cross-referencing all project documentation\u2014from submittals to past RFIs. It then drafts a concise, accurate response, citing relevant clauses. This drastically cuts research time and ensures consistency. Teams using RFI-Assist AI report up to a 30% reduction in RFI cycle time, delivering projects faster with less rework. Ready to optimize project communication? Explore RFI-Assist AI now!",
+    "video_id": "6NSd18Xw5CQ",
+    "url": "https://youtu.be/6NSd18Xw5CQ",
+    "published_at": "2026-10-28T09:56:58.901415+00:00",
+    "duration_seconds": 64.2,
+    "perf": {}
   }
 ]
