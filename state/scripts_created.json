@@ -2846,5 +2846,30 @@
     "published_at": "2026-10-29T10:19:39.662465+00:00",
     "duration_seconds": 67.03,
     "perf": {}
+  },
+  {
+    "date": "2026-10-29",
+    "bucket": "bim_authoring",
+    "feature_fingerprint": "bim_authoring:ai-assisted family creation",
+    "title": "AI Family Creation in Revit",
+    "title_variants": [
+      "AI Boosts Revit Families",
+      "Revit AI: Faster Family Creation",
+      "Automate Revit Families with AI"
+    ],
+    "hook_style": "bold_claim",
+    "script_lines": [
+      "You're an AEC professional. You know the pain of crafting intricate Revit families from scratch \u2014 custom casework, unique light fixtures, or bespoke structural connections. It's tedious, error-prone, and a massive time sink.",
+      "But the game has changed. AI-assisted family creation is transforming BIM authoring. Imagine feeding a few parameters or even a sketch to Revit, and its integrated AI then intelligently generates the parametric geometry, connectors, and instance properties.",
+      "This isn't future tech; it's here now. Tools leveraging AI can interpret design intent and automate repetitive modeling tasks. For example, creating a highly detailed custom kitchen cabinet family, complete with multiple door styles and hardware options, can go from a multi-hour task to under an hour.",
+      "This significantly boosts productivity, reducing family creation time by up to 70%. It ensures higher accuracy and consistency across your projects, minimizing errors and rework.",
+      "Stop losing valuable engineering hours to tedious family modeling. Explore AI-powered plugins or future Revit integrations for family creation today!"
+    ],
+    "narration": "What if you could create complex BIM families in minutes, not hours? You're an AEC professional. You know the pain of crafting intricate Revit families from scratch \u2014 custom casework, unique light fixtures, or bespoke structural connections. It's tedious, error-prone, and a massive time sink. But the game has changed. AI-assisted family creation is transforming BIM authoring. Imagine feeding a few parameters or even a sketch to Revit, and its integrated AI then intelligently generates the parametric geometry, connectors, and instance properties. This isn't future tech; it's here now. Tools leveraging AI can interpret design intent and automate repetitive modeling tasks. For example, creating a highly detailed custom kitchen cabinet family, complete with multiple door styles and hardware options, can go from a multi-hour task to under an hour. This significantly boosts productivity, reducing family creation time by up to 70%. It ensures higher accuracy and consistency across your projects, minimizing errors and rework. Stop losing valuable engineering hours to tedious family modeling. Explore AI-powered plugins or future Revit integrations for family creation today!",
+    "video_id": "NuwWwCh15s0",
+    "url": "https://youtu.be/NuwWwCh15s0",
+    "published_at": "2026-10-29T20:25:28.983892+00:00",
+    "duration_seconds": 67.75,
+    "perf": {}
   }
 ]
