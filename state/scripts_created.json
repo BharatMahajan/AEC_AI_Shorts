@@ -2819,5 +2819,32 @@
     "published_at": "2026-10-28T20:27:01.200038+00:00",
     "duration_seconds": 56.74,
     "perf": {}
+  },
+  {
+    "date": "2026-10-29",
+    "bucket": "mep",
+    "feature_fingerprint": "mep:ai load calculations",
+    "title": "AI Load Calculations for MEP",
+    "title_variants": [
+      "Smart MEP Loads with AI",
+      "Accelerate MEP Design with AI",
+      "Next-Gen MEP Load Analysis"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "Traditional methods are often iterative, conservative, and struggle with the dynamic complexity of modern buildings, leading to potential oversizing and extended design cycles.",
+      "Imagine slashing those hours, achieving precision, and optimizing your designs from the start. That's what AI-powered load calculations deliver.",
+      "Advanced AI modules, integrated into platforms like IES VE, now leverage machine learning to analyze vast datasets.",
+      "From hyper-local weather patterns and intricate building physics to real-time occupancy profiles, AI processes it all.",
+      "This isn't just faster; it's smarter. AI performs dynamic thermal and electrical load simulations, considering factors like thermal mass, natural ventilation, and internal gains with unparalleled accuracy.",
+      "The result? Up to 70% faster calculation cycles and the ability to optimize equipment sizing, potentially reducing upfront capital costs by 15-20% through minimized oversizing, all while meeting performance targets.",
+      "Want to integrate these cutting-edge capabilities into your next project? Explore AI-driven analysis features within your current design software."
+    ],
+    "narration": "Are your MEP load calculations holding back project timelines and budget? Traditional methods are often iterative, conservative, and struggle with the dynamic complexity of modern buildings, leading to potential oversizing and extended design cycles. Imagine slashing those hours, achieving precision, and optimizing your designs from the start. That's what AI-powered load calculations deliver. Advanced AI modules, integrated into platforms like IES VE, now leverage machine learning to analyze vast datasets. From hyper-local weather patterns and intricate building physics to real-time occupancy profiles, AI processes it all. This isn't just faster; it's smarter. AI performs dynamic thermal and electrical load simulations, considering factors like thermal mass, natural ventilation, and internal gains with unparalleled accuracy. The result? Up to 70% faster calculation cycles and the ability to optimize equipment sizing, potentially reducing upfront capital costs by 15-20% through minimized oversizing, all while meeting performance targets. Want to integrate these cutting-edge capabilities into your next project? Explore AI-driven analysis features within your current design software.",
+    "video_id": "g1BsVQTJsZY",
+    "url": "https://youtu.be/g1BsVQTJsZY",
+    "published_at": "2026-10-29T10:19:39.662465+00:00",
+    "duration_seconds": 67.03,
+    "perf": {}
   }
 ]
