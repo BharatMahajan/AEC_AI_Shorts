@@ -2871,5 +2871,29 @@
     "published_at": "2026-10-29T20:25:28.983892+00:00",
     "duration_seconds": 67.75,
     "perf": {}
+  },
+  {
+    "date": "2026-10-30",
+    "bucket": "docs_specs",
+    "feature_fingerprint": "docs_specs:automated submittal review",
+    "title": "AI Revolutionizes Submittal Review",
+    "title_variants": [
+      "Automated Submittals: Faster, Smarter",
+      "Procore AI: Your Submittal Superpower"
+    ],
+    "hook_style": "pain_point",
+    "script_lines": [
+      "Stacks of documents, countless RFIs, ensuring every detail aligns with specs. This manual bottleneck risks costly errors and project delays.",
+      "Now, AI is handling that burden. Automated submittal review, integrated into platforms like Procore, is transforming document control.",
+      "This AI rapidly cross-references submittal packages against specs, contracts, and drawings. It instantly flags discrepancies, non-compliance, and even missing information.",
+      "For a typical commercial project, this reduces review cycles by 30-50%, accelerating approvals by weeks. It frees up your expert engineers for critical problem-solving.",
+      "Ready to boost accuracy, cut review times, and keep projects on schedule? Explore AI-driven submittal review today!"
+    ],
+    "narration": "Tired of the endless submittal review grind? Stacks of documents, countless RFIs, ensuring every detail aligns with specs. This manual bottleneck risks costly errors and project delays. Now, AI is handling that burden. Automated submittal review, integrated into platforms like Procore, is transforming document control. This AI rapidly cross-references submittal packages against specs, contracts, and drawings. It instantly flags discrepancies, non-compliance, and even missing information. For a typical commercial project, this reduces review cycles by 30-50%, accelerating approvals by weeks. It frees up your expert engineers for critical problem-solving. Ready to boost accuracy, cut review times, and keep projects on schedule? Explore AI-driven submittal review today!",
+    "video_id": "MSoZEGpyB-s",
+    "url": "https://youtu.be/MSoZEGpyB-s",
+    "published_at": "2026-10-30T10:21:24.269834+00:00",
+    "duration_seconds": 52.1,
+    "perf": {}
   }
 ]
