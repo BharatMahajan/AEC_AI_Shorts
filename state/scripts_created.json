@@ -2895,5 +2895,33 @@
     "published_at": "2026-10-30T10:21:24.269834+00:00",
     "duration_seconds": 52.1,
     "perf": {}
+  },
+  {
+    "date": "2026-10-30",
+    "bucket": "cad",
+    "feature_fingerprint": "cad:ai command suggestions",
+    "title": "AutoCAD AI: Smarter Drafting, Faster Workflows",
+    "title_variants": [
+      "Boost CAD Speed with AI",
+      "AI in AutoCAD: Predictive Commands",
+      "Design Faster: AI Suggestions in AutoCAD"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "What if your CAD software could anticipate your next move? Imagine AI that learns your design habits.",
+      "AutoCAD's AI command suggestions do exactly that.",
+      "This intelligent feature analyzes your current drawing context, your project's object types, and even your past command history to predict and present the most relevant tools *before* you even type.",
+      "Think about it: As you're detailing a rebar cage, the system might automatically suggest 'ARRAY', 'TRIM', or 'MIRROR' based on your previous actions and the geometry you're working with.",
+      "This proactive assistance significantly reduces mouse clicks and keyboard inputs.",
+      "We're seeing engineers accelerate common drafting tasks by up to 15%, freeing up critical design time.",
+      "Stop wasting seconds navigating menus. Start designing faster.",
+      "How could predictive AI transform your daily CAD workflow? Share your thoughts below!"
+    ],
+    "narration": "Are you tired of sifting through command menus in AutoCAD, constantly searching for the right tool? What if your CAD software could anticipate your next move? Imagine AI that learns your design habits. AutoCAD's AI command suggestions do exactly that. This intelligent feature analyzes your current drawing context, your project's object types, and even your past command history to predict and present the most relevant tools *before* you even type. Think about it: As you're detailing a rebar cage, the system might automatically suggest 'ARRAY', 'TRIM', or 'MIRROR' based on your previous actions and the geometry you're working with. This proactive assistance significantly reduces mouse clicks and keyboard inputs. We're seeing engineers accelerate common drafting tasks by up to 15%, freeing up critical design time. Stop wasting seconds navigating menus. Start designing faster. How could predictive AI transform your daily CAD workflow? Share your thoughts below!",
+    "video_id": "mbYvI4-3Jn8",
+    "url": "https://youtu.be/mbYvI4-3Jn8",
+    "published_at": "2026-10-30T19:59:59.854694+00:00",
+    "duration_seconds": 59.47,
+    "perf": {}
   }
 ]
