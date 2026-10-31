@@ -2923,5 +2923,30 @@
     "published_at": "2026-10-30T19:59:59.854694+00:00",
     "duration_seconds": 59.47,
     "perf": {}
+  },
+  {
+    "date": "2026-10-31",
+    "bucket": "site_ops",
+    "feature_fingerprint": "site_ops:drone progress capture",
+    "title": "AI-Powered Drone Progress Capture",
+    "title_variants": [
+      "Boost Site Progress with AI Drones",
+      "Automated Site Monitoring: Drones + AI"
+    ],
+    "hook_style": "bold_claim",
+    "script_lines": [
+      "Forget slow, manual site progress updates! AI is revolutionizing how we monitor construction projects.",
+      "Imagine drones autonomously capturing high-resolution imagery of your entire site, daily. The real game-changer? Intelligent analysis.",
+      "Using advanced computer vision, platforms like DroneDeploy analyze these aerial models, comparing them directly against your BIM or design models.",
+      "This feature, automated BIM-to-reality variance detection, instantly highlights deviations, identifies completed work, and flags potential issues.",
+      "Engineers gain near real-time insights, enabling proactive adjustments. Realistically, reduce weekly progress reporting time by 75%, improving schedule adherence by 15%.",
+      "Stop reacting to problems; start predicting them. Explore how AI-powered drone progress capture can transform your project site operations."
+    ],
+    "narration": "Forget slow, manual site progress updates! AI is revolutionizing how we monitor construction projects. Forget slow, manual site progress updates! AI is revolutionizing how we monitor construction projects. Imagine drones autonomously capturing high-resolution imagery of your entire site, daily. The real game-changer? Intelligent analysis. Using advanced computer vision, platforms like DroneDeploy analyze these aerial models, comparing them directly against your BIM or design models. This feature, automated BIM-to-reality variance detection, instantly highlights deviations, identifies completed work, and flags potential issues. Engineers gain near real-time insights, enabling proactive adjustments. Realistically, reduce weekly progress reporting time by 75%, improving schedule adherence by 15%. Stop reacting to problems; start predicting them. Explore how AI-powered drone progress capture can transform your project site operations.",
+    "video_id": "5GrnT16UKyo",
+    "url": "https://youtu.be/5GrnT16UKyo",
+    "published_at": "2026-10-31T09:54:01.246774+00:00",
+    "duration_seconds": 64.2,
+    "perf": {}
   }
 ]
