@@ -2948,5 +2948,34 @@
     "published_at": "2026-10-31T09:54:01.246774+00:00",
     "duration_seconds": 64.2,
     "perf": {}
+  },
+  {
+    "date": "2026-10-31",
+    "bucket": "transport",
+    "feature_fingerprint": "transport:ml traffic flow prediction",
+    "title": "AI: Predicting Tomorrow's Traffic",
+    "title_variants": [
+      "ML for Dynamic Traffic Management",
+      "Smarter Roads with AI Prediction"
+    ],
+    "hook_style": "future_tease",
+    "script_lines": [
+      "Imagine if our transportation networks didn't just react to traffic, but *predicted* it?",
+      "For engineers managing complex urban mobility, traditional deterministic models excel at planning, but real-time operational efficiency remains a significant challenge.",
+      "This is where machine learning traffic flow prediction fundamentally shifts the paradigm.",
+      "AI algorithms continuously ingest vast datasets \u2013 from loop detectors, cameras, even connected vehicle data \u2013 to predict short-term congestion, queue lengths, and travel times with remarkable accuracy.",
+      "This goes beyond simple reactive systems.",
+      "An integrated AI module, perhaps within platforms like PTV Vissim or specialized intelligent transportation systems, leverages these predictions for dynamic signal timing and adaptive route guidance recommendations.",
+      "By proactively adjusting light cycles or suggesting optimal routes, we can achieve substantial improvements.",
+      "Pilot projects demonstrate up to a 15% reduction in peak-hour travel delays and significantly improved incident response times.",
+      "This means less idling, lower emissions, and smoother journeys for commuters.",
+      "Ready to transform your traffic management strategies? Explore how ML-powered prediction can optimize your next infrastructure project."
+    ],
+    "narration": "Imagine if our transportation networks didn't just react to traffic, but *predicted* it? Imagine if our transportation networks didn't just react to traffic, but *predicted* it? For engineers managing complex urban mobility, traditional deterministic models excel at planning, but real-time operational efficiency remains a significant challenge. This is where machine learning traffic flow prediction fundamentally shifts the paradigm. AI algorithms continuously ingest vast datasets \u2013 from loop detectors, cameras, even connected vehicle data \u2013 to predict short-term congestion, queue lengths, and travel times with remarkable accuracy. This goes beyond simple reactive systems. An integrated AI module, perhaps within platforms like PTV Vissim or specialized intelligent transportation systems, leverages these predictions for dynamic signal timing and adaptive route guidance recommendations. By proactively adjusting light cycles or suggesting optimal routes, we can achieve substantial improvements. Pilot projects demonstrate up to a 15% reduction in peak-hour travel delays and significantly improved incident response times. This means less idling, lower emissions, and smoother journeys for commuters. Ready to transform your traffic management strategies? Explore how ML-powered prediction can optimize your next infrastructure project.",
+    "video_id": "mmSrK94Q4Yk",
+    "url": "https://youtu.be/mmSrK94Q4Yk",
+    "published_at": "2026-10-31T19:26:34.903474+00:00",
+    "duration_seconds": 72.29,
+    "perf": {}
   }
 ]
