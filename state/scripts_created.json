@@ -3004,5 +3004,28 @@
     "published_at": "2026-11-01T10:45:07.461556+00:00",
     "duration_seconds": 64.3,
     "perf": {}
+  },
+  {
+    "date": "2026-11-01",
+    "bucket": "mep",
+    "feature_fingerprint": "mep:clash-aware mep layout",
+    "title": "AI for Clash-Free MEP Layout",
+    "title_variants": [
+      "MEP Routing: AI Stops Clashes",
+      "Automated MEP Layout: No More Rework?"
+    ],
+    "hook_style": "shocking_stat",
+    "script_lines": [
+      "Manual MEP routing means endless iterations and costly on-site headaches. What if your software could proactively prevent clashes?",
+      "AI-powered clash-aware MEP layout is here. Integrated into advanced MEP routing tools, intelligent algorithms analyze design rules, clearances, and structural elements simultaneously. This isn't just detection; it's real-time clash *prevention*.",
+      "HVAC, piping, and conduit are automatically optimized for space, accessibility, and constructability. This delivers a verifiable 40% reduction in coordination iterations and up to 30% fewer field clashes!",
+      "Achieve unprecedented precision and project speed. Explore AI-driven clash-aware MEP layout for your next project, or comment below with your insights!"
+    ],
+    "narration": "Did you know MEP rework from clashes costs projects up to 10% of their total value?! Manual MEP routing means endless iterations and costly on-site headaches. What if your software could proactively prevent clashes? AI-powered clash-aware MEP layout is here. Integrated into advanced MEP routing tools, intelligent algorithms analyze design rules, clearances, and structural elements simultaneously. This isn't just detection; it's real-time clash *prevention*. HVAC, piping, and conduit are automatically optimized for space, accessibility, and constructability. This delivers a verifiable 40% reduction in coordination iterations and up to 30% fewer field clashes! Achieve unprecedented precision and project speed. Explore AI-driven clash-aware MEP layout for your next project, or comment below with your insights!",
+    "video_id": "m_k3vBsxdCQ",
+    "url": "https://youtu.be/m_k3vBsxdCQ",
+    "published_at": "2026-11-01T19:51:59.159832+00:00",
+    "duration_seconds": 54.17,
+    "perf": {}
   }
 ]
