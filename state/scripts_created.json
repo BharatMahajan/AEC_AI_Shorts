@@ -3027,5 +3027,40 @@
     "published_at": "2026-11-01T19:51:59.159832+00:00",
     "duration_seconds": 54.17,
     "perf": {}
+  },
+  {
+    "date": "2026-11-02",
+    "bucket": "cad",
+    "feature_fingerprint": "cad:markup assist for digitizing redlines",
+    "title": "AutoCAD AI Redline Automation",
+    "title_variants": [
+      "AI for CAD Markups: Markup Assist",
+      "Digitize Redlines with AutoCAD AI"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "How much time do you spend manually digitizing redline markups?",
+      "For AEC professionals, this is a significant bottleneck,",
+      "consuming valuable time and introducing errors.",
+      "What if AI could automate this entire process?",
+      "Meet AutoCAD's Markup Assist.",
+      "This powerful AI feature intelligently reads feedback",
+      "from scanned PDFs or even photos of marked-up prints.",
+      "It automatically identifies revision clouds, text, and geometric changes,",
+      "then intelligently overlays these elements directly onto your DWG.",
+      "You then quickly convert them to MTEXT, Mleaders,",
+      "or modify geometry with a few clicks.",
+      "This is about more than speed; it's about accuracy.",
+      "By reducing manual transcription, you minimize errors",
+      "and ensure precise design intent.",
+      "Firms using Markup Assist report saving up to 50% of their revision time.",
+      "Explore AutoCAD's Markup Assist and optimize your revision workflow today."
+    ],
+    "narration": "How much time do you spend manually digitizing redline markups? How much time do you spend manually digitizing redline markups? For AEC professionals, this is a significant bottleneck, consuming valuable time and introducing errors. What if AI could automate this entire process? Meet AutoCAD's Markup Assist. This powerful AI feature intelligently reads feedback from scanned PDFs or even photos of marked-up prints. It automatically identifies revision clouds, text, and geometric changes, then intelligently overlays these elements directly onto your DWG. You then quickly convert them to MTEXT, Mleaders, or modify geometry with a few clicks. This is about more than speed; it's about accuracy. By reducing manual transcription, you minimize errors and ensure precise design intent. Firms using Markup Assist report saving up to 50% of their revision time. Explore AutoCAD's Markup Assist and optimize your revision workflow today.",
+    "video_id": "xBs6N4zuDws",
+    "url": "https://youtu.be/xBs6N4zuDws",
+    "published_at": "2026-11-02T11:35:48.234968+00:00",
+    "duration_seconds": 60.07,
+    "perf": {}
   }
 ]
