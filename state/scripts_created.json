@@ -3062,5 +3062,33 @@
     "published_at": "2026-11-02T11:35:48.234968+00:00",
     "duration_seconds": 60.07,
     "perf": {}
+  },
+  {
+    "date": "2026-11-02",
+    "bucket": "cad",
+    "feature_fingerprint": "cad:smart blocks placement prediction",
+    "title": "AutoCAD AI: Predictive Block Placement",
+    "title_variants": [
+      "Smart Blocks: AI-Powered CAD Placement",
+      "Boost Your CAD with AI Block Prediction",
+      "AutoCAD's Smart Blocks: Your Next Move Anticipated"
+    ],
+    "hook_style": "future_tease",
+    "script_lines": [
+      "Tired of repetitive block placements eating into your design time?",
+      "AutoCAD is evolving. Get ready for AI-powered Smart Blocks, a game-changer for detailed design and drafting.",
+      "This intelligent feature uses machine learning to analyze your drawing context, understanding relationships between elements and common placement patterns from your historical data.",
+      "When you select a block, Smart Blocks automatically suggests optimal insertion points based on nearby geometry \u2013 aligning with walls, intersections, or previously placed similar components.",
+      "This isn't just a fancy trick. It dramatically accelerates your drafting workflow, cutting down the time spent on repetitive tasks by up to 40% on typical drawing sets.",
+      "Imagine placing dozens of door swings, electrical outlets, or structural connections with minimal clicks and enhanced accuracy, reducing errors and rework.",
+      "For AEC engineers and drafters, this means less time on manual block alignment and more time focusing on critical design decisions and problem-solving.",
+      "Ready to streamline your CAD process? Explore AutoCAD's Smart Blocks today and experience predictive design firsthand!"
+    ],
+    "narration": "What if your CAD software could predict your next design move? Tired of repetitive block placements eating into your design time? AutoCAD is evolving. Get ready for AI-powered Smart Blocks, a game-changer for detailed design and drafting. This intelligent feature uses machine learning to analyze your drawing context, understanding relationships between elements and common placement patterns from your historical data. When you select a block, Smart Blocks automatically suggests optimal insertion points based on nearby geometry \u2013 aligning with walls, intersections, or previously placed similar components. This isn't just a fancy trick. It dramatically accelerates your drafting workflow, cutting down the time spent on repetitive tasks by up to 40% on typical drawing sets. Imagine placing dozens of door swings, electrical outlets, or structural connections with minimal clicks and enhanced accuracy, reducing errors and rework. For AEC engineers and drafters, this means less time on manual block alignment and more time focusing on critical design decisions and problem-solving. Ready to streamline your CAD process? Explore AutoCAD's Smart Blocks today and experience predictive design firsthand!",
+    "video_id": "YDvJQYyj-zg",
+    "url": "https://youtu.be/YDvJQYyj-zg",
+    "published_at": "2026-11-02T23:11:46.351075+00:00",
+    "duration_seconds": 65.5,
+    "perf": {}
   }
 ]
