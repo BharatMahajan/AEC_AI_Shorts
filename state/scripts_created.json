@@ -3117,5 +3117,30 @@
     "published_at": "2026-11-03T11:14:05.044282+00:00",
     "duration_seconds": 59.71,
     "perf": {}
+  },
+  {
+    "date": "2026-11-03",
+    "bucket": "coordination_clash",
+    "feature_fingerprint": "coordination_clash:model coordination in acc",
+    "title": "AI for Smarter AEC Coordination",
+    "title_variants": [
+      "AI in ACC Model Coordination",
+      "Systemic Clash Patterns with AI",
+      "Navisworks + ACC: Next-Gen Coordination"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "You're running clash reports in Navisworks, generating thousands of potential conflicts. But what's the real bottleneck? It's not just detection; it's the tedious analysis, contextualizing, and assigning every single coordination issue.",
+      "Enter AI in Autodesk Construction Cloud Model Coordination. This isn't just about basic clash grouping anymore. AI can analyze complex clash sets, identifying systemic interference patterns across disciplines.",
+      "For instance, it might highlight recurring conflicts between a specific MEP system and structural elements across multiple zones. More powerfully, AI suggests relevant issue details like discipline, type, and even potential responsible parties by learning from past project resolutions.",
+      "This intelligent contextualization allows your team to move beyond just logging collisions to understanding why they happen, streamlining issue resolution by up to 30%.",
+      "Spend less time parsing raw data and more time making informed design decisions. Ready to make your coordination process genuinely intelligent?"
+    ],
+    "narration": "Are your coordination meetings still drowning in manual clash review? You're running clash reports in Navisworks, generating thousands of potential conflicts. But what's the real bottleneck? It's not just detection; it's the tedious analysis, contextualizing, and assigning every single coordination issue. Enter AI in Autodesk Construction Cloud Model Coordination. This isn't just about basic clash grouping anymore. AI can analyze complex clash sets, identifying systemic interference patterns across disciplines. For instance, it might highlight recurring conflicts between a specific MEP system and structural elements across multiple zones. More powerfully, AI suggests relevant issue details like discipline, type, and even potential responsible parties by learning from past project resolutions. This intelligent contextualization allows your team to move beyond just logging collisions to understanding why they happen, streamlining issue resolution by up to 30%. Spend less time parsing raw data and more time making informed design decisions. Ready to make your coordination process genuinely intelligent?",
+    "video_id": "IOW0Z41_5vs",
+    "url": "https://youtu.be/IOW0Z41_5vs",
+    "published_at": "2026-11-03T21:12:33.161006+00:00",
+    "duration_seconds": 67.85,
+    "perf": {}
   }
 ]
