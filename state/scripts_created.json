@@ -3090,5 +3090,32 @@
     "published_at": "2026-11-02T23:11:46.351075+00:00",
     "duration_seconds": 65.5,
     "perf": {}
+  },
+  {
+    "date": "2026-11-03",
+    "bucket": "bim_authoring",
+    "feature_fingerprint": "bim_authoring:generative floorplate layout",
+    "title": "AI Generative Layouts in Revit",
+    "title_variants": [
+      "Revit AI: Layouts in Minutes",
+      "Accelerate Layouts with Generative AI in Revit"
+    ],
+    "hook_style": "bold_claim",
+    "script_lines": [
+      "That's the power of generative AI in your BIM workflow, specifically for floorplate design.",
+      "With tools like Autodesk Revit, harnessing its generative design capabilities \u2014 often via Dynamo \u2014 you define design goals and constraints.",
+      "Instead of manual sketching, you input parameters: program area, adjacency, circulation efficiency, daylighting metrics.",
+      "The AI autonomously explores vast solution spaces, presenting optimized layouts meeting your criteria.",
+      "This enables unparalleled design exploration.",
+      "Reduce initial layout iterations from days to hours, accelerating concept development by over 75%.",
+      "Ensure optimal space utilization early. Present clients with dozens of data-backed, high-performant options, almost instantly.",
+      "Ready to accelerate conceptual design? Explore generative floorplate layout in Revit to transform your preliminary design phase!"
+    ],
+    "narration": "Imagine generating hundreds of optimized building layouts in minutes, not days! That's the power of generative AI in your BIM workflow, specifically for floorplate design. With tools like Autodesk Revit, harnessing its generative design capabilities \u2014 often via Dynamo \u2014 you define design goals and constraints. Instead of manual sketching, you input parameters: program area, adjacency, circulation efficiency, daylighting metrics. The AI autonomously explores vast solution spaces, presenting optimized layouts meeting your criteria. This enables unparalleled design exploration. Reduce initial layout iterations from days to hours, accelerating concept development by over 75%. Ensure optimal space utilization early. Present clients with dozens of data-backed, high-performant options, almost instantly. Ready to accelerate conceptual design? Explore generative floorplate layout in Revit to transform your preliminary design phase!",
+    "video_id": "_rW7jgO0sBA",
+    "url": "https://youtu.be/_rW7jgO0sBA",
+    "published_at": "2026-11-03T11:14:05.044282+00:00",
+    "duration_seconds": 59.71,
+    "perf": {}
   }
 ]
