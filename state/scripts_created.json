@@ -3142,5 +3142,31 @@
     "published_at": "2026-11-03T21:12:33.161006+00:00",
     "duration_seconds": 67.85,
     "perf": {}
+  },
+  {
+    "date": "2026-11-04",
+    "bucket": "bim_authoring",
+    "feature_fingerprint": "bim_authoring:automated room tagging",
+    "title": "Revit AI: Automated Room Tagging",
+    "title_variants": [
+      "AI Boosts Revit Room Tagging",
+      "Automate Revit Room Data with AI",
+      "Revit's Next Leap: AI Room Tagging"
+    ],
+    "hook_style": "future_tease",
+    "script_lines": [
+      "Tired of the tedious task of manually tagging hundreds of rooms in Revit?",
+      "Defining room boundaries, assigning names, numbers, and crucial data like area is a repetitive time-sink for AEC teams.",
+      "But what if AI could handle it? New capabilities and add-ins for Revit are leveraging machine learning to automatically identify and place room objects based on your model's geometry.",
+      "This AI accurately tags rooms, extracts contextual data, and populates parameters, reducing manual effort dramatically. For a typical 500-room building, this cuts initial room data population time by over 90%.",
+      "That's hours saved, allowing engineers to focus on critical design and analysis, ensuring data consistency from the start.",
+      "Ready to optimize your BIM workflows? Discover AI-driven room tagging for Revit and reclaim your valuable time."
+    ],
+    "narration": "What if AI could eliminate your most tedious Revit tasks? Tired of the tedious task of manually tagging hundreds of rooms in Revit? Defining room boundaries, assigning names, numbers, and crucial data like area is a repetitive time-sink for AEC teams. But what if AI could handle it? New capabilities and add-ins for Revit are leveraging machine learning to automatically identify and place room objects based on your model's geometry. This AI accurately tags rooms, extracts contextual data, and populates parameters, reducing manual effort dramatically. For a typical 500-room building, this cuts initial room data population time by over 90%. That's hours saved, allowing engineers to focus on critical design and analysis, ensuring data consistency from the start. Ready to optimize your BIM workflows? Discover AI-driven room tagging for Revit and reclaim your valuable time.",
+    "video_id": "WjB-XO04fLg",
+    "url": "https://youtu.be/WjB-XO04fLg",
+    "published_at": "2026-11-04T11:24:35.039764+00:00",
+    "duration_seconds": 54.72,
+    "perf": {}
   }
 ]
