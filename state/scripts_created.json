@@ -3191,5 +3191,31 @@
     "published_at": "2026-11-05T11:21:59.877982+00:00",
     "duration_seconds": 59.02,
     "perf": {}
+  },
+  {
+    "date": "2026-11-05",
+    "bucket": "water_environmental",
+    "feature_fingerprint": "water_environmental:ai leakage detection in networks",
+    "title": "AI Pinpoints Water Leaks: Up to 25% Less Water Loss",
+    "title_variants": [
+      "Smart Water Networks: AI Leak Detection",
+      "End Non-Revenue Water: AI in Hydraulic Models"
+    ],
+    "hook_style": "future_tease",
+    "script_lines": [
+      "What if you could pinpoint hidden water leaks in your network before they became catastrophic failures?",
+      "Traditional leakage detection is often reactive and labor-intensive, leading to significant non-revenue water losses and operational inefficiencies.",
+      "Now, AI transforms this by integrating real-time sensor data with advanced hydraulic models.",
+      "Specific AI-powered anomaly detection within tools like Bentley WaterGEMS or EPANET continuously analyzes pressure, flow, and acoustic patterns.",
+      "It correlates this data against the model's predicted behavior, instantly flagging deviations that indicate a leak's precise location and severity.",
+      "This proactive approach enables rapid repairs, minimizing water waste and operational costs. We're seeing up to a 25% reduction in non-revenue water.",
+      "Ready to explore how predictive AI can secure your water infrastructure? Comment below!"
+    ],
+    "narration": "What if you could pinpoint hidden water leaks in your network before they became catastrophic failures? What if you could pinpoint hidden water leaks in your network before they became catastrophic failures? Traditional leakage detection is often reactive and labor-intensive, leading to significant non-revenue water losses and operational inefficiencies. Now, AI transforms this by integrating real-time sensor data with advanced hydraulic models. Specific AI-powered anomaly detection within tools like Bentley WaterGEMS or EPANET continuously analyzes pressure, flow, and acoustic patterns. It correlates this data against the model's predicted behavior, instantly flagging deviations that indicate a leak's precise location and severity. This proactive approach enables rapid repairs, minimizing water waste and operational costs. We're seeing up to a 25% reduction in non-revenue water. Ready to explore how predictive AI can secure your water infrastructure? Comment below!",
+    "video_id": "Yu_AdoXeHxk",
+    "url": "https://youtu.be/Yu_AdoXeHxk",
+    "published_at": "2026-11-05T21:31:24.770326+00:00",
+    "duration_seconds": 58.58,
+    "perf": {}
   }
 ]
