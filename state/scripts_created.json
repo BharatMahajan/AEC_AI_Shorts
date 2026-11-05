@@ -3168,5 +3168,28 @@
     "published_at": "2026-11-04T11:24:35.039764+00:00",
     "duration_seconds": 54.72,
     "perf": {}
+  },
+  {
+    "date": "2026-11-05",
+    "bucket": "site_ops",
+    "feature_fingerprint": "site_ops:equipment-utilization tracking",
+    "title": "AI for Equipment Utilization",
+    "title_variants": [
+      "Boost Site Productivity with AI",
+      "Computer Vision for Equipment Ops"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "Telematics track location, not *actual* activity. This blind spot costs projects time and money. AI-powered computer vision changes this.",
+      "Dedicated Equipment Operations Intelligence (EOI) platforms use existing site cameras or drones. Their advanced computer vision algorithms identify equipment, detect states like idling, excavation, loading, and measure critical cycle times.",
+      "This flags an excavator idling for 2.5 hours, or haul trucks averaging 7 minutes per load versus a 5-minute target. Project managers use this granular data to pinpoint bottlenecks, optimize allocation. Projects see a 15% reduction in idle time and an 8% boost in daily material moved. That\u2019s direct fuel savings and faster schedules.",
+      "Ready for quantifiable efficiency? Leverage computer vision. Follow for more AEC AI solutions!"
+    ],
+    "narration": "Is your heavy equipment truly optimized on site? Telematics track location, not *actual* activity. This blind spot costs projects time and money. AI-powered computer vision changes this. Dedicated Equipment Operations Intelligence (EOI) platforms use existing site cameras or drones. Their advanced computer vision algorithms identify equipment, detect states like idling, excavation, loading, and measure critical cycle times. This flags an excavator idling for 2.5 hours, or haul trucks averaging 7 minutes per load versus a 5-minute target. Project managers use this granular data to pinpoint bottlenecks, optimize allocation. Projects see a 15% reduction in idle time and an 8% boost in daily material moved. That\u2019s direct fuel savings and faster schedules. Ready for quantifiable efficiency? Leverage computer vision. Follow for more AEC AI solutions!",
+    "video_id": "2wgsn0jDnVE",
+    "url": "https://youtu.be/2wgsn0jDnVE",
+    "published_at": "2026-11-05T11:21:59.877982+00:00",
+    "duration_seconds": 59.02,
+    "perf": {}
   }
 ]
