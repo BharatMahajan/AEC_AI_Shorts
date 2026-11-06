@@ -3217,5 +3217,34 @@
     "published_at": "2026-11-05T21:31:24.770326+00:00",
     "duration_seconds": 58.58,
     "perf": {}
+  },
+  {
+    "date": "2026-11-06",
+    "bucket": "cad",
+    "feature_fingerprint": "cad:activity insights",
+    "title": "Uncover CAD Design History with AI",
+    "title_variants": [
+      "Who Changed That? AutoCAD AI Knows!",
+      "CAD Collaboration: Activity Insights"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "Ever wasted hours tracking changes in complex AutoCAD drawings, wondering who did what and when?",
+      "AutoCAD's AI-powered Activity Insights provides that clarity.",
+      "This tool automatically logs a detailed history of actions on your DWG files.",
+      "It tracks user activity like opening, saving, plotting, and object-level changes.",
+      "See who edited a block or froze a layer, all without manual versioning.",
+      "This granular auditing delivers unparalleled transparency.",
+      "Activity Insights can cut investigation time by up to 50% for unauthorized changes or design evolution,",
+      "clarifying modifications with precise timestamps and user attribution.",
+      "It significantly boosts accountability.",
+      "Ready to understand your project's evolution better? Explore AutoCAD's Activity Insights!"
+    ],
+    "narration": "Ever wasted hours tracking changes in complex AutoCAD drawings, wondering who did what and when? Ever wasted hours tracking changes in complex AutoCAD drawings, wondering who did what and when? AutoCAD's AI-powered Activity Insights provides that clarity. This tool automatically logs a detailed history of actions on your DWG files. It tracks user activity like opening, saving, plotting, and object-level changes. See who edited a block or froze a layer, all without manual versioning. This granular auditing delivers unparalleled transparency. Activity Insights can cut investigation time by up to 50% for unauthorized changes or design evolution, clarifying modifications with precise timestamps and user attribution. It significantly boosts accountability. Ready to understand your project's evolution better? Explore AutoCAD's Activity Insights!",
+    "video_id": "u6oUTnGSBRY",
+    "url": "https://youtu.be/u6oUTnGSBRY",
+    "published_at": "2026-11-06T20:59:04.356377+00:00",
+    "duration_seconds": 54.34,
+    "perf": {}
   }
 ]
