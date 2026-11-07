@@ -3246,5 +3246,34 @@
     "published_at": "2026-11-06T20:59:04.356377+00:00",
     "duration_seconds": 54.34,
     "perf": {}
+  },
+  {
+    "date": "2026-11-07",
+    "bucket": "reality_capture",
+    "feature_fingerprint": "reality_capture:ml object classification in scans",
+    "title": "AI Auto-Classifies Your Point Clouds!",
+    "title_variants": [
+      "Digital Twins: AI for Point Cloud Classification",
+      "Leica Cyclone 3DR: AI for Scan Data Intelligence"
+    ],
+    "hook_style": "bold_claim",
+    "script_lines": [
+      "Creating intelligent digital twins from laser scan data means painstaking asset identification.",
+      "Hours are wasted tagging every pipe, beam, or fixture, delaying projects, inflating costs.",
+      "Imagine automated, precise recognition.",
+      "Leica Cyclone 3DR leverages AI-powered semantic segmentation to automatically classify objects in your point clouds.",
+      "It intelligently tags HVAC, structural, and architectural elements, transforming raw scans into queryable, attributed models.",
+      "This slashes manual processing by over 70%, letting engineers rapidly populate digital twins.",
+      "You get an accurate, intelligent model, ready for asset management, maintenance, and progress tracking.",
+      "Stop sifting through billions of points.",
+      "Explore how AI accelerates your digital twin journey.",
+      "What complex assets will AI classify for you?"
+    ],
+    "narration": "Manual point cloud classification is dead! Creating intelligent digital twins from laser scan data means painstaking asset identification. Hours are wasted tagging every pipe, beam, or fixture, delaying projects, inflating costs. Imagine automated, precise recognition. Leica Cyclone 3DR leverages AI-powered semantic segmentation to automatically classify objects in your point clouds. It intelligently tags HVAC, structural, and architectural elements, transforming raw scans into queryable, attributed models. This slashes manual processing by over 70%, letting engineers rapidly populate digital twins. You get an accurate, intelligent model, ready for asset management, maintenance, and progress tracking. Stop sifting through billions of points. Explore how AI accelerates your digital twin journey. What complex assets will AI classify for you?",
+    "video_id": "qZBnMXtUx0g",
+    "url": "https://youtu.be/qZBnMXtUx0g",
+    "published_at": "2026-11-07T10:34:27.051580+00:00",
+    "duration_seconds": 57.46,
+    "perf": {}
   }
 ]
