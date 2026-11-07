@@ -3275,5 +3275,34 @@
     "published_at": "2026-11-07T10:34:27.051580+00:00",
     "duration_seconds": 57.46,
     "perf": {}
+  },
+  {
+    "date": "2026-11-07",
+    "bucket": "mep",
+    "feature_fingerprint": "mep:ml energy-use prediction",
+    "title": "MEP Routing: ML Energy Prediction",
+    "title_variants": [
+      "Optimize MEP Routing with AI Energy Prediction",
+      "ML for Energy-Efficient MEP Layouts"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "Engineers, ever wonder if your complex MEP routing decisions could be driven by more than just conventional load calcs and spatial constraints?",
+      "The answer is yes, with Machine Learning energy-use prediction.",
+      "Integrating tools like IES Virtual Environment with ML algorithms allows us to go beyond static simulations.",
+      "Imagine modeling various ductwork and piping layouts, and instantly predicting their real-world energy consumption profiles over years, not just peak loads.",
+      "This isn't just about initial sizing.",
+      "It\u2019s about leveraging granular operational data to understand how different routing geometries, insulation levels, and control strategies will impact lifecycle energy performance.",
+      "For instance, specific ML-enhanced features can predict pressure drop variations and heat losses for complex routing configurations with up to 20% greater accuracy than traditional methods.",
+      "This insight empowers you to select optimal routing paths that significantly reduce operational costs,",
+      "potentially delivering a verifiable 10-15% reduction in annual energy expenditure for a typical commercial building.",
+      "Ready to elevate your MEP designs? Explore ML-powered energy prediction for your next project."
+    ],
+    "narration": "Are your current MEP routing designs truly optimized for long-term operational efficiency? Engineers, ever wonder if your complex MEP routing decisions could be driven by more than just conventional load calcs and spatial constraints? The answer is yes, with Machine Learning energy-use prediction. Integrating tools like IES Virtual Environment with ML algorithms allows us to go beyond static simulations. Imagine modeling various ductwork and piping layouts, and instantly predicting their real-world energy consumption profiles over years, not just peak loads. This isn't just about initial sizing. It\u2019s about leveraging granular operational data to understand how different routing geometries, insulation levels, and control strategies will impact lifecycle energy performance. For instance, specific ML-enhanced features can predict pressure drop variations and heat losses for complex routing configurations with up to 20% greater accuracy than traditional methods. This insight empowers you to select optimal routing paths that significantly reduce operational costs, potentially delivering a verifiable 10-15% reduction in annual energy expenditure for a typical commercial building. Ready to elevate your MEP designs? Explore ML-powered energy prediction for your next project.",
+    "video_id": "INpJPPbSC14",
+    "url": "https://youtu.be/INpJPPbSC14",
+    "published_at": "2026-11-07T19:31:42.081461+00:00",
+    "duration_seconds": 68.78,
+    "perf": {}
   }
 ]
