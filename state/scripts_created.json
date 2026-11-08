@@ -3304,5 +3304,33 @@
     "published_at": "2026-11-07T19:31:42.081461+00:00",
     "duration_seconds": 68.78,
     "perf": {}
+  },
+  {
+    "date": "2026-11-08",
+    "bucket": "transport",
+    "feature_fingerprint": "transport:pavement-distress detection from imagery",
+    "title": "AI Pavement Analytics: Smarter Roads",
+    "title_variants": [
+      "AI for Pavement Distress Detection",
+      "Paving the Future: AI in Road Management"
+    ],
+    "hook_style": "future_tease",
+    "script_lines": [
+      "AI is revolutionizing how we manage critical transport infrastructure, starting with our roads.",
+      "Traditionally, assessing pavement distress like cracking, rutting, or potholes was a labor-intensive, subjective process.",
+      "But new AI-powered platforms, like AgileAssets Pavement Analyst, are changing this. They leverage advanced computer vision to automatically detect and classify pavement distress from high-resolution imagery.",
+      "Imagery captured by drones or mobile mapping vehicles is fed to machine learning models that analyze surfaces, identifying distress types and severity with remarkable precision.",
+      "This objectively calculates Pavement Condition Index scores, far surpassing manual methods.",
+      "This isn't just about speed; it's about data-driven decisions. By precisely identifying degradation patterns, engineers can predict deterioration curves and prioritize maintenance needs more effectively.",
+      "This critical pavement data feeds directly into traffic modeling software, allowing for optimized maintenance schedules that minimize disruption and inform intelligent resource allocation.",
+      "You can reduce manual inspection time by up to 70% and optimize maintenance spend by 15-20%, significantly extending asset life.",
+      "Ready to pave the way for smarter infrastructure? Explore AI-driven pavement analytics today."
+    ],
+    "narration": "What if pavement inspections were faster, more accurate, and entirely objective? AI is revolutionizing how we manage critical transport infrastructure, starting with our roads. Traditionally, assessing pavement distress like cracking, rutting, or potholes was a labor-intensive, subjective process. But new AI-powered platforms, like AgileAssets Pavement Analyst, are changing this. They leverage advanced computer vision to automatically detect and classify pavement distress from high-resolution imagery. Imagery captured by drones or mobile mapping vehicles is fed to machine learning models that analyze surfaces, identifying distress types and severity with remarkable precision. This objectively calculates Pavement Condition Index scores, far surpassing manual methods. This isn't just about speed; it's about data-driven decisions. By precisely identifying degradation patterns, engineers can predict deterioration curves and prioritize maintenance needs more effectively. This critical pavement data feeds directly into traffic modeling software, allowing for optimized maintenance schedules that minimize disruption and inform intelligent resource allocation. You can reduce manual inspection time by up to 70% and optimize maintenance spend by 15-20%, significantly extending asset life. Ready to pave the way for smarter infrastructure? Explore AI-driven pavement analytics today.",
+    "video_id": "Y4yzlUawqmc",
+    "url": "https://youtu.be/Y4yzlUawqmc",
+    "published_at": "2026-11-08T10:40:51.846743+00:00",
+    "duration_seconds": 75.41,
+    "perf": {}
   }
 ]
