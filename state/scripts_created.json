@@ -3332,5 +3332,30 @@
     "published_at": "2026-11-08T10:40:51.846743+00:00",
     "duration_seconds": 75.41,
     "perf": {}
+  },
+  {
+    "date": "2026-11-08",
+    "bucket": "bim_authoring",
+    "feature_fingerprint": "bim_authoring:early-stage massing with forma",
+    "title": "AI Elevates Early-Stage BIM Massing",
+    "title_variants": [
+      "Forma: AI for Conceptual Design",
+      "Unlock Faster Massing with AI in Forma"
+    ],
+    "hook_style": "bold_claim",
+    "script_lines": [
+      "Forget guessing at early-stage building performance \u2013 AI is changing the game! For too long, conceptual design has been a bottleneck, relying on intuition or slow, isolated analyses.",
+      "But now, **Autodesk Forma** is transforming this initial phase. Imagine instantly evaluating environmental factors like daylight access, wind comfort, and even microclimate impact directly within your early-stage massing studies.",
+      "Forma leverages AI to provide real-time, data-driven insights, allowing you to iterate on design options with unprecedented speed and confidence.",
+      "You can upload existing site context, or use its rich library, then generate and optimize multiple massing variants, understanding their performance implications before you even open **Revit**.",
+      "This means achieving optimal design solutions up to 50% faster, drastically reducing costly rework later in the project lifecycle.",
+      "Stop the guesswork and start designing smarter from day one. Dive into Forma to revolutionize your conceptual workflows. What performance factor would you analyze first?"
+    ],
+    "narration": "Forget guessing at early-stage building performance \u2013 AI is changing the game! Forget guessing at early-stage building performance \u2013 AI is changing the game! For too long, conceptual design has been a bottleneck, relying on intuition or slow, isolated analyses. But now, **Autodesk Forma** is transforming this initial phase. Imagine instantly evaluating environmental factors like daylight access, wind comfort, and even microclimate impact directly within your early-stage massing studies. Forma leverages AI to provide real-time, data-driven insights, allowing you to iterate on design options with unprecedented speed and confidence. You can upload existing site context, or use its rich library, then generate and optimize multiple massing variants, understanding their performance implications before you even open **Revit**. This means achieving optimal design solutions up to 50% faster, drastically reducing costly rework later in the project lifecycle. Stop the guesswork and start designing smarter from day one. Dive into Forma to revolutionize your conceptual workflows. What performance factor would you analyze first?",
+    "video_id": "5xl3NWMYcwo",
+    "url": "https://youtu.be/5xl3NWMYcwo",
+    "published_at": "2026-11-08T19:51:52.464903+00:00",
+    "duration_seconds": 68.33,
+    "perf": {}
   }
 ]
