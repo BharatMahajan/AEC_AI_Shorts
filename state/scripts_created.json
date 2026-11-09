@@ -3383,5 +3383,31 @@
     "published_at": "2026-11-09T12:09:29.043382+00:00",
     "duration_seconds": 65.06,
     "perf": {}
+  },
+  {
+    "date": "2026-11-09",
+    "bucket": "coordination_clash",
+    "feature_fingerprint": "coordination_clash:ml-prioritized clash detection",
+    "title": "AI for Smarter Clash Detection",
+    "title_variants": [
+      "Prioritize Clashes with AI",
+      "Navisworks AI Clash Prioritization"
+    ],
+    "hook_style": "shocking_stat",
+    "script_lines": [
+      "Did you know that up to 70% of clashes in typical BIM models are often non-critical or false positives?",
+      "That's a huge coordination drain, forcing engineers to sift through thousands of alerts for critical issues.",
+      "What if AI filtered that noise, guiding you directly to clashes that truly matter?",
+      "With ML-prioritized clash detection, tools like Navisworks now integrate AI, learning from historical project data and past resolutions.",
+      "This intelligence automatically categorizes clashes by severity, distinguishing minor penetrations from critical structural-MEP conflicts.",
+      "Instead of thousands, focus on the top 100 critical clashes. This accelerates meetings, reduces rework, and slashes review time by up to 40%.",
+      "Explore ML-powered clash prioritization in your coordination workflows today!"
+    ],
+    "narration": "Did you know that up to 70% of clashes in typical BIM models are often non-critical or false positives? Did you know that up to 70% of clashes in typical BIM models are often non-critical or false positives? That's a huge coordination drain, forcing engineers to sift through thousands of alerts for critical issues. What if AI filtered that noise, guiding you directly to clashes that truly matter? With ML-prioritized clash detection, tools like Navisworks now integrate AI, learning from historical project data and past resolutions. This intelligence automatically categorizes clashes by severity, distinguishing minor penetrations from critical structural-MEP conflicts. Instead of thousands, focus on the top 100 critical clashes. This accelerates meetings, reduces rework, and slashes review time by up to 40%. Explore ML-powered clash prioritization in your coordination workflows today!",
+    "video_id": "Ks-xWfYQVRI",
+    "url": "https://youtu.be/Ks-xWfYQVRI",
+    "published_at": "2026-11-09T23:50:25.153043+00:00",
+    "duration_seconds": 55.78,
+    "perf": {}
   }
 ]
