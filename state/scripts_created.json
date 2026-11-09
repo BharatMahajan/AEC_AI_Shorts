@@ -3357,5 +3357,31 @@
     "published_at": "2026-11-08T19:51:52.464903+00:00",
     "duration_seconds": 68.33,
     "perf": {}
+  },
+  {
+    "date": "2026-11-09",
+    "bucket": "transport",
+    "feature_fingerprint": "transport:transit demand forecasting",
+    "title": "AI for Smart Transit Planning",
+    "title_variants": [
+      "Predicting Ridership with AI",
+      "Transforming Transit Demand Forecasting",
+      "AI in Transport Planning"
+    ],
+    "hook_style": "pain_point",
+    "script_lines": [
+      "Traditional methods often fall short, relying on static data and assumptions that miss the dynamic shifts in urban mobility. Imagine predicting future ridership with unprecedented accuracy.",
+      "That's where AI-powered transit demand forecasting comes in. Using tools like PTV Visum's AI/ML modules for trip generation and distribution, engineers can leverage vast datasets\u2014from demographic shifts and mobile data to land-use patterns and economic indicators.",
+      "This allows for probabilistic modeling that captures complex interactions, offering highly refined predictions of how many people will use transit, where, and when.",
+      "This predictive capability enables us to design truly optimized systems, whether it\u2019s planning new light rail corridors or recalibrating bus networks.",
+      "Improving forecast accuracy by 15-20% directly translates to smarter capital expenditure, potentially saving millions in infrastructure costs by avoiding over- or under-provisioning.",
+      "Ready to make your next transit project more robust and cost-effective? Explore AI-driven insights for superior urban planning."
+    ],
+    "narration": "Struggling with outdated transit demand forecasts that lead to costly infrastructure overruns or underutilized assets? Traditional methods often fall short, relying on static data and assumptions that miss the dynamic shifts in urban mobility. Imagine predicting future ridership with unprecedented accuracy. That's where AI-powered transit demand forecasting comes in. Using tools like PTV Visum's AI/ML modules for trip generation and distribution, engineers can leverage vast datasets\u2014from demographic shifts and mobile data to land-use patterns and economic indicators. This allows for probabilistic modeling that captures complex interactions, offering highly refined predictions of how many people will use transit, where, and when. This predictive capability enables us to design truly optimized systems, whether it\u2019s planning new light rail corridors or recalibrating bus networks. Improving forecast accuracy by 15-20% directly translates to smarter capital expenditure, potentially saving millions in infrastructure costs by avoiding over- or under-provisioning. Ready to make your next transit project more robust and cost-effective? Explore AI-driven insights for superior urban planning.",
+    "video_id": "pLQ7kWotB_A",
+    "url": "https://youtu.be/pLQ7kWotB_A",
+    "published_at": "2026-11-09T12:09:29.043382+00:00",
+    "duration_seconds": 65.06,
+    "perf": {}
   }
 ]
