@@ -3439,5 +3439,28 @@
     "published_at": "2026-11-10T11:31:26.457767+00:00",
     "duration_seconds": 66.14,
     "perf": {}
+  },
+  {
+    "date": "2026-11-10",
+    "bucket": "structural",
+    "feature_fingerprint": "structural:automated rebar detailing",
+    "title": "AI: Automated Rebar Detailing",
+    "title_variants": [
+      "Structural AI: Rebar Automation",
+      "Boost Projects with AI Rebar Detailing"
+    ],
+    "hook_style": "future_tease",
+    "script_lines": [
+      "Rebar detailing: often a meticulous, error-prone bottleneck. But AI is transforming this. Advanced features, integrated directly into your structural analysis platform, are revolutionizing this critical phase.",
+      "Imagine AI within tools like Robot Structural Analysis. It processes your design model, automatically generating precise rebar layouts, bending schedules, and material take-offs. It autonomously identifies optimal bar sizes, spacing, and anchorage, adhering to codes like ACI 318.",
+      "This automated detailing slashes rebar time by up to 70%, minimizing material waste and costly reworks. Engineers focus on higher-value design optimization. Ready to redefine efficiency?",
+      "Explore how AI can transform your structural detailing. Visit [Your Preferred Structural Software Vendor]'s website for integration details today."
+    ],
+    "narration": "What if rebar detailing could accelerate your structural projects? Rebar detailing: often a meticulous, error-prone bottleneck. But AI is transforming this. Advanced features, integrated directly into your structural analysis platform, are revolutionizing this critical phase. Imagine AI within tools like Robot Structural Analysis. It processes your design model, automatically generating precise rebar layouts, bending schedules, and material take-offs. It autonomously identifies optimal bar sizes, spacing, and anchorage, adhering to codes like ACI 318. This automated detailing slashes rebar time by up to 70%, minimizing material waste and costly reworks. Engineers focus on higher-value design optimization. Ready to redefine efficiency? Explore how AI can transform your structural detailing. Visit [Your Preferred Structural Software Vendor]'s website for integration details today.",
+    "video_id": "P328vepjC-w",
+    "url": "https://youtu.be/P328vepjC-w",
+    "published_at": "2026-11-10T21:22:59.111554+00:00",
+    "duration_seconds": 58.9,
+    "perf": {}
   }
 ]
