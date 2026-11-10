@@ -3409,5 +3409,35 @@
     "published_at": "2026-11-09T23:50:25.153043+00:00",
     "duration_seconds": 55.78,
     "perf": {}
+  },
+  {
+    "date": "2026-11-10",
+    "bucket": "mep",
+    "feature_fingerprint": "mep:automated duct/pipe routing",
+    "title": "AI Powers Automated MEP Routing",
+    "title_variants": [
+      "Slash MEP Routing Time with AI!",
+      "Automated Duct & Pipe Routing: The Future of MEP",
+      "AI-Driven MEP: Route Smarter, Not Harder"
+    ],
+    "hook_style": "bold_claim",
+    "script_lines": [
+      "MEP engineers, imagine slashing design time while boosting accuracy.",
+      "Tired of the tedious, iterative process of manually laying out complex ductwork and piping systems, constantly battling clashes and rework?",
+      "AI is transforming this challenge.",
+      "New AI-powered routing tools, integrated into platforms like Autodesk Revit, can automatically generate optimized duct and pipe layouts.",
+      "These systems leverage algorithms to consider all your constraints simultaneously: clearances, pressure drop, accessibility, structural elements, and even constructability.",
+      "You input your start and end points, define parameters like minimum bend radii or preferred routing zones, and the AI suggests or even executes the most efficient path.",
+      "This specific feature, automated pathfinding, drastically reduces human intervention.",
+      "It can cut your initial routing design time by up to 40-50% and significantly minimize coordination clashes later.",
+      "Spend less time on repetitive tasks and more on value-added engineering.",
+      "Ready to optimize your MEP workflows? Explore AI-driven routing in your current BIM software and experience the future of design efficiency."
+    ],
+    "narration": "Stop wasting hours on manual duct and pipe routing! MEP engineers, imagine slashing design time while boosting accuracy. Tired of the tedious, iterative process of manually laying out complex ductwork and piping systems, constantly battling clashes and rework? AI is transforming this challenge. New AI-powered routing tools, integrated into platforms like Autodesk Revit, can automatically generate optimized duct and pipe layouts. These systems leverage algorithms to consider all your constraints simultaneously: clearances, pressure drop, accessibility, structural elements, and even constructability. You input your start and end points, define parameters like minimum bend radii or preferred routing zones, and the AI suggests or even executes the most efficient path. This specific feature, automated pathfinding, drastically reduces human intervention. It can cut your initial routing design time by up to 40-50% and significantly minimize coordination clashes later. Spend less time on repetitive tasks and more on value-added engineering. Ready to optimize your MEP workflows? Explore AI-driven routing in your current BIM software and experience the future of design efficiency.",
+    "video_id": "BXBIwjEmPUU",
+    "url": "https://youtu.be/BXBIwjEmPUU",
+    "published_at": "2026-11-10T11:31:26.457767+00:00",
+    "duration_seconds": 66.14,
+    "perf": {}
   }
 ]
