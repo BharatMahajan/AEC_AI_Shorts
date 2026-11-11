@@ -3462,5 +3462,31 @@
     "published_at": "2026-11-10T21:22:59.111554+00:00",
     "duration_seconds": 58.9,
     "perf": {}
+  },
+  {
+    "date": "2026-11-11",
+    "bucket": "project_controls",
+    "feature_fingerprint": "project_controls:earned-value anomaly detection",
+    "title": "AI for Earned Value Anomaly Detection",
+    "title_variants": [
+      "Catching Project Anomalies with AI",
+      "Primavera P6 Gets AI Anomaly Detection",
+      "AI Elevates Earned Value Management"
+    ],
+    "hook_style": "future_tease",
+    "script_lines": [
+      "What if your project controls system could flag subtle deviations before they derail your budget or schedule?",
+      "Manually sifting through complex earned value data to spot anomalies is increasingly time-intensive and prone to human oversight.",
+      "Now, AI-powered earned-value anomaly detection brings sophisticated pattern recognition to your project data.",
+      "Imagine your Primavera P6 data continuously analyzed by AI. It learns 'normal' project performance from historical datasets and baselines, instantly flagging unusual CPI or SPI trends\u2014even if variances seem acceptable\u2014alerting your team to emerging issues.",
+      "This can pinpoint potential cost overruns or schedule slippages up to three weeks earlier, reducing reactive variance analysis time by over 20%.",
+      "Ready to enhance your earned value management? Share your project controls insights below!"
+    ],
+    "narration": "What if your project controls system could flag subtle deviations before they derail your budget or schedule? What if your project controls system could flag subtle deviations before they derail your budget or schedule? Manually sifting through complex earned value data to spot anomalies is increasingly time-intensive and prone to human oversight. Now, AI-powered earned-value anomaly detection brings sophisticated pattern recognition to your project data. Imagine your Primavera P6 data continuously analyzed by AI. It learns 'normal' project performance from historical datasets and baselines, instantly flagging unusual CPI or SPI trends\u2014even if variances seem acceptable\u2014alerting your team to emerging issues. This can pinpoint potential cost overruns or schedule slippages up to three weeks earlier, reducing reactive variance analysis time by over 20%. Ready to enhance your earned value management? Share your project controls insights below!",
+    "video_id": "aNW3Y0LGYzU",
+    "url": "https://youtu.be/aNW3Y0LGYzU",
+    "published_at": "2026-11-11T11:20:56.471263+00:00",
+    "duration_seconds": 56.35,
+    "perf": {}
   }
 ]
