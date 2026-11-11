@@ -3488,5 +3488,33 @@
     "published_at": "2026-11-11T11:20:56.471263+00:00",
     "duration_seconds": 56.35,
     "perf": {}
+  },
+  {
+    "date": "2026-11-11",
+    "bucket": "civil_infra",
+    "feature_fingerprint": "civil_infra:pressure-pipe network design",
+    "title": "AI for Pressure Pipe Network Optimization",
+    "title_variants": [
+      "Smarter Pipe Networks with AI",
+      "Civil 3D: AI-Optimized Pressure Pipes"
+    ],
+    "hook_style": "pain_point",
+    "script_lines": [
+      "Is manually optimizing pressure pipe networks\u2014balancing hydraulic performance, material costs, and constructability\u2014draining your project schedule?",
+      "Traditional iterative design is incredibly time-consuming, often forcing engineers into design compromises.",
+      "Imagine AI-driven optimization, analyzing thousands of design permutations to pinpoint the most efficient and cost-effective solutions in minutes.",
+      "Integrate this power directly into your Civil 3D workflow for pressure networks.",
+      "AI algorithms leverage hydraulic analysis and project constraints to automatically evaluate scenarios, optimizing pipe sizing, material selection, and pump station placement.",
+      "This ensures minimal lifecycle costs while rigorously maintaining required pressures and flows.",
+      "We're seeing up to a 30% reduction in design time and material cost savings exceeding 15%.",
+      "Focus your engineering talent on higher-level problem-solving. It's time to elevate your infrastructure designs.",
+      "Explore AI-driven pressure pipe optimization in Civil 3D and transform your project delivery!"
+    ],
+    "narration": "Is manual pressure pipe network optimization draining your project budget and schedule? Is manually optimizing pressure pipe networks\u2014balancing hydraulic performance, material costs, and constructability\u2014draining your project schedule? Traditional iterative design is incredibly time-consuming, often forcing engineers into design compromises. Imagine AI-driven optimization, analyzing thousands of design permutations to pinpoint the most efficient and cost-effective solutions in minutes. Integrate this power directly into your Civil 3D workflow for pressure networks. AI algorithms leverage hydraulic analysis and project constraints to automatically evaluate scenarios, optimizing pipe sizing, material selection, and pump station placement. This ensures minimal lifecycle costs while rigorously maintaining required pressures and flows. We're seeing up to a 30% reduction in design time and material cost savings exceeding 15%. Focus your engineering talent on higher-level problem-solving. It's time to elevate your infrastructure designs. Explore AI-driven pressure pipe optimization in Civil 3D and transform your project delivery!",
+    "video_id": "8tEIrWupyJ8",
+    "url": "https://youtu.be/8tEIrWupyJ8",
+    "published_at": "2026-11-11T22:06:48.514623+00:00",
+    "duration_seconds": 69.84,
+    "perf": {}
   }
 ]
