@@ -3544,5 +3544,32 @@
     "published_at": "2026-11-12T11:40:35.659111+00:00",
     "duration_seconds": 60.82,
     "perf": {}
+  },
+  {
+    "date": "2026-11-12",
+    "bucket": "site_ops",
+    "feature_fingerprint": "site_ops:cv-based ppe/safety monitoring",
+    "title": "AI: Computer Vision for Site Safety",
+    "title_variants": [
+      "Boosting Site Safety with AI Vision",
+      "Computer Vision: Your 24/7 Safety Officer",
+      "Real-time PPE Monitoring with AI"
+    ],
+    "hook_style": "shocking_stat",
+    "script_lines": [
+      "Over 1 in 5 worker fatalities annually occur in construction! Traditional safety inspections are crucial but often reactive and limited in scope across vast job sites.",
+      "What if you could proactively monitor safety 24/7 without additional personnel?",
+      "Enter computer vision for real-time PPE and safety compliance monitoring. This AI feature analyzes live video feeds from existing job site cameras, automatically detecting if construction workers are wearing required personal protective equipment like hard hats, safety vests, or even proper fall protection.",
+      "It identifies workers entering exclusion zones or engaging in unsafe behaviors, sending instant alerts to site superintendents or safety officers.",
+      "This isn't just about spotting issues; it's about preventative action. Imagine reducing your project's recordable incident rate by 20% through consistent, objective safety enforcement and real-time hazard identification.",
+      "This translates directly to lower worker's compensation premiums and improved project efficiency by minimizing disruptions.",
+      "Curious how computer vision can transform safety culture on your next project? Visit [Your Company Name/website] to explore integration options and enhance your EHS program today."
+    ],
+    "narration": "Over 1 in 5 worker fatalities annually occur in construction! Over 1 in 5 worker fatalities annually occur in construction! Traditional safety inspections are crucial but often reactive and limited in scope across vast job sites. What if you could proactively monitor safety 24/7 without additional personnel? Enter computer vision for real-time PPE and safety compliance monitoring. This AI feature analyzes live video feeds from existing job site cameras, automatically detecting if construction workers are wearing required personal protective equipment like hard hats, safety vests, or even proper fall protection. It identifies workers entering exclusion zones or engaging in unsafe behaviors, sending instant alerts to site superintendents or safety officers. This isn't just about spotting issues; it's about preventative action. Imagine reducing your project's recordable incident rate by 20% through consistent, objective safety enforcement and real-time hazard identification. This translates directly to lower worker's compensation premiums and improved project efficiency by minimizing disruptions. Curious how computer vision can transform safety culture on your next project? Visit [Your Company Name/website] to explore integration options and enhance your EHS program today.",
+    "video_id": "cV1f48B5De0",
+    "url": "https://youtu.be/cV1f48B5De0",
+    "published_at": "2026-11-12T21:54:04.579361+00:00",
+    "duration_seconds": 70.2,
+    "perf": {}
   }
 ]
