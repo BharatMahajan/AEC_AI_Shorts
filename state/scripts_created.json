@@ -3516,5 +3516,33 @@
     "published_at": "2026-11-11T22:06:48.514623+00:00",
     "duration_seconds": 69.84,
     "perf": {}
+  },
+  {
+    "date": "2026-11-12",
+    "bucket": "civil_infra",
+    "feature_fingerprint": "civil_infra:earthwork volume optimization",
+    "title": "AI Supercharges Earthwork Optimization in Civil 3D",
+    "title_variants": [
+      "Civil 3D + AI: Next-Gen Earthwork Optimization",
+      "Maximi\ufeffze Earthwork Efficiency with AI in AEC",
+      "AI for Civil Engineers: Earthwork Volume Optimization"
+    ],
+    "hook_style": "future_tease",
+    "script_lines": [
+      "Tired of earthwork overspending? Imagine AI-driven optimal cut-fill balance. That future is here.",
+      "Traditional earthwork on complex civil sites is iterative, leading to suboptimal ratios and escalating costs.",
+      "But what if AI could analyze thousands of design permutations in real-time, considering site constraints, material, and logistics?",
+      "To pinpoint the *most* cost-effective and sustainable earthwork solution, instantly?",
+      "This capability is integrating into tools like Autodesk Civil 3D. AI-driven features analyze your grading and existing surfaces.",
+      "They intelligently identify optimal cut and fill placements, reducing material movement and costs by up to 15% on complex projects.",
+      "This means minimized environmental impact, accelerated timelines, and boosted profitability.",
+      "Ready to optimize your next infrastructure project? Explore AI earthwork optimization in Civil 3D."
+    ],
+    "narration": "What if AI could save your next project 15% on earthwork costs?! Tired of earthwork overspending? Imagine AI-driven optimal cut-fill balance. That future is here. Traditional earthwork on complex civil sites is iterative, leading to suboptimal ratios and escalating costs. But what if AI could analyze thousands of design permutations in real-time, considering site constraints, material, and logistics? To pinpoint the *most* cost-effective and sustainable earthwork solution, instantly? This capability is integrating into tools like Autodesk Civil 3D. AI-driven features analyze your grading and existing surfaces. They intelligently identify optimal cut and fill placements, reducing material movement and costs by up to 15% on complex projects. This means minimized environmental impact, accelerated timelines, and boosted profitability. Ready to optimize your next infrastructure project? Explore AI earthwork optimization in Civil 3D.",
+    "video_id": "bSqW7qhSANM",
+    "url": "https://youtu.be/bSqW7qhSANM",
+    "published_at": "2026-11-12T11:40:35.659111+00:00",
+    "duration_seconds": 60.82,
+    "perf": {}
   }
 ]
