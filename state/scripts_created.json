@@ -3596,5 +3596,31 @@
     "published_at": "2026-11-13T11:24:27.915382+00:00",
     "duration_seconds": 67.25,
     "perf": {}
+  },
+  {
+    "date": "2026-11-13",
+    "bucket": "reality_capture",
+    "feature_fingerprint": "reality_capture:digital twin sync from iot sensors",
+    "title": "AI-Powered Live Digital Twins",
+    "title_variants": [
+      "Digital Twins: Always Live with AI",
+      "Real-time Digital Twins via AI & IoT",
+      "AI Sync: Your Digital Twin Never Sleeps"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "Manually updating a digital twin for complex assets is slow, costly, and can't match real-time operational changes.",
+      "Imagine AI continuously updating your twin with live data. Platforms like Autodesk Tandem, integrated with IoT sensors, deliver this.",
+      "AI algorithms intelligently process sensor streams\u2014temperature, vibration, occupancy. They semantically understand inputs, filter noise, infer states, and detect anomalies.",
+      "This ensures your foundational point cloud-derived model and BIM attributes are automatically synchronized with live conditions, updating parameters instantly.",
+      "This AI-driven synchronization reduces operational downtimes by over 15% and extends asset lifespans through predictive maintenance.",
+      "Ready to move beyond static models? Explore how AI-powered IoT integration can redefine your asset management."
+    ],
+    "narration": "Is your digital twin truly reflecting reality, moment by moment? Manually updating a digital twin for complex assets is slow, costly, and can't match real-time operational changes. Imagine AI continuously updating your twin with live data. Platforms like Autodesk Tandem, integrated with IoT sensors, deliver this. AI algorithms intelligently process sensor streams\u2014temperature, vibration, occupancy. They semantically understand inputs, filter noise, infer states, and detect anomalies. This ensures your foundational point cloud-derived model and BIM attributes are automatically synchronized with live conditions, updating parameters instantly. This AI-driven synchronization reduces operational downtimes by over 15% and extends asset lifespans through predictive maintenance. Ready to move beyond static models? Explore how AI-powered IoT integration can redefine your asset management.",
+    "video_id": "dhvRKzA8xfo",
+    "url": "https://youtu.be/dhvRKzA8xfo",
+    "published_at": "2026-11-13T21:30:07.680428+00:00",
+    "duration_seconds": 57.22,
+    "perf": {}
   }
 ]
