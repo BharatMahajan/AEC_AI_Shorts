@@ -3571,5 +3571,30 @@
     "published_at": "2026-11-12T21:54:04.579361+00:00",
     "duration_seconds": 70.2,
     "perf": {}
+  },
+  {
+    "date": "2026-11-13",
+    "bucket": "structural",
+    "feature_fingerprint": "structural:ml-based load prediction",
+    "title": "ML Load Prediction for Structural Optimization",
+    "title_variants": [
+      "AI for Structural Load Analysis",
+      "Optimize Structural Design with ML",
+      "Beyond Code: AI Load Prediction"
+    ],
+    "hook_style": "shocking_stat",
+    "script_lines": [
+      "Did you know up to 20% of structural material in some projects could be attributed to overly conservative, code-mandated load assumptions, costing millions? Traditional prescriptive load calculations, while safe, often lack the nuance for complex site-specific environmental dynamics.",
+      "Now, machine learning revolutionizes structural design. Advanced ML-based load prediction, integrated into platforms like ETABS, changes the game.",
+      "These systems analyze vast datasets \u2013 historical weather, seismic data, real-time sensors \u2013 predicting dynamic and extreme loads with unprecedented accuracy, beyond static code provisions.",
+      "This enables optimal designs, achieving up to a 10-15% material reduction without compromising safety. Expect more efficient material use, reduced construction costs, and faster, reliable analysis.",
+      "Ready to build safer, more sustainable structures? Explore ML-based load prediction in your next project."
+    ],
+    "narration": "Did you know up to 20% of structural material in some projects could be attributed to overly conservative, code-mandated load assumptions, costing millions? Did you know up to 20% of structural material in some projects could be attributed to overly conservative, code-mandated load assumptions, costing millions? Traditional prescriptive load calculations, while safe, often lack the nuance for complex site-specific environmental dynamics. Now, machine learning revolutionizes structural design. Advanced ML-based load prediction, integrated into platforms like ETABS, changes the game. These systems analyze vast datasets \u2013 historical weather, seismic data, real-time sensors \u2013 predicting dynamic and extreme loads with unprecedented accuracy, beyond static code provisions. This enables optimal designs, achieving up to a 10-15% material reduction without compromising safety. Expect more efficient material use, reduced construction costs, and faster, reliable analysis. Ready to build safer, more sustainable structures? Explore ML-based load prediction in your next project.",
+    "video_id": "d5nDeQGIFUs",
+    "url": "https://youtu.be/d5nDeQGIFUs",
+    "published_at": "2026-11-13T11:24:27.915382+00:00",
+    "duration_seconds": 67.25,
+    "perf": {}
   }
 ]
