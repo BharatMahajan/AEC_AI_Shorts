@@ -3622,5 +3622,36 @@
     "published_at": "2026-11-13T21:30:07.680428+00:00",
     "duration_seconds": 57.22,
     "perf": {}
+  },
+  {
+    "date": "2026-11-14",
+    "bucket": "gis_planning",
+    "feature_fingerprint": "gis_planning:ml land-use classification",
+    "title": "AI in GIS: ML Land-Use Classification",
+    "title_variants": [
+      "GIS Just Got Smarter: AI Land-Use Mapping",
+      "Accelerate Planning with AI Land-Use Classification",
+      "Transform Site Analysis with GIS AI"
+    ],
+    "hook_style": "shocking_stat",
+    "script_lines": [
+      "This critical first step often consumes hundreds of person-hours, draining project budgets.",
+      "AI offers a precise solution: Machine Learning land-use classification in GIS.",
+      "Leverage tools like ArcGIS Pro's Deep Learning feature.",
+      "It uses trained models to automatically interpret satellite and aerial imagery.",
+      "Quickly delineating urban, residential, agricultural, and water body types across vast areas.",
+      "For a highway realignment or new development, this saves weeks of manual digitization.",
+      "Engineers gain accurate, granular land-use maps in hours, not weeks.",
+      "Essential for environmental impact assessments and optimizing civil design.",
+      "This accelerates project timelines by over 30%, cutting significant labor costs.",
+      "Get data-driven decisions faster, from concept through detailed planning.",
+      "Explore deep learning in your GIS platform to transform land-use intelligence today!"
+    ],
+    "narration": "Did you know manually classifying land use for a major infrastructure project can delay initial planning by weeks? This critical first step often consumes hundreds of person-hours, draining project budgets. AI offers a precise solution: Machine Learning land-use classification in GIS. Leverage tools like ArcGIS Pro's Deep Learning feature. It uses trained models to automatically interpret satellite and aerial imagery. Quickly delineating urban, residential, agricultural, and water body types across vast areas. For a highway realignment or new development, this saves weeks of manual digitization. Engineers gain accurate, granular land-use maps in hours, not weeks. Essential for environmental impact assessments and optimizing civil design. This accelerates project timelines by over 30%, cutting significant labor costs. Get data-driven decisions faster, from concept through detailed planning. Explore deep learning in your GIS platform to transform land-use intelligence today!",
+    "video_id": "E9clCXS_TLM",
+    "url": "https://youtu.be/E9clCXS_TLM",
+    "published_at": "2026-11-14T10:47:22.656336+00:00",
+    "duration_seconds": 61.99,
+    "perf": {}
   }
 ]
