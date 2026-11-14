@@ -3653,5 +3653,33 @@
     "published_at": "2026-11-14T10:47:22.656336+00:00",
     "duration_seconds": 61.99,
     "perf": {}
+  },
+  {
+    "date": "2026-11-14",
+    "bucket": "reality_capture",
+    "feature_fingerprint": "reality_capture:progress tracking from site scans",
+    "title": "AI for Automated Progress Tracking in AEC",
+    "title_variants": [
+      "Quantify Progress with AI & Point Clouds",
+      "Stop Delays: AI Site Scan Analysis"
+    ],
+    "hook_style": "shocking_stat",
+    "script_lines": [
+      "Did you know manual progress tracking contributes to up to 80% of construction project schedule overruns?",
+      "Traditional methods are slow and often inaccurate. But AI is revolutionizing this.",
+      "By analyzing regularly captured point clouds from laser scanners, AI algorithms precisely track construction progress.",
+      "These intelligent systems compare as-built scan data against your BIM model.",
+      "They quantify installed elements like rebar, concrete, or MEP components, identifying deviations from your 4D plan in near real-time.",
+      "This isn't just object classification; it's automated progress measurement and deviation detection.",
+      "This concrete benefit provides engineers with objective, actionable insights, reducing rework and improving project predictability by 15-20%.",
+      "Identify critical path issues or misalignments hours, not weeks, after they occur.",
+      "Want to gain this predictive edge? Explore AI-powered reality capture solutions now."
+    ],
+    "narration": "Did you know manual progress tracking contributes to up to 80% of construction project schedule overruns? Did you know manual progress tracking contributes to up to 80% of construction project schedule overruns? Traditional methods are slow and often inaccurate. But AI is revolutionizing this. By analyzing regularly captured point clouds from laser scanners, AI algorithms precisely track construction progress. These intelligent systems compare as-built scan data against your BIM model. They quantify installed elements like rebar, concrete, or MEP components, identifying deviations from your 4D plan in near real-time. This isn't just object classification; it's automated progress measurement and deviation detection. This concrete benefit provides engineers with objective, actionable insights, reducing rework and improving project predictability by 15-20%. Identify critical path issues or misalignments hours, not weeks, after they occur. Want to gain this predictive edge? Explore AI-powered reality capture solutions now.",
+    "video_id": "AzsahqrKl7g",
+    "url": "https://youtu.be/AzsahqrKl7g",
+    "published_at": "2026-11-14T20:00:48.622951+00:00",
+    "duration_seconds": 66.1,
+    "perf": {}
   }
 ]
