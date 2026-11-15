@@ -3681,5 +3681,29 @@
     "published_at": "2026-11-14T20:00:48.622951+00:00",
     "duration_seconds": 66.1,
     "perf": {}
+  },
+  {
+    "date": "2026-11-15",
+    "bucket": "site_ops",
+    "feature_fingerprint": "site_ops:autonomous layout robots",
+    "title": "Robots on Site: Autonomous Layout",
+    "title_variants": [
+      "Precision Layout with AI Robots",
+      "Site Operations Revolution: Autonomous Layout",
+      "AI for Pinpoint Layout Accuracy"
+    ],
+    "hook_style": "pain_point",
+    "script_lines": [
+      "Costly layout errors and slow manual processes hurting your projects? Traditional layout bottlenecks, prone to human error, cause expensive rework and delays. Imagine pinpoint accuracy, autonomously.",
+      "Meet autonomous layout robots. The Dusty Robotics FieldPrinter uses computer vision to navigate your site. It precisely transfers BIM models to the slab, projecting exact points and lines for walls and utilities. Delivering sub-millimeter accuracy, typically +/- 1.5mm.",
+      "This cuts layout time up to 80%, virtually eliminating costly rework. Your teams focus on construction, not error-prone marking. Enjoy predictable timelines and controlled budgets.",
+      "Ready to revolutionize site operations? Explore autonomous layout for unparalleled precision today."
+    ],
+    "narration": "Costly layout errors and slow manual processes hurting your projects? Costly layout errors and slow manual processes hurting your projects? Traditional layout bottlenecks, prone to human error, cause expensive rework and delays. Imagine pinpoint accuracy, autonomously. Meet autonomous layout robots. The Dusty Robotics FieldPrinter uses computer vision to navigate your site. It precisely transfers BIM models to the slab, projecting exact points and lines for walls and utilities. Delivering sub-millimeter accuracy, typically +/- 1.5mm. This cuts layout time up to 80%, virtually eliminating costly rework. Your teams focus on construction, not error-prone marking. Enjoy predictable timelines and controlled budgets. Ready to revolutionize site operations? Explore autonomous layout for unparalleled precision today.",
+    "video_id": "8eVXa_t9Ow8",
+    "url": "https://youtu.be/8eVXa_t9Ow8",
+    "published_at": "2026-11-15T11:22:48.566174+00:00",
+    "duration_seconds": 56.09,
+    "perf": {}
   }
 ]
