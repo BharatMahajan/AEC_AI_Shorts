@@ -3705,5 +3705,31 @@
     "published_at": "2026-11-15T11:22:48.566174+00:00",
     "duration_seconds": 56.09,
     "perf": {}
+  },
+  {
+    "date": "2026-11-15",
+    "bucket": "docs_specs",
+    "feature_fingerprint": "docs_specs:spec compliance checking",
+    "title": "AI for Spec Compliance in AEC",
+    "title_variants": [
+      "Automated Spec Review with AI",
+      "Streamline Specs: AI-Powered Compliance",
+      "Never Miss a Spec: AI Compliance Checks"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "Tired of manually cross-referencing thousands of pages for spec compliance? This painstaking process is a major bottleneck and prone to costly errors. What if AI could handle that grunt work for you?",
+      "AI-driven spec compliance checking is revolutionizing document review. Integrated into platforms like Autodesk Construction Cloud, this feature ingests all project documents \u2013 from detailed specs to submittals and shop drawings.",
+      "The AI autonomously analyzes these, identifying specific requirements, dimensions, and material properties. It instantly flags deviations.",
+      "For example, it detects if a submitted HVAC unit's CFM rating is below the specified minimum, or if a structural steel member\u2019s yield strength doesn't meet Section 05.",
+      "This proactive identification slashes review times by over 50%, reducing costly rework and preventing non-compliant installations. It can even draft preliminary RFIs for your team, pinpointing the exact discrepancy.",
+      "Focus on engineering, not document parsing. Ready to optimize your compliance workflow? Explore AI spec compliance features in your project software today!"
+    ],
+    "narration": "Tired of manually cross-referencing thousands of pages for spec compliance? Tired of manually cross-referencing thousands of pages for spec compliance? This painstaking process is a major bottleneck and prone to costly errors. What if AI could handle that grunt work for you? AI-driven spec compliance checking is revolutionizing document review. Integrated into platforms like Autodesk Construction Cloud, this feature ingests all project documents \u2013 from detailed specs to submittals and shop drawings. The AI autonomously analyzes these, identifying specific requirements, dimensions, and material properties. It instantly flags deviations. For example, it detects if a submitted HVAC unit's CFM rating is below the specified minimum, or if a structural steel member\u2019s yield strength doesn't meet Section 05. This proactive identification slashes review times by over 50%, reducing costly rework and preventing non-compliant installations. It can even draft preliminary RFIs for your team, pinpointing the exact discrepancy. Focus on engineering, not document parsing. Ready to optimize your compliance workflow? Explore AI spec compliance features in your project software today!",
+    "video_id": "GarL1AAhQ8M",
+    "url": "https://youtu.be/GarL1AAhQ8M",
+    "published_at": "2026-11-15T20:28:43.704797+00:00",
+    "duration_seconds": 67.49,
+    "perf": {}
   }
 ]
