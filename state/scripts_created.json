@@ -3731,5 +3731,30 @@
     "published_at": "2026-11-15T20:28:43.704797+00:00",
     "duration_seconds": 67.49,
     "perf": {}
+  },
+  {
+    "date": "2026-11-16",
+    "bucket": "gis_planning",
+    "feature_fingerprint": "gis_planning:flood-risk modeling",
+    "title": "AI for Dynamic Flood Risk in GIS",
+    "title_variants": [
+      "Predict Floods Smarter with AI GIS",
+      "AI-Powered Flood Modeling: A GIS Revolution",
+      "Next-Gen Flood Risk: AI in ArcGIS Pro"
+    ],
+    "hook_style": "bold_claim",
+    "script_lines": [
+      "Traditional flood risk assessments are slow, resource-intensive, and rely on static historical data. This delays critical infrastructure planning.",
+      "Now, AI-powered GIS platforms are transforming this for AEC professionals! Using advanced machine learning in tools like ArcGIS Pro or QGIS, we perform dynamic, predictive flood simulations.",
+      "These AI models integrate real-time sensor data, high-resolution LiDAR, satellite imagery, and precipitation forecasts. They accurately model complex hydrological interactions.",
+      "Imagine reducing multi-scenario flood simulation time by 70%, rapidly identifying critical vulnerabilities and optimizing design responses.",
+      "This means significant project cost savings and enhanced community safety. Elevate your planning. Integrate AI-driven flood modeling into your GIS workflows today!"
+    ],
+    "narration": "Your flood risk models are obsolete; AI offers dynamic, predictive power! Traditional flood risk assessments are slow, resource-intensive, and rely on static historical data. This delays critical infrastructure planning. Now, AI-powered GIS platforms are transforming this for AEC professionals! Using advanced machine learning in tools like ArcGIS Pro or QGIS, we perform dynamic, predictive flood simulations. These AI models integrate real-time sensor data, high-resolution LiDAR, satellite imagery, and precipitation forecasts. They accurately model complex hydrological interactions. Imagine reducing multi-scenario flood simulation time by 70%, rapidly identifying critical vulnerabilities and optimizing design responses. This means significant project cost savings and enhanced community safety. Elevate your planning. Integrate AI-driven flood modeling into your GIS workflows today!",
+    "video_id": "Y-7ypv2PekQ",
+    "url": "https://youtu.be/Y-7ypv2PekQ",
+    "published_at": "2026-11-16T11:55:01.119629+00:00",
+    "duration_seconds": 59.59,
+    "perf": {}
   }
 ]
