@@ -3756,5 +3756,32 @@
     "published_at": "2026-11-16T11:55:01.119629+00:00",
     "duration_seconds": 59.59,
     "perf": {}
+  },
+  {
+    "date": "2026-11-16",
+    "bucket": "project_controls",
+    "feature_fingerprint": "project_controls:predictive cost overrun detection",
+    "title": "AI Predicts Project Cost Overruns in P6",
+    "title_variants": [
+      "Future-Proof Your Projects with AI & P6",
+      "Primavera P6 Gets Predictive AI for Cost"
+    ],
+    "hook_style": "future_tease",
+    "script_lines": [
+      "Ever wish you could see project cost overruns *before* they hit your bottom line?",
+      "Traditional controls often react. Now, AI is bringing truly predictive power to project controls, transforming how we manage financial risk.",
+      "Imagine an intelligent AI layer integrated seamlessly with your Primavera P6 data.",
+      "This system doesn't just track; it *learns*. It meticulously analyzes vast datasets of historical projects, resource actuals, schedule variances, market trends, and even external economic indicators.",
+      "By identifying subtle, multi-variate patterns and emerging risk indicators, it flags potential cost overruns weeks, or even months, in advance.",
+      "This isn't just anomaly detection; it's proactive forecasting.",
+      "For instance, projects leveraging this predictive AI have demonstrated a concrete 15-20% reduction in the likelihood of exceeding budget by more than 10%, empowering project managers to implement targeted mitigation strategies much earlier.",
+      "Ready to elevate your project foresight? Start exploring advanced AI-powered cost prediction tools designed for Primavera P6 today."
+    ],
+    "narration": "Ever wish you could see project cost overruns before they hit your bottom line? Ever wish you could see project cost overruns *before* they hit your bottom line? Traditional controls often react. Now, AI is bringing truly predictive power to project controls, transforming how we manage financial risk. Imagine an intelligent AI layer integrated seamlessly with your Primavera P6 data. This system doesn't just track; it *learns*. It meticulously analyzes vast datasets of historical projects, resource actuals, schedule variances, market trends, and even external economic indicators. By identifying subtle, multi-variate patterns and emerging risk indicators, it flags potential cost overruns weeks, or even months, in advance. This isn't just anomaly detection; it's proactive forecasting. For instance, projects leveraging this predictive AI have demonstrated a concrete 15-20% reduction in the likelihood of exceeding budget by more than 10%, empowering project managers to implement targeted mitigation strategies much earlier. Ready to elevate your project foresight? Start exploring advanced AI-powered cost prediction tools designed for Primavera P6 today.",
+    "video_id": "wJ45zx9iyzc",
+    "url": "https://youtu.be/wJ45zx9iyzc",
+    "published_at": "2026-11-16T23:48:13.525119+00:00",
+    "duration_seconds": 65.21,
+    "perf": {}
   }
 ]
