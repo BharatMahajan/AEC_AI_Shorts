@@ -3783,5 +3783,31 @@
     "published_at": "2026-11-16T23:48:13.525119+00:00",
     "duration_seconds": 65.21,
     "perf": {}
+  },
+  {
+    "date": "2026-11-17",
+    "bucket": "cad",
+    "feature_fingerprint": "cad:ai command suggestions",
+    "title": "AutoCAD AI: Your Next Command, Predicted",
+    "title_variants": [
+      "CAD Speedup: AI Command Suggestions",
+      "Boost CAD Efficiency with AI Predictions"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "Ever wish your CAD software could read your mind, predicting the next command you need?",
+      "AutoCAD's AI-powered command suggestions are making that a reality. This feature analyzes your drawing behavior and context in real-time.",
+      "Based on your recent actions, object selections, and even the geometry you're working with, it intelligently suggests relevant commands right where you need them.",
+      "Think about repetitive tasks. Instead of navigating menus or remembering obscure shortcuts, the AI surfaces 'COPY', 'TRIM', or 'EXTEND' exactly when predictive modeling indicates you're likely to use them next.",
+      "For a typical engineer, this can translate to a 15-20% reduction in time spent searching for and executing commands daily, freeing up valuable design time.",
+      "It's about streamlining muscle memory into intelligent assistance, minimizing interruption and keeping you focused on complex design challenges.",
+      "Curious how AutoCAD's AI can boost your team's productivity? Share your thoughts below, and let's discuss which AI features you're exploring!"
+    ],
+    "narration": "Ever wish your CAD software could read your mind, predicting the next command you need? Ever wish your CAD software could read your mind, predicting the next command you need? AutoCAD's AI-powered command suggestions are making that a reality. This feature analyzes your drawing behavior and context in real-time. Based on your recent actions, object selections, and even the geometry you're working with, it intelligently suggests relevant commands right where you need them. Think about repetitive tasks. Instead of navigating menus or remembering obscure shortcuts, the AI surfaces 'COPY', 'TRIM', or 'EXTEND' exactly when predictive modeling indicates you're likely to use them next. For a typical engineer, this can translate to a 15-20% reduction in time spent searching for and executing commands daily, freeing up valuable design time. It's about streamlining muscle memory into intelligent assistance, minimizing interruption and keeping you focused on complex design challenges. Curious how AutoCAD's AI can boost your team's productivity? Share your thoughts below, and let's discuss which AI features you're exploring!",
+    "video_id": "sqzboQwrmRM",
+    "url": "https://youtu.be/sqzboQwrmRM",
+    "published_at": "2026-11-17T12:17:31.882292+00:00",
+    "duration_seconds": 66.34,
+    "perf": {}
   }
 ]
