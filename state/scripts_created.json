@@ -3809,5 +3809,35 @@
     "published_at": "2026-11-17T12:17:31.882292+00:00",
     "duration_seconds": 66.34,
     "perf": {}
+  },
+  {
+    "date": "2026-11-17",
+    "bucket": "project_controls",
+    "feature_fingerprint": "project_controls:ai-driven resource leveling",
+    "title": "AI Elevates Primavera P6 Resource Leveling",
+    "title_variants": [
+      "Next-Gen Resource Leveling with AI in Primavera P6",
+      "Unlock Efficiency: AI for Primavera P6 Schedules",
+      "Primavera P6 AI: The Future of Resource Leveling"
+    ],
+    "hook_style": "future_tease",
+    "script_lines": [
+      "Today's project controls engineers face immense pressure optimizing complex resource allocation.",
+      "Traditional resource leveling in Primavera P6 is often a manual, iterative process, prone to human error and suboptimal outcomes.",
+      "But imagine AI dynamically analyzing your project schedule, identifying potential bottlenecks, and suggesting optimal reallocations of equipment, labor, and materials.",
+      "This isn't theory; AI-driven resource leveling is integrating directly with tools like Primavera P6.",
+      "It uses machine learning to predict resource availability and demand, considering constraints like skill sets, material delivery, and equipment downtime.",
+      "The system then proposes intelligent adjustments, minimizing overallocations and underutilizations across work packages.",
+      "This drastically streamlines the process for project managers, allowing for proactive adjustments.",
+      "The quantified benefit? AEC firms are seeing up to a 15% reduction in project delays, improving project predictability and profitability.",
+      "Ready to revolutionize your construction workflows and critical path management?",
+      "Explore how AI can transform your Primavera P6 schedules. Follow us for more innovations in AEC technology!"
+    ],
+    "narration": "What if your project controls could proactively optimize resource allocation across your entire portfolio, saving weeks on critical path activities?! Today's project controls engineers face immense pressure optimizing complex resource allocation. Traditional resource leveling in Primavera P6 is often a manual, iterative process, prone to human error and suboptimal outcomes. But imagine AI dynamically analyzing your project schedule, identifying potential bottlenecks, and suggesting optimal reallocations of equipment, labor, and materials. This isn't theory; AI-driven resource leveling is integrating directly with tools like Primavera P6. It uses machine learning to predict resource availability and demand, considering constraints like skill sets, material delivery, and equipment downtime. The system then proposes intelligent adjustments, minimizing overallocations and underutilizations across work packages. This drastically streamlines the process for project managers, allowing for proactive adjustments. The quantified benefit? AEC firms are seeing up to a 15% reduction in project delays, improving project predictability and profitability. Ready to revolutionize your construction workflows and critical path management? Explore how AI can transform your Primavera P6 schedules. Follow us for more innovations in AEC technology!",
+    "video_id": "4dNWIecMc0Y",
+    "url": "https://youtu.be/4dNWIecMc0Y",
+    "published_at": "2026-11-17T23:03:24.218007+00:00",
+    "duration_seconds": 74.54,
+    "perf": {}
   }
 ]
