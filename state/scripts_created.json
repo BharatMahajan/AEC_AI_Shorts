@@ -3867,5 +3867,33 @@
     "published_at": "2026-11-18T12:04:25.194073+00:00",
     "duration_seconds": 70.97,
     "perf": {}
+  },
+  {
+    "date": "2026-11-18",
+    "bucket": "civil_infra",
+    "feature_fingerprint": "civil_infra:automated corridor modeling",
+    "title": "AI-Powered Corridor Modeling in Civil 3D",
+    "title_variants": [
+      "Civil 3D AI Corridor Design",
+      "Automated Infrastructure Corridors",
+      "Revolutionize Civil Design with AI"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "Ever wished civil infrastructure corridors could design themselves, dynamically adapting to every change?",
+      "Manual corridor modeling for highways or drainage is often repetitive, painstaking, and error-prone with design shifts.",
+      "Imagine AI automating this, freeing you for optimization and strategic decisions.",
+      "That's automated corridor modeling, AI-powered in tools like Civil 3D.",
+      "It uses intelligent algorithms to interpret your design intent, assemblies, and engineering standards.",
+      "It dynamically generates the 3D model of your linear infrastructure, optimizing subgrades, curbs, and ditches based on real-time surface and alignment data.",
+      "The benefit? Reduce design iteration cycles by up to 40%, minimizing errors and ensuring consistent standards.",
+      "Spend less time on manual edits, more on innovation. Transform your civil design workflow. Explore Civil 3D today."
+    ],
+    "narration": "Ever wished civil infrastructure corridors could design themselves, dynamically adapting to every change? Ever wished civil infrastructure corridors could design themselves, dynamically adapting to every change? Manual corridor modeling for highways or drainage is often repetitive, painstaking, and error-prone with design shifts. Imagine AI automating this, freeing you for optimization and strategic decisions. That's automated corridor modeling, AI-powered in tools like Civil 3D. It uses intelligent algorithms to interpret your design intent, assemblies, and engineering standards. It dynamically generates the 3D model of your linear infrastructure, optimizing subgrades, curbs, and ditches based on real-time surface and alignment data. The benefit? Reduce design iteration cycles by up to 40%, minimizing errors and ensuring consistent standards. Spend less time on manual edits, more on innovation. Transform your civil design workflow. Explore Civil 3D today.",
+    "video_id": "yw77rXADcV8",
+    "url": "https://youtu.be/yw77rXADcV8",
+    "published_at": "2026-11-18T22:40:31.081686+00:00",
+    "duration_seconds": 61.51,
+    "perf": {}
   }
 ]
