@@ -3895,5 +3895,33 @@
     "published_at": "2026-11-18T22:40:31.081686+00:00",
     "duration_seconds": 61.51,
     "perf": {}
+  },
+  {
+    "date": "2026-11-19",
+    "bucket": "structural",
+    "feature_fingerprint": "structural:generative steel framing",
+    "title": "AI Generative Steel Framing: Cut Costs & Carbon",
+    "title_variants": [
+      "Structural AI: Generative Steel Framing Explained",
+      "Generative AI for Steel: The Future of Structural Design",
+      "Shrink Steel, Boost Profits: AI Framing Design"
+    ],
+    "hook_style": "shocking_stat",
+    "script_lines": [
+      "AI is revolutionizing structural design, particularly with generative steel framing.",
+      "Instead of iterative manual design, AI-powered tools, like those emerging in Tekla Structures' design ecosystem, can autonomously explore thousands of structural topologies.",
+      "You feed it performance criteria: load cases, deflection limits, material costs, and manufacturing constraints.",
+      "The AI then generates optimal steel layouts, not just refining existing ones, but creating entirely novel, more efficient configurations.",
+      "This isn't just theory; we're seeing projects achieve 15-20% material reduction, significantly cutting costs and embodied carbon.",
+      "It means faster project turnaround times, with initial framing options generated in minutes instead of days.",
+      "Stop leaving material and time on the table.",
+      "Explore how generative AI in structural analysis can transform your next steel project."
+    ],
+    "narration": "Did you know up to 30% of structural steel in a typical project could be optimized away? AI is revolutionizing structural design, particularly with generative steel framing. Instead of iterative manual design, AI-powered tools, like those emerging in Tekla Structures' design ecosystem, can autonomously explore thousands of structural topologies. You feed it performance criteria: load cases, deflection limits, material costs, and manufacturing constraints. The AI then generates optimal steel layouts, not just refining existing ones, but creating entirely novel, more efficient configurations. This isn't just theory; we're seeing projects achieve 15-20% material reduction, significantly cutting costs and embodied carbon. It means faster project turnaround times, with initial framing options generated in minutes instead of days. Stop leaving material and time on the table. Explore how generative AI in structural analysis can transform your next steel project.",
+    "video_id": "0V_AeTui_HY",
+    "url": "https://youtu.be/0V_AeTui_HY",
+    "published_at": "2026-11-19T22:44:06.877668+00:00",
+    "duration_seconds": 60.65,
+    "perf": {}
   }
 ]
