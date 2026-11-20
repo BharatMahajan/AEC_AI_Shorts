@@ -3923,5 +3923,30 @@
     "published_at": "2026-11-19T22:44:06.877668+00:00",
     "duration_seconds": 60.65,
     "perf": {}
+  },
+  {
+    "date": "2026-11-20",
+    "bucket": "coordination_clash",
+    "feature_fingerprint": "coordination_clash:automated clash grouping",
+    "title": "AI for Faster Clash Resolution",
+    "title_variants": [
+      "Automated Clash Grouping in AEC",
+      "Navisworks AI: Streamline Clashes"
+    ],
+    "hook_style": "pain_point",
+    "script_lines": [
+      "Are manual clash review sessions bogging down your coordination process, forcing engineers to sift through hundreds, even thousands, of individual clashes?",
+      "AI is changing this, specifically with automated clash grouping. Instead of wading through a raw list, AI algorithms intelligently analyze clash results, identifying geometric similarities, spatial proximity, and even systems involved.",
+      "Tools like Autodesk Navisworks are leveraging this, automatically consolidating numerous discrete clashes into logical, actionable groups.",
+      "Think about it: a single grouped 'MEP-Structural Interference' item replaces dozens of individual duct-to-beam clashes.",
+      "This can cut your coordination review time by upwards of 40%, letting your team focus on resolving critical issues faster, and significantly reducing rework on site.",
+      "Ready to streamline your coordination workflows? Explore Navisworks' grouping capabilities."
+    ],
+    "narration": "Tired of sifting through thousands of individual clashes manually? Are manual clash review sessions bogging down your coordination process, forcing engineers to sift through hundreds, even thousands, of individual clashes? AI is changing this, specifically with automated clash grouping. Instead of wading through a raw list, AI algorithms intelligently analyze clash results, identifying geometric similarities, spatial proximity, and even systems involved. Tools like Autodesk Navisworks are leveraging this, automatically consolidating numerous discrete clashes into logical, actionable groups. Think about it: a single grouped 'MEP-Structural Interference' item replaces dozens of individual duct-to-beam clashes. This can cut your coordination review time by upwards of 40%, letting your team focus on resolving critical issues faster, and significantly reducing rework on site. Ready to streamline your coordination workflows? Explore Navisworks' grouping capabilities.",
+    "video_id": "CIQpBS-RYZo",
+    "url": "https://youtu.be/CIQpBS-RYZo",
+    "published_at": "2026-11-20T22:18:11.566457+00:00",
+    "duration_seconds": 58.87,
+    "perf": {}
   }
 ]
