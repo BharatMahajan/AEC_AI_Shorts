@@ -3979,5 +3979,31 @@
     "published_at": "2026-11-21T11:35:12.079764+00:00",
     "duration_seconds": 57.72,
     "perf": {}
+  },
+  {
+    "date": "2026-11-21",
+    "bucket": "cad",
+    "feature_fingerprint": "cad:smart blocks placement prediction",
+    "title": "AI in CAD: Predictive Block Placement",
+    "title_variants": [
+      "AutoCAD Smart Blocks: AI-Powered Placement",
+      "Smarter CAD with AI: Auto-Suggesting Blocks"
+    ],
+    "hook_style": "future_tease",
+    "script_lines": [
+      "Tired of manually placing CAD blocks? Doors, windows, electrical symbols \u2013 repetitive, yet critical.",
+      "What if your software *predicted* optimal placement before you even click?",
+      "AutoCAD's Smart Blocks use machine learning. It analyzes drawing geometry, anticipating and suggesting precise insertion points and orientations, learning your patterns.",
+      "For doors, it intelligently detects wall openings, proposing correct alignment and hinge automatically.",
+      "This AI ensures consistent accuracy. Engineers report a **20-30% reduction in time on routine block placement**, minimizing errors and enforcing standards.",
+      "Focus on design, not tedious clicks.",
+      "Ready to boost drafting efficiency and precision? Explore AutoCAD Smart Blocks and transform your CAD workflows today!"
+    ],
+    "narration": "What if your CAD software could predict your next move? Tired of manually placing CAD blocks? Doors, windows, electrical symbols \u2013 repetitive, yet critical. What if your software *predicted* optimal placement before you even click? AutoCAD's Smart Blocks use machine learning. It analyzes drawing geometry, anticipating and suggesting precise insertion points and orientations, learning your patterns. For doors, it intelligently detects wall openings, proposing correct alignment and hinge automatically. This AI ensures consistent accuracy. Engineers report a **20-30% reduction in time on routine block placement**, minimizing errors and enforcing standards. Focus on design, not tedious clicks. Ready to boost drafting efficiency and precision? Explore AutoCAD Smart Blocks and transform your CAD workflows today!",
+    "video_id": "V6UfA4dYCLE",
+    "url": "https://youtu.be/V6UfA4dYCLE",
+    "published_at": "2026-11-21T20:59:18.720038+00:00",
+    "duration_seconds": 53.95,
+    "perf": {}
   }
 ]
