@@ -3948,5 +3948,36 @@
     "published_at": "2026-11-20T22:18:11.566457+00:00",
     "duration_seconds": 58.87,
     "perf": {}
+  },
+  {
+    "date": "2026-11-21",
+    "bucket": "transport",
+    "feature_fingerprint": "transport:ml traffic flow prediction",
+    "title": "AI Predicts Traffic Flow: Reduce Delays Now!",
+    "title_variants": [
+      "AI for Transport: ML Traffic Prediction",
+      "Beat Congestion with AI Traffic Modeling",
+      "Engineers: Predict Traffic Jams with AI"
+    ],
+    "hook_style": "bold_claim",
+    "script_lines": [
+      "You are underestimating how accurately AI can predict future traffic flow!",
+      "For transport engineers, anticipating traffic patterns now goes beyond historical data.",
+      "Machine learning models are revolutionizing traffic flow prediction.",
+      "By integrating real-time sensor feeds, incident reports, and even weather patterns,",
+      "ML-enhanced traffic modeling software now generates highly accurate short-term predictions.",
+      "This allows us to proactively identify potential choke points hours or even days in advance.",
+      "Imagine optimizing signal timings or rerouting strategies *before* peak congestion hits.",
+      "This predictive capability can reduce peak hour delays by up to 15-20% through dynamic traffic management.",
+      "Ready to transform your urban mobility projects?",
+      "Explore how AI-driven traffic solutions can benefit your next project.",
+      "Visit our website for more details!"
+    ],
+    "narration": "You are underestimating how accurately AI can predict future traffic flow! You are underestimating how accurately AI can predict future traffic flow! For transport engineers, anticipating traffic patterns now goes beyond historical data. Machine learning models are revolutionizing traffic flow prediction. By integrating real-time sensor feeds, incident reports, and even weather patterns, ML-enhanced traffic modeling software now generates highly accurate short-term predictions. This allows us to proactively identify potential choke points hours or even days in advance. Imagine optimizing signal timings or rerouting strategies *before* peak congestion hits. This predictive capability can reduce peak hour delays by up to 15-20% through dynamic traffic management. Ready to transform your urban mobility projects? Explore how AI-driven traffic solutions can benefit your next project. Visit our website for more details!",
+    "video_id": "UEYE9iYiNEc",
+    "url": "https://youtu.be/UEYE9iYiNEc",
+    "published_at": "2026-11-21T11:35:12.079764+00:00",
+    "duration_seconds": 57.72,
+    "perf": {}
   }
 ]
