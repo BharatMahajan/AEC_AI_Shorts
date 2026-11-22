@@ -4005,5 +4005,32 @@
     "published_at": "2026-11-21T20:59:18.720038+00:00",
     "duration_seconds": 53.95,
     "perf": {}
+  },
+  {
+    "date": "2026-11-22",
+    "bucket": "docs_specs",
+    "feature_fingerprint": "docs_specs:automated submittal review",
+    "title": "AI: Submittal Review in Days",
+    "title_variants": [
+      "AI Speeds Submittal Review",
+      "Automated Submittals: Weeks to Days",
+      "AI Transforms Submittal Workflows"
+    ],
+    "hook_style": "future_tease",
+    "script_lines": [
+      "What if submittal review consistently took days, not weeks? Soon, this won't be hypothetical.",
+      "AI is transforming AEC document workflows. Focus on automated submittal review \u2013 a feature increasingly integrated into leading Common Data Environments.",
+      "Imagine an 'AI Submittal Checker' module instantly cross-referencing incoming submittal packages against specifications, drawings, and contract requirements.",
+      "It autonomously flags non-conformances, missing items, and potential conflicts for immediate action.",
+      "The quantified benefit? Expect a 30-50% reduction in review cycle times, freeing engineers for higher-value tasks.",
+      "It also drastically cuts ambiguous RFIs by proactively identifying gaps.",
+      "Ready to accelerate approvals and optimize project delivery? Explore AI-powered submittal review today!"
+    ],
+    "narration": "What if submittal review consistently took days, not weeks? What if submittal review consistently took days, not weeks? Soon, this won't be hypothetical. AI is transforming AEC document workflows. Focus on automated submittal review \u2013 a feature increasingly integrated into leading Common Data Environments. Imagine an 'AI Submittal Checker' module instantly cross-referencing incoming submittal packages against specifications, drawings, and contract requirements. It autonomously flags non-conformances, missing items, and potential conflicts for immediate action. The quantified benefit? Expect a 30-50% reduction in review cycle times, freeing engineers for higher-value tasks. It also drastically cuts ambiguous RFIs by proactively identifying gaps. Ready to accelerate approvals and optimize project delivery? Explore AI-powered submittal review today!",
+    "video_id": "BnMCwqvaF-c",
+    "url": "https://youtu.be/BnMCwqvaF-c",
+    "published_at": "2026-11-22T11:49:40.006098+00:00",
+    "duration_seconds": 56.9,
+    "perf": {}
   }
 ]
