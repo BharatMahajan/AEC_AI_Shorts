@@ -4032,5 +4032,29 @@
     "published_at": "2026-11-22T11:49:40.006098+00:00",
     "duration_seconds": 56.9,
     "perf": {}
+  },
+  {
+    "date": "2026-11-22",
+    "bucket": "water_environmental",
+    "feature_fingerprint": "water_environmental:ai leakage detection in networks",
+    "title": "AI Stops Water Leaks: The Future of Water Management",
+    "title_variants": [
+      "AI for Water: Smart Leak Detection",
+      "Plug the Leaks: AI in Hydraulic Models",
+      "Non-Revenue Water: AI's Solution"
+    ],
+    "hook_style": "shocking_stat",
+    "script_lines": [
+      "This massive loss strains resources and budgets. Traditional leak detection is reactive and costly. What if AI could proactively pinpoint leaks before they escalate?",
+      "AI-driven leakage detection integrates with your hydraulic models, like Bentley's OpenFlows WaterGEMS. Machine learning analyzes real-time SCADA, pressure, and flow data. This AI learns normal network behavior, identifying subtle pressure drops and unusual flow patterns to predict leak locations with high accuracy.",
+      "This reduces non-revenue water losses by 15-20% annually. Saves energy, prevents major disruptions, and extends asset life by catching minor leaks for precise repairs.",
+      "Ready to optimize water infrastructure? Explore AI leakage detection."
+    ],
+    "narration": "Up to 30% of treated water is lost to leakage globally! That\u2019s billions of gallons wasted daily! This massive loss strains resources and budgets. Traditional leak detection is reactive and costly. What if AI could proactively pinpoint leaks before they escalate? AI-driven leakage detection integrates with your hydraulic models, like Bentley's OpenFlows WaterGEMS. Machine learning analyzes real-time SCADA, pressure, and flow data. This AI learns normal network behavior, identifying subtle pressure drops and unusual flow patterns to predict leak locations with high accuracy. This reduces non-revenue water losses by 15-20% annually. Saves energy, prevents major disruptions, and extends asset life by catching minor leaks for precise repairs. Ready to optimize water infrastructure? Explore AI leakage detection.",
+    "video_id": "uevlqRddaTU",
+    "url": "https://youtu.be/uevlqRddaTU",
+    "published_at": "2026-11-22T21:09:11.269173+00:00",
+    "duration_seconds": 53.64,
+    "perf": {}
   }
 ]
