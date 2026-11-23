@@ -4056,5 +4056,32 @@
     "published_at": "2026-11-22T21:09:11.269173+00:00",
     "duration_seconds": 53.64,
     "perf": {}
+  },
+  {
+    "date": "2026-11-23",
+    "bucket": "structural",
+    "feature_fingerprint": "structural:ai member sizing optimization",
+    "title": "AI: Optimize Your Structural Member Sizing",
+    "title_variants": [
+      "Structural Design: AI Member Optimization",
+      "Cut Costs with AI Structural Sizing"
+    ],
+    "hook_style": "shocking_stat",
+    "script_lines": [
+      "For years, structural engineers have relied on experience and iterative calculations to size beams and columns.",
+      "This manual process is time-consuming and often conservative, adding unnecessary material and cost to projects.",
+      "But now, AI member sizing optimization, integrated into advanced structural analysis software, is changing the game.",
+      "These intelligent algorithms analyze complex load paths, material properties, and building codes to explore thousands of design permutations in seconds.",
+      "They pinpoint the most efficient cross-sections for concrete beams, steel columns, and other structural elements, minimizing weight and cost while ensuring safety and full code compliance.",
+      "Imagine reducing steel tonnage by 12% or concrete volume by 15% across a large commercial build.",
+      "That\u2019s a significant cut in material waste and project timelines, translating to millions in value engineering for your clients.",
+      "What are your thoughts on integrating AI into your structural workflows? Share your insights below!"
+    ],
+    "narration": "Did you know traditional structural design often over-engineers members by 10-15%, leading to millions in wasted materials?! For years, structural engineers have relied on experience and iterative calculations to size beams and columns. This manual process is time-consuming and often conservative, adding unnecessary material and cost to projects. But now, AI member sizing optimization, integrated into advanced structural analysis software, is changing the game. These intelligent algorithms analyze complex load paths, material properties, and building codes to explore thousands of design permutations in seconds. They pinpoint the most efficient cross-sections for concrete beams, steel columns, and other structural elements, minimizing weight and cost while ensuring safety and full code compliance. Imagine reducing steel tonnage by 12% or concrete volume by 15% across a large commercial build. That\u2019s a significant cut in material waste and project timelines, translating to millions in value engineering for your clients. What are your thoughts on integrating AI into your structural workflows? Share your insights below!",
+    "video_id": "oPldlHWxaSU",
+    "url": "https://youtu.be/oPldlHWxaSU",
+    "published_at": "2026-11-23T13:29:22.193266+00:00",
+    "duration_seconds": 68.95,
+    "perf": {}
   }
 ]
