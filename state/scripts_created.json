@@ -4107,5 +4107,31 @@
     "published_at": "2026-11-24T02:41:29.641841+00:00",
     "duration_seconds": 59.47,
     "perf": {}
+  },
+  {
+    "date": "2026-11-24",
+    "bucket": "docs_specs",
+    "feature_fingerprint": "docs_specs:drawing-to-text extraction",
+    "title": "AI for RFIs: Revolutionizing Drawing Extraction",
+    "title_variants": [
+      "AI Powered RFI Drafting",
+      "Intelligent Drawing-to-Text for RFIs"
+    ],
+    "hook_style": "bold_claim",
+    "script_lines": [
+      "Engineers, tired of manually typing RFIs from project drawings, wasting hours extracting details from PDFs? That workflow is history.",
+      "But AI can do it instantly with intelligent drawing-to-text extraction.",
+      "This isn't basic OCR. Advanced AI identifies and pulls precise data: dimensions, material callouts, equipment tags, and notes, directly from your design drawings.",
+      "Select a drawing detail. AI automatically populates your draft RFI with relevant text and references, integrating with platforms like Procore or Autodesk Build.",
+      "This cuts RFI creation time by over 65%, turning hours of data entry into minutes, while drastically minimizing transcription errors.",
+      "Faster RFIs mean quicker answers, keeping your complex AEC projects on schedule.",
+      "Accelerate your RFI process! Ask your software vendor about AI drawing extraction features today."
+    ],
+    "narration": "Stop manually drafting RFIs from drawings \u2013 AI just made it obsolete! Engineers, tired of manually typing RFIs from project drawings, wasting hours extracting details from PDFs? That workflow is history. But AI can do it instantly with intelligent drawing-to-text extraction. This isn't basic OCR. Advanced AI identifies and pulls precise data: dimensions, material callouts, equipment tags, and notes, directly from your design drawings. Select a drawing detail. AI automatically populates your draft RFI with relevant text and references, integrating with platforms like Procore or Autodesk Build. This cuts RFI creation time by over 65%, turning hours of data entry into minutes, while drastically minimizing transcription errors. Faster RFIs mean quicker answers, keeping your complex AEC projects on schedule. Accelerate your RFI process! Ask your software vendor about AI drawing extraction features today.",
+    "video_id": "nempMk5AElE",
+    "url": "https://youtu.be/nempMk5AElE",
+    "published_at": "2026-11-24T14:07:05.963367+00:00",
+    "duration_seconds": 61.37,
+    "perf": {}
   }
 ]
