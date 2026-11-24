@@ -4083,5 +4083,29 @@
     "published_at": "2026-11-23T13:29:22.193266+00:00",
     "duration_seconds": 68.95,
     "perf": {}
+  },
+  {
+    "date": "2026-11-24",
+    "bucket": "cad",
+    "feature_fingerprint": "cad:markup assist for digitizing redlines",
+    "title": "AutoCAD's AI Redline Revolution",
+    "title_variants": [
+      "Markup Assist: Digitize Redlines with AI",
+      "Speed Up CAD Revisions with AI",
+      "AI in CAD: Automate Markup Integration"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "Are manual redline revisions eating up your valuable CAD time? Traditionally, integrating physical or PDF markups into your DWG files meant hours of tedious, error-prone transcription. But what if AI could automate that?",
+      "Enter AutoCAD's Markup Assist. This powerful AI feature leverages machine learning to automatically identify and import markups from scanned PDFs or images directly into your drawing. It intelligently recognizes text, revision clouds, and common symbols.",
+      "Once overlaid, you convert these digital markups to actual AutoCAD objects like text or revision clouds with a click.",
+      "Imagine reducing the time spent digitizing revisions by up to 50%. This frees up your engineers for higher-value design tasks, accelerating project delivery and minimizing rework. Ready to transform your CAD workflow? Explore Markup Assist in AutoCAD today."
+    ],
+    "narration": "Are manual redline revisions eating up your valuable CAD time? Are manual redline revisions eating up your valuable CAD time? Traditionally, integrating physical or PDF markups into your DWG files meant hours of tedious, error-prone transcription. But what if AI could automate that? Enter AutoCAD's Markup Assist. This powerful AI feature leverages machine learning to automatically identify and import markups from scanned PDFs or images directly into your drawing. It intelligently recognizes text, revision clouds, and common symbols. Once overlaid, you convert these digital markups to actual AutoCAD objects like text or revision clouds with a click. Imagine reducing the time spent digitizing revisions by up to 50%. This frees up your engineers for higher-value design tasks, accelerating project delivery and minimizing rework. Ready to transform your CAD workflow? Explore Markup Assist in AutoCAD today.",
+    "video_id": "6SHsVnPc7oM",
+    "url": "https://youtu.be/6SHsVnPc7oM",
+    "published_at": "2026-11-24T02:41:29.641841+00:00",
+    "duration_seconds": 59.47,
+    "perf": {}
   }
 ]
