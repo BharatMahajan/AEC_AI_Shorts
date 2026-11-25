@@ -4160,5 +4160,33 @@
     "published_at": "2026-11-24T23:59:56.533616+00:00",
     "duration_seconds": 69.91,
     "perf": {}
+  },
+  {
+    "date": "2026-11-25",
+    "bucket": "mep",
+    "feature_fingerprint": "mep:ml energy-use prediction",
+    "title": "AI for MEP: Predictive Energy Insights",
+    "title_variants": [
+      "MEP Design: AI Predicts Your Energy Future!",
+      "Unlock 20% Energy Savings with AI-Powered MEP",
+      "Real-time Energy Prediction in Your MEP Workflow"
+    ],
+    "hook_style": "future_tease",
+    "script_lines": [
+      "Traditional energy modeling is critical but often an iterative bottleneck.",
+      "AI-powered machine learning is changing this, offering real-time energy-use prediction directly within your design workflow.",
+      "Picture 'Predictive Energy Insights' integrated into your MEP routing tools, like Revit.",
+      "This AI trains on massive datasets: historical building performance, climate, and material properties.",
+      "As you route ductwork and piping, it instantly assesses the impact of layouts, insulation, and system types on projected energy consumption.",
+      "It's dynamic, proactive prediction, allowing you to optimize designs to slash operational energy costs by up to 20% before installation.",
+      "Move beyond reactive analysis to data-driven MEP design.",
+      "Discover how ML energy prediction can revolutionize your next project!"
+    ],
+    "narration": "What if your MEP designs could predict their energy footprint *before* construction, accurately every time?! Traditional energy modeling is critical but often an iterative bottleneck. AI-powered machine learning is changing this, offering real-time energy-use prediction directly within your design workflow. Picture 'Predictive Energy Insights' integrated into your MEP routing tools, like Revit. This AI trains on massive datasets: historical building performance, climate, and material properties. As you route ductwork and piping, it instantly assesses the impact of layouts, insulation, and system types on projected energy consumption. It's dynamic, proactive prediction, allowing you to optimize designs to slash operational energy costs by up to 20% before installation. Move beyond reactive analysis to data-driven MEP design. Discover how ML energy prediction can revolutionize your next project!",
+    "video_id": "ko007XbIMR0",
+    "url": "https://youtu.be/ko007XbIMR0",
+    "published_at": "2026-11-25T13:20:59.836207+00:00",
+    "duration_seconds": 55.37,
+    "perf": {}
   }
 ]
