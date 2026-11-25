@@ -4133,5 +4133,32 @@
     "published_at": "2026-11-24T14:07:05.963367+00:00",
     "duration_seconds": 61.37,
     "perf": {}
+  },
+  {
+    "date": "2026-11-24",
+    "bucket": "water_environmental",
+    "feature_fingerprint": "water_environmental:ml treatment-plant process optimization",
+    "title": "Boost Your Plant: AI for Treatment Optimization",
+    "title_variants": [
+      "AI Supercharges Treatment Plant Efficiency",
+      "ML Transforms Water Treatment Operations"
+    ],
+    "hook_style": "pain_point",
+    "script_lines": [
+      "Struggling to consistently optimize your wastewater treatment plant's performance against fluctuating loads and ever-tightening regulatory limits?",
+      "Traditional SCADA control systems react. AI predicts.",
+      "Machine learning models are now transforming treatment plant process optimization.",
+      "These advanced ML models ingest vast streams of real-time sensor data \u2013 like influent flow, nutrient levels, dissolved oxygen, and pH \u2013 integrating them with historical operational data.",
+      "They then leverage the predictive power of calibrated hydraulic and process models, like those built in tools such as Giswater's Water Management System, to simulate dynamic conditions.",
+      "This allows them to autonomously recommend optimal chemical dosing, aeration rates, and sludge wasting strategies before excursions occur.",
+      "This proactive approach delivers significant operational efficiencies. We're seeing concrete benefits like reducing chemical consumption by 10-15%, cutting aeration energy costs by up to 20%, and ensuring continuous regulatory compliance, avoiding costly penalties.",
+      "Ready to boost your plant's intelligence and resilience? Explore how integrating ML into your operations can deliver tangible, measurable benefits."
+    ],
+    "narration": "Struggling to consistently optimize your wastewater treatment plant's performance? Struggling to consistently optimize your wastewater treatment plant's performance against fluctuating loads and ever-tightening regulatory limits? Traditional SCADA control systems react. AI predicts. Machine learning models are now transforming treatment plant process optimization. These advanced ML models ingest vast streams of real-time sensor data \u2013 like influent flow, nutrient levels, dissolved oxygen, and pH \u2013 integrating them with historical operational data. They then leverage the predictive power of calibrated hydraulic and process models, like those built in tools such as Giswater's Water Management System, to simulate dynamic conditions. This allows them to autonomously recommend optimal chemical dosing, aeration rates, and sludge wasting strategies before excursions occur. This proactive approach delivers significant operational efficiencies. We're seeing concrete benefits like reducing chemical consumption by 10-15%, cutting aeration energy costs by up to 20%, and ensuring continuous regulatory compliance, avoiding costly penalties. Ready to boost your plant's intelligence and resilience? Explore how integrating ML into your operations can deliver tangible, measurable benefits.",
+    "video_id": "Z_gmNGBs7Yg",
+    "url": "https://youtu.be/Z_gmNGBs7Yg",
+    "published_at": "2026-11-24T23:59:56.533616+00:00",
+    "duration_seconds": 69.91,
+    "perf": {}
   }
 ]
