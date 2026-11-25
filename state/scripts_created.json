@@ -4188,5 +4188,35 @@
     "published_at": "2026-11-25T13:20:59.836207+00:00",
     "duration_seconds": 55.37,
     "perf": {}
+  },
+  {
+    "date": "2026-11-25",
+    "bucket": "reality_capture",
+    "feature_fingerprint": "reality_capture:automated scan-to-bim from point clouds",
+    "title": "AI Scan-to-BIM: Hours, Not Weeks",
+    "title_variants": [
+      "Automated Scan-to-BIM: AI Transforms Reality Capture",
+      "Point Cloud to BIM: The AI Revolution",
+      "Unlock Faster As-Builts with AI Scan-to-BIM"
+    ],
+    "hook_style": "future_tease",
+    "script_lines": [
+      "That tedious, error-prone process is about to become a distant memory.",
+      "But what if AI could automate this?",
+      "Using advanced machine learning, specialized software like ClearEdge3D's EdgeWise now autonomously processes raw point cloud data.",
+      "It intelligently identifies walls, doors, windows, structural elements, and even complex MEP components,",
+      "converting them directly into accurate, parametric BIM objects.",
+      "This isn't just a minor improvement; it cuts traditional Scan-to-BIM modeling time by an average of 50 to 70 percent.",
+      "Imagine accelerating as-built documentation, reducing rework, and kicking off design much faster, all while improving model accuracy.",
+      "Generating a fully clash-detectable, information-rich model from a laser scan in hours, not weeks, is now a reality.",
+      "Explore how automated Scan-to-BIM can transform your project workflows.",
+      "What opportunities could this unlock for your team?"
+    ],
+    "narration": "Tired of weeks spent manually modeling as-builts from laser scan data? That tedious, error-prone process is about to become a distant memory. But what if AI could automate this? Using advanced machine learning, specialized software like ClearEdge3D's EdgeWise now autonomously processes raw point cloud data. It intelligently identifies walls, doors, windows, structural elements, and even complex MEP components, converting them directly into accurate, parametric BIM objects. This isn't just a minor improvement; it cuts traditional Scan-to-BIM modeling time by an average of 50 to 70 percent. Imagine accelerating as-built documentation, reducing rework, and kicking off design much faster, all while improving model accuracy. Generating a fully clash-detectable, information-rich model from a laser scan in hours, not weeks, is now a reality. Explore how automated Scan-to-BIM can transform your project workflows. What opportunities could this unlock for your team?",
+    "video_id": "h4soscmHy5g",
+    "url": "https://youtu.be/h4soscmHy5g",
+    "published_at": "2026-11-25T23:43:39.292745+00:00",
+    "duration_seconds": 60.77,
+    "perf": {}
   }
 ]
