@@ -4248,5 +4248,35 @@
     "published_at": "2026-11-26T13:00:16.613018+00:00",
     "duration_seconds": 56.62,
     "perf": {}
+  },
+  {
+    "date": "2026-11-26",
+    "bucket": "reality_capture",
+    "feature_fingerprint": "reality_capture:ml object classification in scans",
+    "title": "AI for Intelligent Point Clouds",
+    "title_variants": [
+      "Automated Point Cloud Classification",
+      "Unlock Your Reality Capture Data"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "Still manually identifying every column, beam, or pipe in your point cloud scans?",
+      "Turning raw reality capture into usable digital twins is a huge bottleneck.",
+      "Manually sifting billions of points to tag elements is tedious, error-prone, and wastes massive time.",
+      "What if AI could automate this?",
+      "Modern point cloud software leverages machine learning for advanced object classification.",
+      "This AI feature autonomously detects and categorizes AEC elements in your point cloud.",
+      "Autodesk ReCap Pro, for example, swiftly classifies structural components, MEP systems, or building materials.",
+      "It's intelligent data, faster.",
+      "ML classification reduces manual processing time by over 70%, accelerating BIM authoring and facility management by days.",
+      "Stop the manual grind.",
+      "Start leveraging ML object classification for smarter reality capture today!"
+    ],
+    "narration": "Still manually identifying every column, beam, or pipe in your point cloud scans? Still manually identifying every column, beam, or pipe in your point cloud scans? Turning raw reality capture into usable digital twins is a huge bottleneck. Manually sifting billions of points to tag elements is tedious, error-prone, and wastes massive time. What if AI could automate this? Modern point cloud software leverages machine learning for advanced object classification. This AI feature autonomously detects and categorizes AEC elements in your point cloud. Autodesk ReCap Pro, for example, swiftly classifies structural components, MEP systems, or building materials. It's intelligent data, faster. ML classification reduces manual processing time by over 70%, accelerating BIM authoring and facility management by days. Stop the manual grind. Start leveraging ML object classification for smarter reality capture today!",
+    "video_id": "4gjSH0k3QNw",
+    "url": "https://youtu.be/4gjSH0k3QNw",
+    "published_at": "2026-11-26T23:56:53.451513+00:00",
+    "duration_seconds": 61.1,
+    "perf": {}
   }
 ]
