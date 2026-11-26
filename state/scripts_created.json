@@ -4218,5 +4218,35 @@
     "published_at": "2026-11-25T23:43:39.292745+00:00",
     "duration_seconds": 60.77,
     "perf": {}
+  },
+  {
+    "date": "2026-11-26",
+    "bucket": "transport",
+    "feature_fingerprint": "transport:pavement-distress detection from imagery",
+    "title": "AI for Pavement Distress: Faster Road Assessments",
+    "title_variants": [
+      "AI Transforms Pavement Inspections",
+      "Smart Roads: AI Pavement Detection",
+      "Boost Road Network Efficiency with AI"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "Manual assessments are costly, time-consuming, and delay critical maintenance for road networks.",
+      "Imagine evaluating your entire road network rapidly with precise, objective data.",
+      "AI-powered pavement distress detection changes everything.",
+      "Using high-resolution imagery from drones or vehicle-mounted systems, AI models instantly classify distresses: cracks, rutting, potholes.",
+      "It quantifies severity and provides precise, geo-tagged insights.",
+      "Integrating this with Esri ArcGIS provides real-time pavement health data.",
+      "This slashes manual inspection time by up to 70% and boosts maintenance budget allocation by 20%.",
+      "This detailed data also directly enhances traffic modeling.",
+      "Optimize schedules, minimize traffic impact, and predict long-term infrastructure resilience.",
+      "Transform your pavement management with AI today!"
+    ],
+    "narration": "Are outdated pavement inspections slowing your transport projects? Manual assessments are costly, time-consuming, and delay critical maintenance for road networks. Imagine evaluating your entire road network rapidly with precise, objective data. AI-powered pavement distress detection changes everything. Using high-resolution imagery from drones or vehicle-mounted systems, AI models instantly classify distresses: cracks, rutting, potholes. It quantifies severity and provides precise, geo-tagged insights. Integrating this with Esri ArcGIS provides real-time pavement health data. This slashes manual inspection time by up to 70% and boosts maintenance budget allocation by 20%. This detailed data also directly enhances traffic modeling. Optimize schedules, minimize traffic impact, and predict long-term infrastructure resilience. Transform your pavement management with AI today!",
+    "video_id": "fwp6HDhCJN4",
+    "url": "https://youtu.be/fwp6HDhCJN4",
+    "published_at": "2026-11-26T13:00:16.613018+00:00",
+    "duration_seconds": 56.62,
+    "perf": {}
   }
 ]
