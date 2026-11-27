@@ -4278,5 +4278,32 @@
     "published_at": "2026-11-26T23:56:53.451513+00:00",
     "duration_seconds": 61.1,
     "perf": {}
+  },
+  {
+    "date": "2026-11-27",
+    "bucket": "docs_specs",
+    "feature_fingerprint": "docs_specs:llm rfi drafting and response",
+    "title": "AI for RFIs: Draft and Respond Faster in AEC",
+    "title_variants": [
+      "Speed Up RFIs with AI-Powered LLMs",
+      "AI Transforms Your RFI Workflow",
+      "LLMs for Smarter AEC Document Management"
+    ],
+    "hook_style": "question",
+    "script_lines": [
+      "Are manual RFI processes bottlenecking your AEC projects?",
+      "Drafting and responding consumes valuable engineering time, often causing delays.",
+      "Modern AI-powered RFI features, leveraging large language models, are transforming this.",
+      "For drafting, highlight a drawing detail or spec. AI instantly drafts a precise RFI, with context and suggested questions.",
+      "When responding, AI scans project documents \u2013 drawings, specs, submittals \u2013 to propose accurate, referenced answers, eliminating tedious manual searches.",
+      "Teams using AI RFI tools reduce drafting time over 40% and accelerate response cycles by two days. This boosts project efficiency.",
+      "Stop sifting. Start streamlining. Explore AI RFI solutions to keep your projects on schedule. Learn more!"
+    ],
+    "narration": "Are manual RFI processes bottlenecking your AEC projects? Are manual RFI processes bottlenecking your AEC projects? Drafting and responding consumes valuable engineering time, often causing delays. Modern AI-powered RFI features, leveraging large language models, are transforming this. For drafting, highlight a drawing detail or spec. AI instantly drafts a precise RFI, with context and suggested questions. When responding, AI scans project documents \u2013 drawings, specs, submittals \u2013 to propose accurate, referenced answers, eliminating tedious manual searches. Teams using AI RFI tools reduce drafting time over 40% and accelerate response cycles by two days. This boosts project efficiency. Stop sifting. Start streamlining. Explore AI RFI solutions to keep your projects on schedule. Learn more!",
+    "video_id": "08ewMBESjQE",
+    "url": "https://youtu.be/08ewMBESjQE",
+    "published_at": "2026-11-27T23:39:05.935930+00:00",
+    "duration_seconds": 56.93,
+    "perf": {}
   }
 ]
