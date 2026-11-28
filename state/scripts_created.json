@@ -4305,5 +4305,32 @@
     "published_at": "2026-11-27T23:39:05.935930+00:00",
     "duration_seconds": 56.93,
     "perf": {}
+  },
+  {
+    "date": "2026-11-28",
+    "bucket": "site_ops",
+    "feature_fingerprint": "site_ops:drone progress capture",
+    "title": "AI Drones: Your Site's Smart Reporter",
+    "title_variants": [
+      "Drone Vision: AI for Site Progress",
+      "Boost Site Progress with Drone AI",
+      "Next-Gen Site Ops: AI-Powered Drones"
+    ],
+    "hook_style": "future_tease",
+    "script_lines": [
+      "Manual progress tracking wastes valuable time, often leading to reactive problem-solving.",
+      "But **AI-powered computer vision**, paired with drone capture, changes this.",
+      "Drones capture high-resolution imagery. **Computer vision algorithms** then analyze this visual data, comparing actual conditions against your 4D schedule.",
+      "It delivers **automated progress assessment**, tracking completion of pours or steel erection directly from visual evidence.",
+      "Crucially, it offers **early deviation detection**, highlighting discrepancies like missing rebar or incorrect placement weeks sooner.",
+      "The benefit? Reduce manual data processing by 60%, identify critical risks days earlier, saving hundreds of thousands in rework.",
+      "Optimize your site operations. Explore computer vision for intelligent project monitoring today!"
+    ],
+    "narration": "Imagine your project site reporting its own progress, flagging issues before they derail your critical path! Manual progress tracking wastes valuable time, often leading to reactive problem-solving. But **AI-powered computer vision**, paired with drone capture, changes this. Drones capture high-resolution imagery. **Computer vision algorithms** then analyze this visual data, comparing actual conditions against your 4D schedule. It delivers **automated progress assessment**, tracking completion of pours or steel erection directly from visual evidence. Crucially, it offers **early deviation detection**, highlighting discrepancies like missing rebar or incorrect placement weeks sooner. The benefit? Reduce manual data processing by 60%, identify critical risks days earlier, saving hundreds of thousands in rework. Optimize your site operations. Explore computer vision for intelligent project monitoring today!",
+    "video_id": "ELuKNytS6WI",
+    "url": "https://youtu.be/ELuKNytS6WI",
+    "published_at": "2026-11-28T12:09:16.248866+00:00",
+    "duration_seconds": 56.18,
+    "perf": {}
   }
 ]
